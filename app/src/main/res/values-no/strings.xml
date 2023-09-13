@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Åndelig Lernejo Stiftelse\nAlle rettigheter reservert</string>
+    <string name="nav_poems">Dagens dikt</string>
+    <string name="nav_settings">Instillinger</string>
+    <string name="nav_about">Om oss</string>
+    <string name="nav_use">Hvordan bruke</string>
+    <string name="logout">Logg ut</string>
+    <string name="account">Konto</string>
+    <string name="language">Språk</string>
+    <string name="user_interface">Dikt</string>
+    <string name="setting_poems">Tilleggsinstillinger</string>
+    <string name="additional_settings">Brukermeny</string>
+    <string name="repeat_song">Gjenta sang</string>
+    <string name="on">På</string>
+    <string name="off">Av</string>
+    <string name="wait_between_repeats">Tidsintervall mellom repetisjoner</string>
+    <string name="poems_for_day">Dagens Meiji Waka</string>
+    <string name="refresh_poem">Henter dikt fra serveren.</string>
+    <string name="logout_message">Ønsker du å logge ut?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nei</string>
+    <string name="change_language">Bytt språk</string>
+    <string name="save">Lagre</string>
+    <string name="cancel">Avbryt</string>
+    <string name="lang_english">Engelsk</string>
+    <string name="lang_japanese">Japansk</string>
+    <string name="lang_hungarian">Ungarsk</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Tysk</string>
+    <string name="lang_spanish">Spansk</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonesisk</string>
+    <string name="lang_malaysian">Malay</string>
+    <string name="lang_italian">Italiensk</string>
+    <string name="lang_french">Fransk</string>
+    <string name="lang_arabic">Arabisk</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Kinesisk (Mandarin)</string>
+    <string name="lang_portugese">Portugisisk</string>
+    <string name="lang_korean">Koreansk</string>
+    <string name="lang_vietnamese">Vietnamesisk</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasi</string>
+    <string name="lang_russian">Russisk</string>
+    <string name="lang_ukrainian">Ukrainsk</string>
+    <string name="lang_turkish">Tyrkisk</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Tsjekkisk</string>
+    <string name="lang_slovak">Slovakisk</string>
+    <string name="lang_slovenian">Slovensk</string>
+    <string name="lang_serbian">Serbisk</string>
+    <string name="lang_croatian">Kroatisk</string>
+    <string name="lang_romanian">Rumensk</string>
+    <string name="lang_swedish">Svensk</string>
+    <string name="lang_norwegian">Norsk</string>
+    <string name="lang_finnish">Finsk</string>
+    <string name="lang_danish">Dansk</string>
+    <string name="lang_dutch">Nederlandsk</string>
+    <string name="lang_polish">Polsk</string>
+    <string name="lang_albanian">Albansk</string>
+    <string name="lang_greek">Gresk</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somalsk</string>
+    <string name="lang_persian">Persisk</string>
+    <string name="lang_bulgarian">Bulgarsk</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Lever inn</string>
+    <string name="dialog_password_sent_message">Vi vil sende deg et nytt passord hvis du har en registrert konto hos oss</string>
+    <string name="internet_error">Kan ikke sende forespørsel. Kontroller Internett-tilkoblingen.</string>
+    <string name="valid_email">Skriv inn e-postadressen din</string>
+    <string name="valid_password">Skriv inn passordet ditt</string>
+    <string name="sing_in">Logg inn</string>
+    <string name="sign_in_continue">Logg inn for å fortsette</string>
+    <string name="password">Passord</string>
+    <string name="remember">Husk meg</string>
+    <string name="login">Log inn</string>
+    <string name="forgot_password">Glemt passord?</string>
+    <string name="wrong_credentials">Du har angitt feil legitimasjon</string>
+    <string name="seconds">S (sekunder)</string>
+    <string name="about_us_descript">"Utviklingen av denne appen har blitt overvåket av Reiki-mestere som hadde æren av å lære Reiki i Japan.
+
+For å praktisere Reiki riktig, mener vi det er viktig å være kjent med følgende, noe som kan være nyttig for utøvere av alle Reiki-skoler, siden grunnlaget er vanlig:
+
+1. Usui Senseis livshistorie
+2. Historien om Usui Reiki fra begynnelsen
+3. Nøyaktige oversettelser av Gokai
+4. Oversettelsen av første og andre del av Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (den fjerde delen av Usui Reiki Hikkei) for meditasjon
+6. Usui Reiki meditasjon
+
+Appen vår gir hjelp til å øve på det femte punktet. Vennligst utvid din daglige praksis ved å uttrykke takknemlighet mot Usui Reiki Ryoho Gakkai, dens tidligere og nåværende utøvere, og Masters for å opprettholde praksisen og for å beskytte og vokte Usui Reiki Ryoho i Japan til i dag.
+
+Veiledning til trening:
+Basert på læren til Master Usui og også vår erfaring, anbefaler vi å gjøre meditasjon to ganger om dagen, om morgenen og om kvelden, rett etter å ha våknet og før du legger deg. Varigheten er valgfri. Vennligst resiter Gokai på japansk eller på morsmålet ditt på slutten av meditasjonen. Etter det foreslår vi å takke Usui Reiki Ryoho Gakkai, som vi nevnte tidligere.
+
+Hvis du er en litterær oversetter og du finner feil i oversettelsene våre, kan du sende tilbakemeldingen din til daechong@protonmail.com slik at vi kan diskutere kommentaren din med oversettelseskontoret.
+
+Vi håper inderlig at appen vår vil hjelpe deg med din daglige praksis.
+"</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Bài thơ hôm nay</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="nav_about">Về chúng tôi</string>
+    <string name="nav_use">Cách sử dụng</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="account">Tài khoản</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="user_interface">Giao diện người dùng</string>
+    <string name="setting_poems">Bài thơ</string>
+    <string name="additional_settings">Cài đặt bổ sung</string>
+    <string name="repeat_song">Lặp lại bài hát</string>
+    <string name="on">Bật</string>
+    <string name="off">Tắt</string>
+    <string name="wait_between_repeats">Khoảng thời gian giữa các lần lặp lại</string>
+    <string name="poems_for_day">Meiji Waka của Ngày</string>
+    <string name="refresh_poem">Đang tải bài thơ từ máy chủ, vui lòng đợi…</string>
+    <string name="logout_message">Bạn có muốn đăng xuất không?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="change_language">Thay đổi ngôn ngữ</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Huỷ bỏ</string>
+    <string name="lang_english">Tiếng Anh</string>
+    <string name="lang_japanese">Tiếng Nhật</string>
+    <string name="lang_hungarian">Tiếng Hungary</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Tiếng Đức</string>
+    <string name="lang_spanish">Tiếng Tây Ban Nha</string>
+    <string name="lang_lao">Tiếng Lào</string>
+    <string name="lang_thai">Tiếng Thái</string>
+    <string name="lang_indonesian">Tiếng Indonesia</string>
+    <string name="lang_malaysian">Tiếng Malaysia</string>
+    <string name="lang_italian">Tiếng Ý</string>
+    <string name="lang_french">Tiếng Pháp</string>
+    <string name="lang_arabic">Tiếng Ả Rập</string>
+    <string name="lang_swahili">Tiếng Svaheli</string>
+    <string name="lang_chinese_mandarin">Tiếng Quan Thoại</string>
+    <string name="lang_portugese">Tiếng Bồ Đào Nha</string>
+    <string name="lang_korean">Tiếng Hàn Quốc</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_afrikaans">Tiếng Nam Phi</string>
+    <string name="lang_malagasy">Tiếng Malagasy</string>
+    <string name="lang_russian">Tiếng Nga</string>
+    <string name="lang_ukrainian">Tiếng Ukrainia</string>
+    <string name="lang_turkish">Tiếng Thổ Nhĩ Kỳ</string>
+    <string name="lang_urdu">Tiếng Urdu</string>
+    <string name="lang_czech">Tiếng Czeh</string>
+    <string name="lang_slovak">Tiếng Slovak</string>
+    <string name="lang_slovenian">Tiếng Slovenia</string>
+    <string name="lang_serbian">Tiếng Serbia</string>
+    <string name="lang_croatian">Tiếng Croatia</string>
+    <string name="lang_romanian">Tiếng Rumani</string>
+    <string name="lang_swedish">Tiếng Thụy Điển</string>
+    <string name="lang_norwegian">Tiếng Na Uy</string>
+    <string name="lang_finnish">Tiếng Finn</string>
+    <string name="lang_danish">Tiếng Đan Mạch</string>
+    <string name="lang_dutch">Tiếng Hà Lan</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Gửi</string>
+    <string name="dialog_password_sent_message">Chúng tôi sẽ gửi cho bạn một mật khẩu mới nếu bạn đã đăng ký tài khoản với chúng tôi</string>
+    <string name="internet_error">Không thể gửi yêu cầu. Xin vui lòng kiểm tra kết nối Internet của bạn.</string>
+    <string name="valid_email">Vui lòng điền địa chỉ email của bạn</string>
+    <string name="valid_password">Vui lòng điền mật khẩu</string>
+    <string name="sing_in">Đăng nhập</string>
+    <string name="sign_in_continue">Đăng nhập để tiếp tục</string>
+    <string name="password">Mật khẩu</string>
+    <string name="remember">Ghi nhớ tôi</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="wrong_credentials">Bạn đã nhập sai thông tin đăng nhập</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Quá trình phát triển của ứng dụng này đã được giám sát bởi các bậc thầy Reiki, những người có vinh dự được học Reiki ở Nhật Bản.
+
+Để thực hành Reiki đúng cách, chúng tôi tin rằng điều quan trọng là  mọi học viên của tất cả các trường dạy Reiki phải làm quen với những điều hữu ích sau đây, vì nền tảng là phổ biến:
+
+1. Câu chuyện cuộc đời của Sư phụ Usui
+2. Câu chuyện về Usui Reiki từ thuở khai sinh
+3. Bản dịch chính xác của Gokai
+4. Bản dịch phần thứ nhất và thứ hai của Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (phần thứ tư của Usui Reiki Hikkei) để thiền định
+6. Thiền Usui Reiki
+
+Ứng dụng của chúng tôi hỗ trợ thực hành điểm thứ năm. Xin hãy kéo dài việc luyện tập hàng ngày của bạn bằng cách bày tỏ lòng biết ơn đối với Usui Reiki Ryoho Gakkai, các học viên trong quá khứ và hiện tại, và các Bậc thầy đã duy trì việc luyện tập cũng như bảo vệ và gìn giữ Usui Reiki Ryoho ở Nhật Bản cho đến ngày nay.
+
+Hướng dẫn thực hành:
+Dựa trên những lời dạy của Sư phụ Usui và cũng như kinh nghiệm của chúng tôi, chúng tôi khuyên bạn nên thiền hai lần một ngày, vào buổi sáng và buổi tối, ngay sau khi thức dậy và trước khi đi ngủ. Thời gian tùy mỗi người. Vui lòng đọc lại Gokai bằng tiếng Nhật hoặc bằng ngôn ngữ mẹ đẻ của bạn khi kết thúc thiền định. Sau đó, chúng tôi đề nghị gửi lời cảm ơn đến Usui Reiki Ryoho Gakkai, như chúng tôi đã đề cập trước đó.
+
+Nếu bạn là một dịch giả văn học và bạn tìm thấy bất kỳ lỗi nào trong bản dịch của chúng tôi, vui lòng gửi phản hồi của bạn đến daechong@protonmail.com để chúng tôi có thể thảo luận về nhận xét của bạn đối với văn phòng dịch thuật.
+
+Chúng tôi chân thành hy vọng rằng ứng dụng của chúng tôi sẽ giúp bạn thực hành hàng ngày.
+    "</string>
+    <string name="lang_bulgarian">Người Bungari</string>
+    <string name="lang_persian">Tiếng Ba Tư</string>
+    <string name="lang_somali">Somali</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_greek">Người Hy Lạp</string>
+    <string name="lang_albanian">Người Albanian</string>
+    <string name="lang_polish">Đánh Bóng</string>
+</resources>

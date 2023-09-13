@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+
+    // SIGNIN
+    <string name="sing_in">Ensaluti</string>
+    <string name="sign_in_continue">Enigu viajn detalojn por ensaluti</string>
+    <string name="email">Retpoŝta adreso</string>
+    <string name="password">Pasvorto</string>
+    <string name="remember">Memoru min</string>
+    <string name="login">Mi eniras</string>
+    <string name="forgot_password">Forgesita pasvorto?</string>
+    <string name="change_language">Elekti lingvon</string>
+    <string name="wrong_credentials">Ni ne povis ensaluti per la informoj, kiujn vi donis</string>
+
+    // FORGOT PWD
+    <string name="dialog_sub">Sendu</string>
+    <string name="dialog_password_sent_message">Ni sendos al vi novan pasvorton se vi registriĝis ĉe ni per via retpoŝta adreso</string>
+    <string name="internet_error">Voko malsukcesis.  Bonvolu kontroli vian interretan konekton.</string>
+    <string name="valid_email">Bonvolu enigi vian retpoŝtan adreson</string>
+    <string name="valid_password">Bonvolu enigi vian pasvorton</string>
+
+    // SIDE MENU
+    <string name="nav_poems">Ĉiutaga waka poemo</string>
+    <string name="nav_settings">Agordojn</string>
+    <string name="nav_about">Pri la app</string>
+    <string name="nav_use">Gvidilo</string>
+    <string name="logout">Elsaluti</string>
+    <string name="logout_message">Ĉu vi certas, ke vi volas elsaluti?</string>
+    <string name="yes">Jes</string>
+    <string name="no">Ne</string>
+
+    // SETTINGS
+    <string name="account">Konto</string>
+    <string name="language">Lingvo de la menuo</string>
+    <string name="user_interface">Uzantinterfaco</string>
+    <string name="setting_poems">Poemoj</string>
+    <string name="additional_settings">Pliaj agordoj</string>
+    <string name="repeat_song">Voĉa ripeto</string>
+    <string name="on">Enŝaltante</string>
+    <string name="off">Malŝaltante</string>
+    <string name="wait_between_repeats">Paŭzi inter ripetoj</string>
+    <string name="seconds">s</string>
+
+    // HOME
+    <string name="poems_for_day">Poemoj ĉiutage</string>
+
+    // CHANGE LANGUAGE
+    <string name="save">Savo</string>
+    <string name="cancel">Reen</string>
+    <string name="lang_english">Angla</string>
+    <string name="lang_japanese">Japana</string>
+    <string name="lang_hungarian">Hungara</string>
+    <string name="lang_esperanto">Esperanto</string>
+
+    //ABOUT
+    <string name="about_us_descript">"
+La programadon de la aplikaĵo kontrolas tiaj majstroj de Reiki, kiuj havis eblon ellerni tiun kuracmetodon en Japanio.
+
+Ni opinias, ke por la ĝusta praktikado de Reiki nepre estas utile koni la sekvajn legindaĵojn:
+
+1. La vivo de Usui Sensei
+2. La historio de Usui Reiki
+3. La Gokai ĝuste
+4. Usui Reiki Hikkei Ĉapitroj 1-2
+5. Meiji Tenno Gjosei (Ĉapitro 4 de Usui Reiki Hikkei)
+6. Usui Reiki-Meditado
+
+La jena aplikaĵo helpas ellerni la japanajn poemojn de Imperiestro Meiji, koni ĝuste la bazajn principojn  gokai, kaj praktiki ĝustmaniere meditadon.
+    "</string>
+
+    // HOW TO USE
+
+    <string name="refresh_poem">Poemo elŝutas en progreso. Bonvolu atendi…</string>
+    <string name="lang_german">Germana</string>
+    <string name="lang_spanish">Hispana</string>
+    <string name="lang_lao">Laoso</string>
+    <string name="lang_thai">Tajlando</string>
+    <string name="lang_indonesian">Indonesio</string>
+    <string name="lang_malaysian">malajzio</string>
+    <string name="lang_italian">italio</string>
+    <string name="lang_french">franca</string>
+    <string name="lang_arabic">araba</string>
+    <string name="lang_swahili">svahila</string>
+    <string name="lang_chinese_mandarin">cina mandareno</string>
+    <string name="lang_portugese">portugalo</string>
+    <string name="lang_korean">korea</string>
+    <string name="lang_vietnamese">vjetnama</string>
+    <string name="lang_afrikaans">afrikanoj</string>
+    <string name="lang_malagasy">madagaskarano</string>
+    <string name="lang_russian">rusa</string>
+    <string name="lang_ukrainian">ukrajna</string>
+    <string name="lang_turkish">turkia</string>
+    <string name="lang_urdu">urdua</string>
+    <string name="lang_czech">Ĉeĥa</string>
+    <string name="lang_slovak">La Slovaka</string>
+    <string name="lang_slovenian">Sloveno</string>
+    <string name="lang_serbian">Serba</string>
+    <string name="lang_croatian">Kroata</string>
+    <string name="lang_romanian">Rumana</string>
+    <string name="lang_swedish">Sveda</string>
+    <string name="lang_norwegian">Norvega</string>
+    <string name="lang_finnish">Finna</string>
+    <string name="lang_danish">Dana</string>
+    <string name="lang_dutch">Nederlanda</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="lang_bulgarian">Bulgaro</string>
+    <string name="lang_persian">La Persa</string>
+    <string name="lang_somali">Somalo</string>
+    <string name="lang_yoruba">Joruboj</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_greek">Greka</string>
+    <string name="lang_albanian">Albana</string>
+    <string name="lang_polish">Pola</string>
+</resources>

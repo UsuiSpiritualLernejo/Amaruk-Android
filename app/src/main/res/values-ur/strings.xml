@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">آج کی نظم</string>
+    <string name="nav_settings">ترتیبات</string>
+    <string name="nav_about">ہمارے بارے میں</string>
+    <string name="nav_use">استعمال کرنے کا طریقہ</string>
+    <string name="logout">لاگ آوٹ</string>
+    <string name="account">اکاونٹ</string>
+    <string name="language">زبان</string>
+    <string name="user_interface">یوزر انٹرفیس</string>
+    <string name="setting_poems">نظمیں</string>
+    <string name="additional_settings">اضافی ترتیبات</string>
+    <string name="repeat_song">گانا دہرائیں</string>
+    <string name="on">"آن "</string>
+    <string name="off">"آف "</string>
+    <string name="wait_between_repeats">"دہرانے کے مابین وقت کا وقفہ "</string>
+    <string name="poems_for_day">آج کا میجی واکا</string>
+    <string name="refresh_poem">سرور سے نظم لی جا رہی ہے ، براہ کرم انتظار کریں …</string>
+    <string name="logout_message">کیا آپ لاگ آؤٹ کرنا چاہتے ہیں؟</string>
+    <string name="yes">"ہاں "</string>
+    <string name="no">"نہیں "</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="lang_english">انگریزی</string>
+    <string name="lang_japanese">جاپانی</string>
+    <string name="lang_hungarian">ہنگری</string>
+    <string name="lang_esperanto">ایسپرانٹو</string>
+    <string name="lang_german">جرمن</string>
+    <string name="lang_spanish">ہسپانوی</string>
+    <string name="lang_lao">لاؤس</string>
+    <string name="lang_thai">تھائی</string>
+    <string name="lang_indonesian">انڈونیشیا</string>
+    <string name="lang_malaysian">ملائیشیا</string>
+    <string name="lang_italian">اٹلی</string>
+    <string name="lang_french">فرانسیسی</string>
+    <string name="lang_arabic">عرب</string>
+    <string name="lang_swahili">سوہیلی</string>
+    <string name="lang_chinese_mandarin">چین مینڈارن</string>
+    <string name="lang_portugese">پرتگالی</string>
+    <string name="lang_korean">کوریا</string>
+    <string name="lang_vietnamese">ویتنامی</string>
+    <string name="lang_afrikaans">افریقی</string>
+    <string name="lang_malagasy">ملاگاسی</string>
+    <string name="lang_russian">روس</string>
+    <string name="lang_ukrainian">یوکرینیا</string>
+    <string name="lang_turkish">ترکی</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_czech">چیک</string>
+    <string name="lang_slovak">سلوواکین</string>
+    <string name="lang_slovenian">سلووینیائی</string>
+    <string name="lang_serbian">سربیا</string>
+    <string name="lang_croatian">ہورواٹس</string>
+    <string name="lang_romanian">رومانیہ</string>
+    <string name="lang_swedish">سویڈن</string>
+    <string name="lang_norwegian">نارویجین</string>
+    <string name="lang_finnish">فن</string>
+    <string name="lang_danish">ڈینش</string>
+    <string name="lang_dutch">نیدرلینڈ</string>
+    <string name="email">"ای میل "</string>
+    <string name="dialog_sub">جمع کرے</string>
+    <string name="dialog_password_sent_message">اگر آپ کا ہمارے پاس رجسٹرڈ اکاؤنٹ ہے تو ہم آپ کو نیا پاسورڈ بھیجیں گے</string>
+    <string name="internet_error">درخواست نہیں بھیج سکے۔ براہ کرم اپنا انٹرنیٹ کنکشن چیک کریں۔</string>
+    <string name="valid_email">براہ کرم اپنا ای میل ایڈریس درج کریں</string>
+    <string name="valid_password">برائے مہربانی اپنا پاس ورڈ داخل کریں</string>
+    <string name="sing_in">سائن ان</string>
+    <string name="sign_in_continue">جاری رکھنے کیلئے سائن ان کریں</string>
+    <string name="password">پاسورڈ</string>
+    <string name="remember">"مجھے یاد رکھنا "</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="forgot_password">پاسورڈ بھول گے؟</string>
+    <string name="wrong_credentials">آپ نے غلط سندیں داخل کیں</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+اس ایپ کی تشکیل کی نگرانی ریکی ماسٹروں نے کی ہے جنھیں جاپان میں ریکی سیکھنے کا اعزاز حاصل تھا۔
+
+ریکی کی صحیح طریقے سے مشق کرنے کے لیے، ہم سمجھتے ہیں کہ مندرجہ ذیل سے واقف ہونا ضروری ہے ، جو تمام ریکی اسکولوں کے پریکٹیشنرز کے لئے کارآمد ثابت ہوسکتا ہے ، چونکہ فاؤنڈیشن عام ہے۔
+
+1. یوسوئی سینسی کی زندگی کی کہانی
+2. شروع سے اسوکی ریکی کی کہانی
+3. گوکیئ کے درست ترجمے
+4. یوسوئی ریکی ہِکی کے پہلے اور دوسرے حصے کا ترجمہ
+5. میجی ٹینی گیوسی (اسوکی ریکی ہکی کا چوتھا حصہ) مراقبہ کے لیے
+6. اسوکی ریکی مراقبہ
+
+ہمارا ایپ پانچویں نقطہ پر عمل کرنے میں مدد فراہم کرتا ہے۔ براہ کرم اس پریکٹس کو برقرار رکھنے اور جاپان میں اسوکی ریکی ریووہو کی حفاظت اور حفاظت کے لئے اسوکی ریکی ریوہو گکائی ، اس کے ماضی اور موجودہ پریکٹیشنرز ، اور ماسٹرز کا شکریہ ادا کرتے ہوئے اپنے یومیہ مشق میں توسیع کریں۔
+
+مشق کرنے کے لئے گائیڈ:
+ماسٹر اسوئی کی تعلیمات اور ہمارے تجربے کی بنا پر ، ہم تجویز کرتے ہیں کہ سونے کے بعد اور سونے سے پہلے دن میں دو بار ، صبح اور شام ، مراقبہ کریں۔ وقت کی لمبا ئی کی پابندی نہیں ہے. براہ کرم اپنے مراقبہ کے اختتام پر جاپانی یا اپنی مادری زبان میں گوکائی کی تلاوت کریں۔ اس کے بعد ، ہم اسوکی ریکی ریوہو گکائی کا شکریہ ادا کرنے کی تجویز کرتے ہیں ، جیسا کہ ہم نے پہلے ذکر کیا ہے۔
+
+اگر آپ ایک ادیب مترجم ہیں اور ہمارے ترجمہ میں آپ کو کوئی غلطی پائی جاتی ہے تو ، براہ کرم اپنی رائے daechong@protonmail.com پر بھیجیں تاکہ ہم ترجمے کے دفتر سے آپ کے تبصرے پر تبادلہ خیال کرسکیں۔
+
+ہمیں پوری امید ہے کہ ہماری ایپ آپ کی روزانہ کی مشق میں مدد کرے گی۔
+    "</string>
+    <string name="lang_bulgarian">بلغاریائی</string>
+    <string name="lang_persian">فارسی</string>
+    <string name="lang_somali">صومالی</string>
+    <string name="lang_yoruba">یوروبا</string>
+    <string name="lang_hausa">ہاؤسا</string>
+    <string name="lang_igbo">اگبو</string>
+    <string name="lang_greek">یونانی</string>
+    <string name="lang_albanian">البانیائی</string>
+    <string name="lang_polish">پولش</string>
+</resources>

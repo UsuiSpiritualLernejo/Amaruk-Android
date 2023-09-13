@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nΜε την επιφύλαξη παντός δικαιώματος</string>
+    <string name="nav_poems">Το σημερινό ποίημα</string>
+    <string name="nav_settings">Ρυθμίσεις</string>
+    <string name="nav_about">Σχετικά με εμάς</string>
+    <string name="nav_use">Τρόπος Χρήσης</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="account">λογαριασμός</string>
+    <string name="language">Γλώσσα</string>
+    <string name="user_interface">Διεπαφή χρήστη</string>
+    <string name="setting_poems">Ποιήματα</string>
+    <string name="additional_settings">Επιπρόσθετες ρυθμίσεις</string>
+    <string name="repeat_song">Επαναλάβετε το τραγούδι</string>
+    <string name="on">Επί</string>
+    <string name="off">Μακριά από</string>
+    <string name="wait_between_repeats">Χρονικό διάστημα μεταξύ των επαναλήψεων</string>
+    <string name="poems_for_day">Meiji Waka της ημέρας</string>
+    <string name="refresh_poem">Λήψη ποιήματος από τον διακομιστή, περιμένετε…</string>
+    <string name="logout_message">Θέλετε να αποσυνδεθείτε;</string>
+    <string name="yes">Ναί</string>
+    <string name="no">Οχι</string>
+    <string name="change_language">Αλλαξε γλώσσα</string>
+    <string name="save">Αποθηκεύσετε</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="lang_english">Αγγλικά</string>
+    <string name="lang_japanese">Ιαπωνικά</string>
+    <string name="lang_hungarian">Ουγγρικός</string>
+    <string name="lang_esperanto">Εσπεράντο</string>
+    <string name="lang_german">Γερμανός</string>
+    <string name="lang_spanish">Ισπανικά</string>
+    <string name="lang_lao">Λάος</string>
+    <string name="lang_thai">Ταϊλανδός</string>
+    <string name="lang_indonesian">Ινδονησιακά</string>
+    <string name="lang_malaysian">Μαλαισιανός</string>
+    <string name="lang_italian">Ιταλικός</string>
+    <string name="lang_french">Γαλλική Γλώσσα</string>
+    <string name="lang_arabic">Αραβικός</string>
+    <string name="lang_swahili">Σουαχίλι</string>
+    <string name="lang_chinese_mandarin">Κινέζικα (Μανταρίνια)</string>
+    <string name="lang_portugese">Πορτογαλικά</string>
+    <string name="lang_korean">Κορεάτης</string>
+    <string name="lang_vietnamese">Βιετναμέζικο</string>
+    <string name="lang_afrikaans">Αφρικάανς</string>
+    <string name="lang_malagasy">Μαδαγασκάρης</string>
+    <string name="lang_russian">Ρωσική</string>
+    <string name="lang_ukrainian">Ουκρανός</string>
+    <string name="lang_turkish">Τούρκικος</string>
+    <string name="lang_urdu">Ουρντού</string>
+    <string name="lang_czech">Τσέχος</string>
+    <string name="lang_slovak">Σλοβάκος</string>
+    <string name="lang_slovenian">Σλοβένος</string>
+    <string name="lang_serbian">Σέρβος</string>
+    <string name="lang_croatian">Κροατία</string>
+    <string name="lang_romanian">Ρουμανικός</string>
+    <string name="lang_swedish">Σουηδικά</string>
+    <string name="lang_norwegian">Νορβηγός</string>
+    <string name="lang_finnish">Φινλανδικός</string>
+    <string name="lang_danish">Δανικός</string>
+    <string name="lang_dutch">Πολωνικά</string>
+    <string name="lang_polish">Αλβανικά</string>
+    <string name="lang_albanian">Ελληνικά</string>
+    <string name="lang_greek">Ίγκμπο</string>
+    <string name="lang_igbo">Χάουσα</string>
+    <string name="lang_hausa">Γιορούμπα</string>
+    <string name="lang_yoruba">Σομαλικά</string>
+    <string name="lang_somali">Περσική</string>
+    <string name="lang_persian">Ολλανδός</string>
+    <string name="lang_bulgarian">Βούλγαρος</string>
+    <string name="email">Ηλεκτρονικη Διευθυνση</string>
+    <string name="dialog_sub">Υποβάλλουν</string>
+    <string name="dialog_password_sent_message">Θα σας στείλουμε έναν νέο κωδικό πρόσβασης εάν έχετε εγγεγραμμένο λογαριασμό μαζί μας</string>
+    <string name="internet_error">Δεν ήταν δυνατή η αποστολή αιτήματος. Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο.</string>
+    <string name="valid_email">Παρακαλώ εισάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας</string>
+    <string name="valid_password">Παρακαλώ εισάγετε τον κωδικό σας</string>
+    <string name="sing_in">Συνδεθείτε</string>
+    <string name="sign_in_continue">Συνδεθείτε για να συνεχίσετε</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="remember">Θυμήσου με</string>
+    <string name="login">Σύνδεση</string>
+    <string name="forgot_password">Ξεχάσατε τον κωδικό;</string>
+    <string name="wrong_credentials">Έχετε εισαγάγει λάθος διαπιστευτήρια</string>
+    <string name="seconds">s (δευτερόλεπτα)</string>
+    <string name="about_us_descript">"Η ανάπτυξη αυτής της εφαρμογής έχει επιβλέπεται από δασκάλους του Ρέικι που είχαν την τιμή να μάθουν Ρέικι στην Ιαπωνία.
+
+Για να εξασκηθείτε σωστά στο Ρέικι, πιστεύουμε ότι είναι σημαντικό να γνωρίζετε τα ακόλουθα, τα οποία θα μπορούσαν να είναι χρήσιμα για τους ασκούμενους όλων των σχολών του Ρέικι, καθώς η βάση είναι κοινή:
+
+1. Η ιστορία της ζωής του Usui Sensei
+2. Η ιστορία του Ουσούι Ρέικι από την αρχή
+3. Ακριβείς μεταφράσεις των Gokai
+4. Η μετάφραση του πρώτου και του δεύτερου μέρους του Usui Reiki Hikkei
+5. Το Meiji Tennō Gyosei (το τέταρτο μέρος του Usui Reiki Hikkei) για διαλογισμό
+6. Ο διαλογισμός Usui Reiki
+
+Η εφαρμογή μας παρέχει βοήθεια για την εξάσκηση του πέμπτου σημείου. Παρακαλούμε επεκτείνετε την καθημερινή σας πρακτική εκφράζοντας ευγνωμοσύνη προς τον Usui Reiki Ryoho Gakkai, τους προηγούμενους και παρόντες ασκούμενους και τους Δασκάλους του για τη διατήρηση της πρακτικής και για την προστασία και τη φύλαξη του Usui Reiki Ryoho στην Ιαπωνία μέχρι σήμερα.
+
+Οδηγός εξάσκησης:
+Με βάση τις διδασκαλίες του Δάσκαλου Ουσούι και την εμπειρία μας, συνιστούμε να κάνετε τον διαλογισμό δύο φορές την ημέρα, το πρωί και το βράδυ, αμέσως μετά το ξύπνημα και πριν πάτε για ύπνο. Η διάρκεια είναι προαιρετική. Παρακαλούμε απαγγείλετε το Gokai στα Ιαπωνικά ή στη μητρική σας γλώσσα στο τέλος του διαλογισμού σας. Μετά από αυτό, προτείνουμε να ευχαριστήσουμε το Usui Reiki Ryoho Gakkai, όπως αναφέραμε προηγουμένως.
+
+Εάν είστε λογοτεχνικός μεταφραστής και βρείτε τυχόν σφάλματα στις μεταφράσεις μας, στείλτε τα σχόλιά σας στο daechong@protonmail.com, ώστε να συζητήσουμε το σχόλιό σας με το μεταφραστικό γραφείο.
+
+Ελπίζουμε ειλικρινά ότι η εφαρμογή μας θα σας βοηθήσει με την καθημερινή σας πρακτική."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

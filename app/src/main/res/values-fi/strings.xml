@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nKaikki oikeudet pidätetään</string>
+    <string name="nav_poems">Tämän päivän runo</string>
+    <string name="nav_settings">asetukset</string>
+    <string name="nav_about">Meistä</string>
+    <string name="nav_use">Kuinka käyttää</string>
+    <string name="logout">Kirjautua ulos</string>
+    <string name="account">Tili</string>
+    <string name="language">Kieli</string>
+    <string name="user_interface">Käyttöliittymä</string>
+    <string name="setting_poems">Runoja</string>
+    <string name="additional_settings">Lisäasetukset</string>
+    <string name="repeat_song">Toista kappale</string>
+    <string name="on">Päällä</string>
+    <string name="off">Vinossa</string>
+    <string name="wait_between_repeats">Toistojen välinen aika</string>
+    <string name="poems_for_day">Päivän Meiji Waka</string>
+    <string name="refresh_poem">Haetaan runoa palvelimelta, odota…</string>
+    <string name="logout_message">Haluatko kirjautua ulos?</string>
+    <string name="yes">Joo</string>
+    <string name="no">Ei</string>
+    <string name="change_language">Vaihda kieltä</string>
+    <string name="save">Tallentaa</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="lang_english">Englanti</string>
+    <string name="lang_japanese">Japanilainen</string>
+    <string name="lang_hungarian">Unkarin Kieli</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Saksan Kieli</string>
+    <string name="lang_spanish">Espanja</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thaimaalainen</string>
+    <string name="lang_indonesian">Indonesialainen</string>
+    <string name="lang_malaysian">Malesialainen</string>
+    <string name="lang_italian">Italialainen</string>
+    <string name="lang_french">Ranskan Kieli</string>
+    <string name="lang_arabic">Arabialainen</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Kiina (Mandariini)</string>
+    <string name="lang_portugese">Portugali</string>
+    <string name="lang_korean">Korealainen</string>
+    <string name="lang_vietnamese">Vietnam</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Madagaskari</string>
+    <string name="lang_russian">Venäjän Kieli</string>
+    <string name="lang_ukrainian">Ukrainalainen</string>
+    <string name="lang_turkish">Turkkilainen</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Tšekki</string>
+    <string name="lang_slovak">Slovakian</string>
+    <string name="lang_slovenian">Slovenialainen</string>
+    <string name="lang_serbian">Serbia</string>
+    <string name="lang_croatian">Kroatia</string>
+    <string name="lang_romanian">Romanialainen</string>
+    <string name="lang_swedish">Ruotsin Kieli</string>
+    <string name="lang_norwegian">Norjan Kieli</string>
+    <string name="lang_finnish">Suomalainen</string>
+    <string name="lang_danish">Tanskan Kieli</string>
+    <string name="lang_dutch">Hollannin Kieli</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_albanian">Albania</string>
+    <string name="lang_greek">Kreikka</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somalia</string>
+    <string name="lang_persian">Persia</string>
+    <string name="lang_bulgarian">Bulgarialainen</string>
+    <string name="email">Sähköposti</string>
+    <string name="dialog_sub">Lähetä</string>
+    <string name="dialog_password_sent_message">Lähetämme sinulle uuden salasanan, jos sinulla on rekisteröity tili meille</string>
+    <string name="internet_error">Pyyntöä ei voitu lähettää. Tarkista Internet-yhteytesi.</string>
+    <string name="valid_email">Anna sähköpostiosoitteesi</string>
+    <string name="valid_password">Anna salasanasi</string>
+    <string name="sing_in">Kirjaudu sisään</string>
+    <string name="sign_in_continue">Kirjaudu sisään jatkaaksesi</string>
+    <string name="password">Salasana</string>
+    <string name="remember">Muista minut</string>
+    <string name="login">Kirjaudu sisään</string>
+    <string name="forgot_password">Unohtuiko salasana?</string>
+    <string name="wrong_credentials">Olet syöttänyt väärät kirjautumistiedot</string>
+    <string name="seconds"> s (sekuntia)</string>
+    <string name="about_us_descript">"Jotta Reiki voidaan harjoittaa oikein, uskomme, että on tärkeää tuntea seuraavat asiat, joista voi olla hyötyä kaikkien Reikikoulujen harjoittajille, koska perusta on yhteinen:
+
+1. Usui Sensein elämäntarina
+2. Usui Reikin tarina alusta alkaen
+3. Tarkat käännökset Gokaista
+4. Usui Reiki Hikkein ensimmäisen ja toisen osan käännös
+5. Meiji Tennō Gyosei (Usui Reiki Hikkein neljäs osa) meditaatioon
+6. Usui Reiki -meditaatio
+
+Sovelluksemme tarjoaa apua viidennen kohdan harjoitteluun. Laajenna päivittäistä harjoitteluasi ilmaisemalla kiitollisuutesi Usui Reiki Ryoho Gakkaille, sen entisille ja nykyisille harjoittajille sekä mestareille harjoituksen ylläpitämisestä ja Usui Reiki Ryohon suojelemisesta ja vartioinnista Japanissa tähän päivään asti.
+
+Opas harjoitteluun:
+Mestari Usuin opetusten ja myös kokemuksemme perusteella suosittelemme meditaation tekemistä kahdesti päivässä, aamulla ja illalla, heti heräämisen jälkeen ja ennen nukkumaanmenoa. Kesto on valinnainen. Ole hyvä ja toista Gokai japaniksi tai äidinkielelläsi meditaatiosi lopussa. Sen jälkeen suosittelemme kiittämään Usui Reiki Ryoho Gakkaita, kuten mainitsimme aiemmin.
+
+Jos olet kirjallisuuden kääntäjä ja löydät käännöksissämme virheitä, lähetä palautetta osoitteeseen daechong@protonmail.com, jotta voimme keskustella kommentistasi käännöstoimiston kanssa.
+
+Toivomme vilpittömästi, että sovelluksemme auttaa sinua päivittäisessä harjoittelussasi."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

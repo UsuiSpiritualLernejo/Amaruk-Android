@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/loginLeftGuide"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.05" />
+
+
+        <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/loginRightGuide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.95" />
+
+        <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/loginTopGuide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.06" />
+
+        <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/loginCenterGuide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.20" />
+
+        <TextView
+                android:id="@+id/login_header_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lato_black"
+                android:text="@string/sing_in"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toTopOf="@+id/loginTopGuide" />
+
+        <TextView
+                android:id="@+id/login_sub_header_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/sign_in_continue"
+                android:textColor="#686868"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/login_header_tv" />
+
+        <TextView
+                android:id="@+id/login_email_header_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/email"
+                android:textColor="#5D5D5D"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/loginCenterGuide" />
+
+        <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/login_email_address"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/login_email_header_tv"
+                app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/login_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="Email address for sign in"
+                    android:fontFamily="@font/lato_regular"
+                    android:inputType="textEmailAddress"
+                    android:minHeight="48dp"
+                    android:textColor="#000" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <TextView
+                android:id="@+id/login_password_header_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/password"
+                android:textColor="#5D5D5D"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/login_email_address" />
+
+        <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/login_password_input_layout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/login_password_header_tv"
+                app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/login_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="Password for sign in"
+                    android:fontFamily="@font/lato_regular"
+                    android:inputType="textWebPassword"
+                    android:minHeight="48dp"
+                    android:textColor="#000" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <androidx.appcompat.widget.AppCompatCheckBox
+                android:id="@+id/login_remember_me_chk_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/lato_regular"
+                android:minHeight="48dp"
+                android:text="@string/remember"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/login_password_input_layout" />
+
+        <Button
+                android:id="@+id/login_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="32dp"
+                android:background="@drawable/btn_shape"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/login"
+                android:textAllCaps="false"
+                android:textColor="@color/colorWhite"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.50"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+                app:layout_constraintTop_toBottomOf="@+id/login_remember_me_chk_btn" />
+
+        <TextView
+                android:id="@+id/login_forgot_password_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lato_regular"
+                android:padding="18dp"
+                android:text="@string/forgot_password"
+                android:textColor="#686868"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.50"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide"
+
+                app:layout_constraintTop_toBottomOf="@+id/login_button" />
+
+        <TextView
+                android:id="@+id/login_change_language"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:fontFamily="@font/lato_regular"
+                android:paddingLeft="8dp"
+                android:paddingTop="16dp"
+                android:paddingRight="8dp"
+                android:paddingBottom="16dp"
+
+                android:text="@string/change_language"
+                android:textColor="#000"
+                android:textSize="16sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/loginRightGuide"
+                app:layout_constraintHorizontal_bias="0.50"
+                app:layout_constraintStart_toStartOf="@+id/loginLeftGuide" />
+
+        <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                app:layout_constraintBottom_toBottomOf="@+id/login_change_language"
+                app:layout_constraintEnd_toStartOf="@+id/login_change_language"
+                app:layout_constraintTop_toTopOf="@+id/login_change_language"
+                app:srcCompat="@drawable/change_lanuage" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Bugünün şiiri</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_about">Hakkımızda</string>
+    <string name="nav_use">Nasıl kullanılır</string>
+    <string name="logout">Çıkış</string>
+    <string name="account">Hesab</string>
+    <string name="language">Dil</string>
+    <string name="user_interface">Kullanıcı</string>
+    <string name="setting_poems">Şiir</string>
+    <string name="additional_settings">Geniş ayarlar</string>
+    <string name="repeat_song">Şarkıyı tekrar et</string>
+    <string name="on">Açıq</string>
+    <string name="off">Kapalı</string>
+    <string name="wait_between_repeats">Tekrarlar arasındaki zaman aralığı</string>
+    <string name="poems_for_day">Günün Meiji Waka</string>
+    <string name="refresh_poem">Sunucudan bir şiir alınıyor, lütfen bekleyin …</string>
+    <string name="logout_message">Çıkış yapmak istediğinize emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="change_language">Dili değiştir</string>
+    <string name="save">Kayıt etmek</string>
+    <string name="cancel">İptal</string>
+    <string name="lang_english">İngilizce</string>
+    <string name="lang_japanese">Japonca</string>
+    <string name="lang_hungarian">Macarca</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Almanca</string>
+    <string name="lang_spanish">İspanyol</string>
+    <string name="lang_lao">Laoca</string>
+    <string name="lang_thai">Tayca</string>
+    <string name="lang_indonesian">Endonezyaca</string>
+    <string name="lang_malaysian">Malayca</string>
+    <string name="lang_italian">İtalyanca</string>
+    <string name="lang_french">Fransızca</string>
+    <string name="lang_arabic">Arapça</string>
+    <string name="lang_swahili">Svahili</string>
+    <string name="lang_chinese_mandarin">Mandarin</string>
+    <string name="lang_portugese">Portekizce</string>
+    <string name="lang_korean">Korece</string>
+    <string name="lang_vietnamese">Vietnamca</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malgaşça</string>
+    <string name="lang_russian">Rusça</string>
+    <string name="lang_ukrainian">Ukraynaca</string>
+    <string name="lang_turkish">Türkçe</string>
+    <string name="lang_urdu">Urduca</string>
+    <string name="lang_czech">Çekçe</string>
+    <string name="lang_slovak">Slovakça</string>
+    <string name="lang_slovenian">Slovence</string>
+    <string name="lang_serbian">Sırpça</string>
+    <string name="lang_croatian">Hırvatça</string>
+    <string name="lang_romanian">Rumence</string>
+    <string name="lang_swedish">İsveççe</string>
+    <string name="lang_norwegian">Norveççe</string>
+    <string name="lang_finnish">Fince</string>
+    <string name="lang_danish">Danca</string>
+    <string name="lang_dutch">Felemenkçe</string>
+    <string name="email">E-posta</string>
+    <string name="dialog_sub">Sifreni değistir</string>
+    <string name="dialog_password_sent_message">Hesabınız bize kayıtlıysa size yeni bir şifre göndereceğiz</string>
+    <string name="internet_error">İstek gönderilemedi. Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="valid_email">Lütfen, E-postu giriniz</string>
+    <string name="valid_password">Lütfen, Şifrenizi giriniz</string>
+    <string name="sing_in">Giriş</string>
+    <string name="sign_in_continue">Devam etmek için giriş yapın</string>
+    <string name="password">Şıfre</string>
+    <string name="remember">Beni hatırla</string>
+    <string name="login">Giriş</string>
+    <string name="forgot_password">Sifreni mi unuttunuz?</string>
+    <string name="wrong_credentials">Yanlış kimlik bilgilerini girdiniz</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Bu uygulamanın geliştirilmesi, Japonya'da Reiki eğitimi alma ayrıcalığına sahip bir Reiki ustası tarafından yönetildi.
+
+Reiki'yi doğru bir şekilde uygulamak için, aşağıdakileri bilmenin önemli olduğuna inanıyoruz; bu, ortak bir temele sahip oldukları için tüm Reiki okullarının uygulayıcıları için faydalı olabilir:
+
+1. Usui-sensei'nin hayatının hikayesi.
+2. En başından beri Usui Reiki'nin tarihi.
+3. Gokai'nin doğru çevirileri.
+4. Usui Reiki Hikkei'nin birinci ve ikinci bölümlerinin çevirisi.
+5. Meiji Tenno Gyosei (Usui Reiki Hikkei'nin dördüncü bölümü) meditasyon için.
+6. Usui Reiki Meditasyonu.
+
+Uygulamamız, beşinci noktanızı pratik etmenize yardımcı olur. Lütfen Usui Reiki Ryoho Gakkai'ye, geçmiş ve şimdiki uygulayıcılarına ve Japonya'daki Usui Reiki Ryoho'yu bugüne kadar korudukları ve korudukları için Ustalara şükranlarını ifade ederek günlük pratiğinizi artırın.
+Uygulama Kılavuzu:
+Usta Usui'nin öğretilerine ve deneyimimize dayanarak, meditasyonu sabah ve akşam olmak üzere günde iki kez, uyandıktan hemen sonra ve yatmadan önce yapmanızı öneririz. Süre süresi isteğe bağlıdır. Lütfen meditasyonun sonunda Japonca veya kendi dilinizde Gokai'yi okuyun. Bundan sonra, daha önce de bahsettiğimiz gibi Usui Reiki Ryoho Gakkai'ye teşekkür etmeyi öneriyoruz.
+
+Edebiyat çevirmeniyseniz ve çevirilerimizde herhangi bir hata bulursanız, yorumunuzu çeviri bürosu ile görüşebilmemiz için lütfen geri bildiriminizi daechong@protonmail.com adresine gönderin.
+
+Uygulamamızın günlük pratiğinizde size yardımcı olacağını içtenlikle umuyoruz.
+    "</string>
+    <string name="lang_bulgarian">Bulgarca</string>
+    <string name="lang_persian">Farsça</string>
+    <string name="lang_somali">Somali</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">İbo</string>
+    <string name="lang_greek">Yunan</string>
+    <string name="lang_albanian">Arnavut</string>
+    <string name="lang_polish">Lehçe</string>
+</resources>

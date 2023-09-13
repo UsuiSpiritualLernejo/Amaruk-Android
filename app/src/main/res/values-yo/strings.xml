@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Ipilẹṣẹ Ile-iwe ẹmí USUI. Gbogbo awọn Ẹtọ wa ni ipamọ.</string>
+    <string name="nav_poems">Oriki oni</string>
+    <string name="nav_settings">Ètò</string>
+    <string name="nav_about">Nipa re</string>
+    <string name="nav_use">Bawo ni Lati Lo</string>
+    <string name="logout">Jade jade</string>
+    <string name="account">Iroyin</string>
+    <string name="language">Ede</string>
+    <string name="user_interface">Ni wiwo olumulo</string>
+    <string name="setting_poems">Awọn ewi</string>
+    <string name="additional_settings">Afikun Eto</string>
+    <string name="repeat_song">Tun orin ṣe</string>
+    <string name="on">Tan-an</string>
+    <string name="off">Paa</string>
+    <string name="wait_between_repeats">Aarin akoko laarin awọn atunwi</string>
+    <string name="poems_for_day">Meiji Waka of the Day</string>
+    <string name="refresh_poem">Ngba ewi lati ọdọ olupin, jọwọ duro…</string>
+    <string name="logout_message">Ṣe o fẹ lati jade?</string>
+    <string name="yes">Bẹẹni</string>
+    <string name="no">Rara</string>
+    <string name="change_language">Yi ede pada</string>
+    <string name="save">Fipamọ</string>
+    <string name="cancel">Fagilee</string>
+    <string name="lang_english">English</string>
+    <string name="lang_japanese">Japanese</string>
+    <string name="lang_hungarian">Ede Hungarian</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Jẹmánì</string>
+    <string name="lang_spanish">Ede Sipeeni</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Ede Indonesian</string>
+    <string name="lang_malaysian">Ede Malaysia</string>
+    <string name="lang_italian">Itali</string>
+    <string name="lang_french">Faranse</string>
+    <string name="lang_arabic">Larubawa</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Kannada (Mandarin)</string>
+    <string name="lang_portugese">Ede Pọtugali</string>
+    <string name="lang_korean">Korean</string>
+    <string name="lang_vietnamese">Vietnamese</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Russian</string>
+    <string name="lang_ukrainian">Ukrainian</string>
+    <string name="lang_turkish">Tọki</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czech</string>
+    <string name="lang_slovak">Slovakia</string>
+    <string name="lang_slovenian">Slovenia</string>
+    <string name="lang_serbian">Ede Serbia</string>
+    <string name="lang_croatian">Ede Croatian</string>
+    <string name="lang_romanian">Romanian</string>
+    <string name="lang_swedish">Swedish</string>
+    <string name="lang_norwegian">Norwegian</string>
+    <string name="lang_finnish">Finnish</string>
+    <string name="lang_danish">Danish</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_albanian">Albania</string>
+    <string name="lang_greek">Giriki</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_somali">Somalia</string>
+    <string name="lang_persian">Persian</string>
+    <string name="lang_bulgarian">Bulgarian</string>
+    <string name="email">Imeeli</string>
+    <string name="dialog_sub">Fi silẹ</string>
+    <string name="dialog_password_sent_message">A yoo fi ọrọ igbaniwọle tuntun ranṣẹ si ọ ti o ba ni akọọlẹ ti o forukọsilẹ pẹlu wa</string>
+    <string name="internet_error">Ko le fi ibeere ranṣẹ. Jọwọ ṣayẹwo isopọ Ayelujara rẹ.</string>
+    <string name="valid_email">Jọwọ tẹ adirẹsi imeeli rẹ sii</string>
+    <string name="valid_password">Jọwọ tẹ ọrọ igbaniwọle rẹ sii</string>
+    <string name="sing_in">wọle</string>
+    <string name="sign_in_continue">Wọle lati tẹsiwaju</string>
+    <string name="password">Ọrọigbaniwọle</string>
+    <string name="remember">Ranti mi</string>
+    <string name="login">Wo ile</string>
+    <string name="forgot_password">Gbagbe ọrọ aṣina bi?</string>
+    <string name="wrong_credentials">O ti tẹ awọn iwe-ẹri ti ko tọ sii</string>
+    <string name="seconds">s (aaya)</string>
+    <string name="about_us_descript">"Ilọsiwaju ti ohun elo yii jẹ abojuto nipasẹ awọn ọga Reiki ti o ni ọlá lati kọ ẹkọ Reiki ni Japan.
+
+Lati ṣe adaṣe Reiki daradara, a gbagbọ pe o ṣe pataki lati faramọ awọn atẹle wọnyi, eyiti o le wulo fun awọn oṣiṣẹ ti gbogbo awọn ile-iwe Reiki, nitori ipilẹ jẹ wọpọ:
+
+1. Usui Sensei ká aye itan
+2. Itan Usui Reiki lati ibẹrẹ
+3. Awọn itumọ pipe ti Gokai
+4. Itumọ ti akọkọ ati apakan keji ti Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (apa kẹrin Usui Reiki Hikkei) fun iṣaroye
+6. Iṣaro Usui Reiki
+
+Ohun elo wa n pese iranlọwọ lati ṣe adaṣe aaye karun. Jọwọ faagun iṣẹ ṣiṣe ojoojumọ rẹ nipa sisọ ọpẹ si Usui Reiki Ryoho Gakkai, awọn oṣiṣẹ ti o ti kọja ati lọwọlọwọ, ati awọn oluko nla fun mimu iṣe adaṣe naa ati aabo ati aabo Usui Reiki Ryoho ni Japan titi di oni.
+
+Itọsọna si adaṣe:
+Da lori awọn ẹkọ ti Titunto si Usui ati tun iriri wa, a ṣe iṣeduro ṣe iṣaro naa lẹmeji ọjọ kan, ni owurọ ati ni aṣalẹ, ni kete lẹhin ti o dide ati ṣaaju ki o to lọ si ibusun. Iye akoko jẹ iyan. Jọwọ ka Gokai ni Japanese tabi ni ede abinibi rẹ ni opin iṣaro rẹ. Lẹhin iyẹn, a daba fifun ọpẹ si Usui Reiki Ryoho Gakkai, gẹgẹ bi a ti sọ tẹlẹ.
+
+Ti o ba jẹ onitumọ litireso ati pe o rii awọn aṣiṣe eyikeyi ninu awọn itumọ wa, jọwọ fi esi rẹ ranṣẹ si daechong@protonmail.com ki a le jiroro asọye rẹ pẹlu ọfiisi itumọ.
+
+A nireti ni otitọ pe app wa yoo ṣe iranlọwọ fun ọ pẹlu adaṣe ojoojumọ rẹ. ”"</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

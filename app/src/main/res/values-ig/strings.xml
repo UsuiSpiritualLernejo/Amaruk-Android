@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Ntọala ụlọ akwụkwọ ime mmụọ USUI. Echekwabara ikike niile.</string>
+    <string name="nav_poems">Abụ taa</string>
+    <string name="nav_settings">Ntọala</string>
+    <string name="nav_about">Gbasara Anyị</string>
+    <string name="nav_use">Otu esi eji</string>
+    <string name="logout">Wepụ</string>
+    <string name="account">Akaụntụ</string>
+    <string name="language">Asụsụ</string>
+    <string name="user_interface">interface onye ọrụ</string>
+    <string name="setting_poems">Egwu</string>
+    <string name="additional_settings">Ntọala mgbakwunye</string>
+    <string name="repeat_song">Tinyegharịa egwu</string>
+    <string name="on">Gbanye</string>
+    <string name="off">Gbanyụọ</string>
+    <string name="wait_between_repeats">Ogologo oge n\'etiti ugboro ugboro</string>
+    <string name="poems_for_day">Meiji Waka nke ụbọchị</string>
+    <string name="refresh_poem">Inweta abụ sitere na sava, biko chere…</string>
+    <string name="logout_message">Ị chọrọ ịpụ?</string>
+    <string name="yes">Ee</string>
+    <string name="no">Mba</string>
+    <string name="change_language">Gbanwee Asụsụ</string>
+    <string name="save">Chekwa</string>
+    <string name="cancel">Kagbuo</string>
+    <string name="lang_english">Bekee</string>
+    <string name="lang_japanese">Japanese</string>
+    <string name="lang_hungarian">Asụsụ Hungarian</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">German</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Asụsụ Indonesian</string>
+    <string name="lang_malaysian">Asụsụ Malaysian</string>
+    <string name="lang_italian">Ịtali</string>
+    <string name="lang_french">French</string>
+    <string name="lang_arabic">Arabic</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Chinese (Mandarin)</string>
+    <string name="lang_portugese">Portuguese</string>
+    <string name="lang_korean">Korean</string>
+    <string name="lang_vietnamese">Vietnamese</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Russian</string>
+    <string name="lang_ukrainian">Onye Ukraine</string>
+    <string name="lang_turkish">Turkish</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czech</string>
+    <string name="lang_slovak">Slovak</string>
+    <string name="lang_slovenian">Slovenian</string>
+    <string name="lang_serbian">Asụsụ Serbian</string>
+    <string name="lang_croatian">Asụsụ Croatia</string>
+    <string name="lang_romanian">Romanian</string>
+    <string name="lang_swedish">Swedish</string>
+    <string name="lang_norwegian">Norwegian</string>
+    <string name="lang_finnish">Asụsụ Finnish</string>
+    <string name="lang_danish">Danish</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_albanian">Albania</string>
+    <string name="lang_greek">Grik</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somalia</string>
+    <string name="lang_persian">Asụsụ Persia</string>
+    <string name="lang_bulgarian">Bulgarian</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Nyefee</string>
+    <string name="dialog_password_sent_message">Anyị ga-ezitere gị okwuntughe ọhụrụ ma ọ bụrụ na i nwere akaụntụ anyị debanyere aha</string>
+    <string name="internet_error">Enweghị ike izipu arịrịọ. Biko lelee njikọ ịntanetị gị.</string>
+    <string name="valid_email">Biko tinye adreesị ozi-e gị</string>
+    <string name="valid_password">Biko tinye paswọọdụ gị</string>
+    <string name="sing_in">banye</string>
+    <string name="sign_in_continue">Banye ka ịga n\'ihu</string>
+    <string name="password">Okwuntughe</string>
+    <string name="remember">Cheta m</string>
+    <string name="login">Banye</string>
+    <string name="forgot_password">Ichefuru okwuntughe?</string>
+    <string name="wrong_credentials">Ịdebanyela nzere na-ezighi ezi</string>
+    <string name="seconds">s (sekọnd)</string>
+    <string name="about_us_descript">"Ndị nna ukwu Reiki bụ ndị nwere nsọpụrụ ịmụ Reiki na Japan na-elekọta mmepe nke ngwa a.
+
+Iji mee Reiki nke ọma, anyị kwenyere na ọ dị mkpa ịmara ihe ndị a, nke nwere ike ịba uru maka ndị niile nwere ụlọ akwụkwọ Reiki, ebe ọ bụ na ntọala a bu otu:
+
+1. Akụkọ ndụ Usui Sensei
+2. Akụkọ banyere Usui Reiki site na mmalite
+3. Ntụgharị asụsụ nke Gokai ziri ezi
+4. Ntụgharị asụsụ nke akụkụ mbụ na nke abụọ nke Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (akụkụ anọ nke Usui Reiki Hikkei) maka ntụgharị uche
+6. Ntụgharị uche Usui Reiki
+
+Ngwa anyị na-enye aka na-eme isi ihe ise. Biko gbasaa omume gị kwa ụbọchị site n'igosi ekele maka Usui Reiki Ryoho Gakkai, ndị na-eme ya n'oge gara aga na ndị na-eme ya ugbu a, na ndị Nna-ukwu maka idobe omume ahụ na ichekwa Usui Reiki Ryoho na Japan ruo taa.
+
+Ntuziaka maka ime ihe:
+Site na nkuzi nke nna ukwu Usui yana ahụmịhe anyị, anyị na-akwado ịme ntụgharị uche ugboro abụọ n'ụbọchị, n'ụtụtụ na mgbede, ozugbo itetasịrị na tupu ị lakpuo ụra. Ogologo oge a bụ nhọrọ. Biko gụgharịa Gokai n'asụsụ Japanese ma ọ bụ n'asụsụ obodo gị na njedebe ntụgharị uche gị. Mgbe nke ahụ gasịrị, anyị na-atụ aro ịkele Usui Reiki Ryoho Gakkai, dị ka anyị kwuru na mbụ.
+
+Ọ bụrụ na ị bụ onye ntụgharị akwụkwọ na ịchọta mperi ọ bụla na ntụgharị asụsụ anyị, biko ziga nzaghachi gị na daechong@protonmail.com ka anyị na ụlọ ọrụ ntụgharị kwurịta okwu gị.
+
+Anyị nwere olile anya na ngwa anyị ga-enyere gị aka na mmemme gị kwa ụbọchị."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

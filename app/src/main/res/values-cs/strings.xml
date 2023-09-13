@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nVšechna práva vyhrazena</string>
+    <string name="nav_poems">Dnešní báseň</string>
+    <string name="nav_settings">Nastavení</string>
+    <string name="nav_about">O nás</string>
+    <string name="nav_use">Jak to používat</string>
+    <string name="logout">Odhlásit se</string>
+    <string name="account">Účet</string>
+    <string name="language">Jazyk</string>
+    <string name="user_interface">Uživatelské rozhraní</string>
+    <string name="setting_poems">Básně</string>
+    <string name="additional_settings">Další nastavení</string>
+    <string name="repeat_song">Opakovat skladbu</string>
+    <string name="on">Zapnuto</string>
+    <string name="off">Vypnuto</string>
+    <string name="wait_between_repeats">Časový interval mezi opakováními</string>
+    <string name="poems_for_day">Meiji Waka dne</string>
+    <string name="refresh_poem">Načítání básně ze serveru, čekejte prosím…</string>
+    <string name="logout_message">Chcete se odhlásit?</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="change_language">Změnit jazyk</string>
+    <string name="save">Uložit</string>
+    <string name="cancel">Zrušit</string>
+    <string name="lang_english">Angličtina</string>
+    <string name="lang_japanese">Japonština</string>
+    <string name="lang_hungarian">Maďarština</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Němčina</string>
+    <string name="lang_spanish">Španělština</string>
+    <string name="lang_lao">Laoština</string>
+    <string name="lang_thai">Thajština</string>
+    <string name="lang_indonesian">Indonéština</string>
+    <string name="lang_malaysian">Malajština</string>
+    <string name="lang_italian">Italština</string>
+    <string name="lang_french">Francouzština</string>
+    <string name="lang_arabic">Arabština</string>
+    <string name="lang_swahili">Svahilština</string>
+    <string name="lang_chinese_mandarin">Čínština (Mandarínština)</string>
+    <string name="lang_portugese">Portugalština</string>
+    <string name="lang_korean">Korejština</string>
+    <string name="lang_vietnamese">Vietnamština</string>
+    <string name="lang_afrikaans">Afrikánština</string>
+    <string name="lang_malagasy">Malgaština</string>
+    <string name="lang_russian">Ruština</string>
+    <string name="lang_ukrainian">Ukrajinština</string>
+    <string name="lang_turkish">Turečtina</string>
+    <string name="lang_urdu">Urdština</string>
+    <string name="lang_czech">Čeština</string>
+    <string name="lang_slovak">Slovenština</string>
+    <string name="lang_slovenian">Slovinština</string>
+    <string name="lang_serbian">Srbština</string>
+    <string name="lang_croatian">Chorvatština</string>
+    <string name="lang_romanian">Rumunština</string>
+    <string name="lang_swedish">Švédština</string>
+    <string name="lang_norwegian">Norština</string>
+    <string name="lang_finnish">Finština</string>
+    <string name="lang_danish">Dánština</string>
+    <string name="lang_dutch">Holandština</string>
+    <string name="lang_polish">Polština</string>
+    <string name="lang_albanian">Albánština</string>
+    <string name="lang_greek">Řečtina</string>
+    <string name="lang_igbo">Igboština</string>
+    <string name="lang_hausa">Hauština</string>
+    <string name="lang_yoruba">Jorubština</string>
+    <string name="lang_somali">Somálština</string>
+    <string name="lang_persian">Perština</string>
+    <string name="lang_bulgarian">Bulharský</string>
+    <string name="email">E-mail</string>
+    <string name="dialog_sub">Odeslat</string>
+    <string name="dialog_password_sent_message">Pokud u nás máte zaregistrovaný účet, zašleme vám nové heslo</string>
+    <string name="internet_error">Žádost se nepodařilo odeslat. Zkontrolujte prosím své internetové připojení.</string>
+    <string name="valid_email">Prosím, zadejte svou e-mailovou adresu</string>
+    <string name="valid_password">Prosím, zadejte své heslo</string>
+    <string name="sing_in">Přihlásit se</string>
+    <string name="sign_in_continue">Chcete-li pokračovat, přihlaste se</string>
+    <string name="password">Heslo</string>
+    <string name="remember">Zapamatovat si mě</string>
+    <string name="login">Přihlásit se</string>
+    <string name="forgot_password">Zapomenuté heslo?</string>
+    <string name="wrong_credentials">Zadali jste nesprávné přihlašovací údaje</string>
+    <string name="seconds">s (sekundy)</string>
+    <string name="about_us_descript">"Na vývoj této aplikace dohlíželi mistři Reiki, kteří měli tu čest naučit se Reiki v Japonsku.
+
+Věříme, že pro správné praktikování Reiki je důležité znát následující informace, které by mohly být užitečné pro praktikující všech škol Reiki, protože základ je společný:
+
+1. Životní příběh Usui Senseie
+2. Příběh Usui Reiki od začátku
+3. Přesné překlady Gokai
+4. Překlad první a druhé části Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (čtvrtá část Usui Reiki Hikkei) pro meditaci
+6. Meditace Usui Reiki
+
+Naše aplikace poskytuje pomoc při procvičování pátého bodu. Prosím, rozšiřte svou každodenní praxi vyjádřením vděčnosti Usui Reiki Ryoho Gakkai, jejím minulým i současným praktikujícím a Mistrům za udržování praxe a za ochranu a střežení Usui Reiki Ryoho v Japonsku dodnes.
+
+Návod na procvičování:
+Na základě učení Mistra Usuiho a také našich zkušeností doporučujeme provádět meditaci dvakrát denně, ráno a večer, hned po probuzení a před spaním. Doba trvání je volitelná. Na konci meditace recitujte Gokai v japonštině nebo ve svém rodném jazyce. Poté doporučujeme poděkovat Usui Reiki Ryoho Gakkai, jak jsme zmínili dříve.
+
+Pokud jste literární překladatel a najdete v našich překladech nějaké chyby, pošlete je prosím na daechong@protonmail.com, abychom mohli váš komentář prodiskutovat s překladatelskou kanceláří.
+
+Upřímně doufáme, že vám naše aplikace pomůže s každodenní praxí."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

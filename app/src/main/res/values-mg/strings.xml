@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Tononkalo androany</string>
+    <string name="nav_settings">Tefy</string>
+    <string name="nav_about">Momba anay</string>
+    <string name="nav_use">Ahoana no fampiasa azy?</string>
+    <string name="logout">Mivoaka</string>
+    <string name="account">Kaonty</string>
+    <string name="language">Fiteny</string>
+    <string name="user_interface">Pejy fandraisana</string>
+    <string name="setting_poems">Tononkalo</string>
+    <string name="additional_settings">Tefy fanampiny</string>
+    <string name="repeat_song">Avereno ilay hira</string>
+    <string name="on">Mandeha</string>
+    <string name="off">Ajanona</string>
+    <string name="wait_between_repeats">Fotoana manelanelana ny fiverenana</string>
+    <string name="poems_for_day">Meiji Waka androany</string>
+    <string name="refresh_poem">Eo am-panesehana ny tononkalo, miandrasa kely azafady…</string>
+    <string name="logout_message">Hivoaka tokoa ve ianao?</string>
+    <string name="yes">Eny</string>
+    <string name="no">Tsia</string>
+    <string name="change_language">Hanova fiteny</string>
+    <string name="save">Tehirizina</string>
+    <string name="cancel">Ajanona</string>
+    <string name="lang_english">Anglisy</string>
+    <string name="lang_japanese">Japone</string>
+    <string name="lang_hungarian">Hongariana</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Alemà</string>
+    <string name="lang_spanish">Espaniola</string>
+    <string name="lang_lao">Laos</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indoneziana</string>
+    <string name="lang_malaysian">Maleziana</string>
+    <string name="lang_italian">Italiana</string>
+    <string name="lang_french">Frantsay</string>
+    <string name="lang_arabic">Arabo</string>
+    <string name="lang_swahili">Svaheli</string>
+    <string name="lang_chinese_mandarin">Sinoa mandarin</string>
+    <string name="lang_portugese">Portogey</string>
+    <string name="lang_korean">Koreana</string>
+    <string name="lang_vietnamese">Vietnamiana</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Rosiana</string>
+    <string name="lang_ukrainian">Okreniana</string>
+    <string name="lang_turkish">Tiorka</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czeh</string>
+    <string name="lang_slovak">Slovakiana</string>
+    <string name="lang_slovenian">Sloveniana</string>
+    <string name="lang_serbian">Serbiana</string>
+    <string name="lang_croatian">Horvatsa</string>
+    <string name="lang_romanian">Romaniana</string>
+    <string name="lang_swedish">Soeda</string>
+    <string name="lang_norwegian">Norvegiana</string>
+    <string name="lang_finnish">Finlande</string>
+    <string name="lang_danish">Danoà</string>
+    <string name="lang_dutch">Neerlande</string>
+    <string name="email">Mailaka</string>
+    <string name="dialog_sub">Aterina</string>
+    <string name="dialog_password_sent_message">Raha efa manana kaonty ato aminay ianao dia handefasanay teny miafina vaovao ianao</string>
+    <string name="internet_error">Tsy tanteraka ny fangatahanao. Mba hamarino azafady ny tambazotranao</string>
+    <string name="valid_email">Ampidiro ny adiresy mailakao</string>
+    <string name="valid_password">Ampidiro ny teny miafinao</string>
+    <string name="sing_in">Misoratra anarana</string>
+    <string name="sign_in_continue">Misoratra anarana mba hirosoana amin\'ny manaraka</string>
+    <string name="password">Teny miafina</string>
+    <string name="remember">Tadidio aho</string>
+    <string name="login">Miditra</string>
+    <string name="forgot_password">Adino ny teny miafina</string>
+    <string name="wrong_credentials">Diso ny famantarana nampidirinao</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Ity rindrambaiko ity dia noforonina teo ambanin’ny fanaraha-mason’ireo mpitsabo Reiki. Nianatra manokana ny Reiki tany Japana ireo mpitsabo ireo.
+
+Mino izahay fa tsara raha mahafantatra ireto manaraka ireto ianao raha te hanao ny Reiki. Mety hanampy be ireo mpitsabo any amin’ny sekoly fianarana Reiki maro samy hafa ireto manaraka ireto satria mitovy ihany ny fototra:
+
+1. Ny tantaram-piainan’i Sensei Usui
+2. Ny tantaran’i Reiki Usui hatrany amin’ny fiandohany
+3. Ireo dikateny marin’i Gokai
+4. Ny dikatenin’ny tapany voalohany sy faharoan’ny Usui Reiki Hikkei
+5. Fandinihan-tena amin’ny alalàn’ny Meiji Tennō Gyosei (tapany fahefatra amin’ny Usui Reiki Hikkei)
+6. Fandinihan-tena amin’ny alalàn’ny Usui Reiki
+
+Manampy amin’ny fandinihan-tena amin’ny alalàn’ny Meiji Tennō Gyosei io rindrambaiko io. Mamporisika anao izahay hanitatra ny fanazarana isan’andro amin’ny fankasitrahana ny Usui Reiki Ryoho Gakkai, ireo mpitsabo taloha sy ankehitriny, ary ireo mpampianatra marobe amin’ny fikajian’izy ireo ity fomba fitsaboana ity sy ny fiarovana ary ny fikolokoloana ny Usui Reiki Ryoho any Japana mandrak’ankehitriny.
+
+Torolàlana amin’ny fampiharana:
+
+Araka ny fampianaran’ny Maître Usui sy ny traikefanay dia mamporisika anao izahay hanao ny fandinihan-tena in-droa isan’andro, ny maraina vao mifoha sy ny hariva alohan’ny hatory. Tsy voafetra ny faharetany fa arak’izay hitanao fa mety ihany. Tonony amin’ny teny Japone na amin’ny tenindreninao ny Gokai rehefa mifarana ny fandinihan-tena. Manaraka izany, dia maneho fankasitrahana an’i Usui Reiki Ryoho Gakkai izahay, araka ny efa nolazaina teo aloha.
+
+Raha toa ka mpandika teny ianao ka mahita diso amin’ny fandikàna teny nataonay, dia mba alefaso ao amin’ny daechong@protonmail.com ny fanitsiana arosonao mba handinihanay izany ao anivon’ny sampana mpandika teny.
+
+Mino sy manantena izahay fa hanampy anao hanao Reiki isan’andro ity rindrambaiko norantovonay ity.
+    "</string>
+    <string name="lang_bulgarian">Biolgara</string>
+    <string name="lang_persian">Persianina</string>
+    <string name="lang_somali">Somali</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_greek">Grika</string>
+    <string name="lang_albanian">Albaney</string>
+    <string name="lang_polish">Poloney</string>
+</resources>

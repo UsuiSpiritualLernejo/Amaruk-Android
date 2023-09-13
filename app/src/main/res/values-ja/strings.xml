@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+
+    // SIGNIN
+    <string name="sing_in">サインイン</string>
+    <string name="sign_in_continue">サインインして続行します</string>
+    <string name="email">Eメールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="remember">私を覚えている</string>
+    <string name="login">ログインする</string>
+    <string name="forgot_password">パスワードをお忘れですか？</string>
+    <string name="change_language">言語を選択してください</string>
+    <string name="wrong_credentials">間違った資格情報を入力しました</string>
+
+    // FORGOT PWD
+    <string name="dialog_sub">参加する</string>
+    <string name="dialog_password_sent_message">あなたのメールアドレスで私たちに登録したならば、あなたに新しいパスワードを送ります</string>
+    <string name="internet_error">リクエストを送れない.あなたのインターネット接続がチェックしてください</string>
+    <string name="valid_email">あなたのメール アドレスを入力してください。 </string>
+    <string name="valid_password">パスワードを入力してください</string>
+
+    // SIDE MENU
+    <string name="nav_poems">毎日の詩</string>
+    <string name="nav_settings">設定</string>
+    <string name="nav_about">アプリについて</string>
+    <string name="nav_use">発霊法と五戒</string>
+    <string name="logout">ログアウト</string>
+    <string name="logout_message">ログアウトしますか？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+
+    // SETTINGS
+    <string name="account">会計</string>
+    <string name="language">言語</string>
+    <string name="user_interface">ユーザーインターフェース</string>
+    <string name="setting_poems">毎日の詩</string>
+    <string name="additional_settings">追加の設定</string>
+    <string name="repeat_song">詠唱</string>
+    <string name="on">になります</string>
+    <string name="off">オフになります</string>
+    <string name="wait_between_repeats">繰り返し時間</string>
+    <string name="seconds">秒</string>
+
+    // HOME
+    <string name="poems_for_day">毎日の詩</string>
+
+    // CHANGE LANGUAGE
+    <string name="save">保存する</string>
+    <string name="cancel">キャンセル</string>
+    <string name="lang_english">英語</string>
+    <string name="lang_japanese">日本語</string>
+    <string name="lang_hungarian">ハンガリー語</string>
+    <string name="lang_esperanto">エスペラント</string>
+
+    //ABOUT
+    <string name="about_us_descript">"
+アプリケーション開発管理は、日本でレイキを学ぶことができるレイキのマスターによって
+
+監督されています。詳細については https://usuispirituallernejo.org のウェブサイトを参照して下さい。
+
+Usui Spiritual Lernejo Foundation 2020
+    "</string>
+
+    // HOW TO USE
+    <string name="how_to_use_descript">"
+発霊法 と 五戒
+(1926年のこの漢字は (業 - ごう) カルマを意味しました)
+
+今日丈けは
+
+怒るな
+心配すな
+感謝して
+ごう
+業をはげめ
+人に親切に
+
+発霊法
+
+第一 正座
+第ニ 黙念
+第三 乾浴
+第四 霊気 とつながる
+第五　合掌
+第六　明治天皇和歌
+第七　溶心呼吸法
+第八　合掌
+第九　五戒
+第十　臼井霊気療法学会に感謝して
+    "</string>
+
+    <string name="refresh_poem">サーバーから詩を取得しています。しばらくお待ちください。</string>
+    <string name="lang_german">ドイツ人</string>
+    <string name="lang_spanish">スペイン語</string>
+    <string name="lang_lao">ラオス語</string>
+    <string name="lang_thai">タイ語</string>
+    <string name="lang_indonesian">インドネシア語</string>
+    <string name="lang_malaysian">マレーシア語</string>
+    <string name="lang_italian">イタリア語</string>
+    <string name="lang_french">フランス語</string>
+    <string name="lang_arabic">アラビア語</string>
+    <string name="lang_swahili">スワヒリ語</string>
+    <string name="lang_chinese_mandarin">中国北京語</string>
+    <string name="lang_portugese">ポルトガル語</string>
+    <string name="lang_korean">韓国語</string>
+    <string name="lang_vietnamese">ベトナム語</string>
+    <string name="lang_afrikaans">アフリカーンス語</string>
+    <string name="lang_malagasy">マダガスカル語</string>
+    <string name="lang_russian">ロシア語</string>
+    <string name="lang_ukrainian">ウクライナ語</string>
+    <string name="lang_turkish">トルコ語</string>
+    <string name="lang_urdu">ウルドゥー語</string>
+    <string name="lang_czech">チェコ語</string>
+    <string name="lang_slovak">スロバキア</string>
+    <string name="lang_slovenian">スロベニア語</string>
+    <string name="lang_serbian">セルビア語</string>
+    <string name="lang_croatian">クロアチア語</string>
+    <string name="lang_romanian">ルーマニア語</string>
+    <string name="lang_swedish">スウェーデンの</string>
+    <string name="lang_norwegian">ノルウェー語</string>
+    <string name="lang_finnish">フィンランド語</string>
+    <string name="lang_danish">デンマーク語</string>
+    <string name="lang_dutch">オランダの</string>
+    <string name="lang_bulgarian">ブルガリア語</string>
+    <string name="lang_persian">ペルシア語</string>
+    <string name="lang_somali">ソマリア</string>
+    <string name="lang_yoruba">ヨルバ人</string>
+    <string name="lang_hausa">ハウサ語</string>
+    <string name="lang_igbo">イボ</string>
+    <string name="lang_greek">ギリシャ語</string>
+    <string name="lang_albanian">アルバニア語</string>
+    <string name="lang_polish">ポルスキー</string>
+</resources>

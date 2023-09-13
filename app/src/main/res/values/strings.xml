@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Amaruk</string>
+    <string name="bgimage" translatable="false">Welcome screen background image</string>
+    <string name="usl" translatable="false">Usui Spiritual Lernejo Foundation</string>
+
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+
+    // SIDE MENU
+    <string name="nav_poems">Today\'s poem</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">About Us</string>
+    <string name="nav_use">How To Use</string>
+    <string name="logout">Log out</string>
+
+    // SETTINGS
+    <string name="account">Account</string>
+    <string name="language">Language</string>
+    <string name="user_interface">User interface</string>
+    <string name="setting_poems">Poems</string>
+    <string name="additional_settings">Additional Settings</string>
+    <string name="repeat_song">Repeat song</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="wait_between_repeats">Time interval between repetitions</string>
+
+    // HOME
+    <string name="poems_for_day">Meiji Waka of the Day</string>
+    <string name="refresh_poem">Getting poem from server, please wait…</string>
+    <string name="logout_message">Do you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="change_language">Change Language</string>
+
+    // CHANGE LANGUAGE
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="lang_english">English</string>
+    <string name="lang_japanese">Japanese</string>
+    <string name="lang_hungarian">Hungarian</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">German</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonesian</string>
+    <string name="lang_malaysian">Malaysian</string>
+    <string name="lang_italian">Italian</string>
+    <string name="lang_french">French</string>
+    <string name="lang_arabic">Arabic</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">"Chinese (Mandarin) "</string>
+    <string name="lang_portugese">Portugese</string>
+    <string name="lang_korean">Korean</string>
+    <string name="lang_vietnamese">Vietnamese</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Russian</string>
+    <string name="lang_ukrainian">Ukrainian</string>
+    <string name="lang_turkish">Turkish</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czech</string>
+    <string name="lang_slovak">Slovak</string>
+    <string name="lang_slovenian">Slovenian</string>
+    <string name="lang_serbian">Serbian</string>
+    <string name="lang_croatian">Croatian</string>
+    <string name="lang_romanian">Romanian</string>
+    <string name="lang_swedish">Swedish</string>
+    <string name="lang_norwegian">Norwegian</string>
+    <string name="lang_finnish">Finnish</string>
+    <string name="lang_danish">Danish</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="lang_polish">Polish</string>
+    <string name="lang_albanian">Albanian</string>
+    <string name="lang_greek">Greek</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_somali">Somali</string>
+    <string name="lang_persian">Persian</string>
+    <string name="lang_bulgarian">Bulgarian</string>
+
+    // SIGNIN
+    <string name="email">Email</string>
+    <string name="dialog_sub">Submit</string>
+    <string name="dialog_password_sent_message">We will send you a new password if you have a registered account with us</string>
+    <string name="internet_error">Couldn\'t send request. Please check your Internet connection.</string>
+    <string name="valid_email">Please enter your Email address</string>
+    <string name="valid_password">Please enter your password</string>
+
+    <string name="sing_in">Sign in</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+
+    <string name="password">Password</string>
+    <string name="remember">Remember Me</string>
+    <string name="login">Login</string>
+
+    // FORGOT PWD
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="wrong_credentials">You have entered wrong credentials</string>
+    <string name="seconds">s</string>
+
+    //ABOUT
+    <string name="about_us_descript">"The development of this app has been supervised by Reiki masters who had the honour to learn Reiki in Japan.
+
+To practise Reiki properly, we believe it is important to be familiar with the following, which could be useful for practitioners of all Reiki schools, since the foundation is common:
+
+1. Usui Sensei’s life story
+2. The story of Usui Reiki from the beginning
+3. Accurate translations of the Gokai
+4. The translation of the first and second part of the Usui Reiki Hikkei
+5. The Meiji Tennō Gyosei (the fourth part of the Usui Reiki Hikkei) for meditation
+6. The Usui Reiki meditation
+
+Our app provides help to practise the fifth point. Please extend your daily practice by expressing gratitude towards the Usui Reiki Ryoho Gakkai, its past and present practitioners, and Masters for maintaining the practice and for protecting and guarding the Usui Reiki Ryoho in Japan to this day.
+
+Guide to practising:
+Based on the teachings of Master Usui and also our experience, we recommend doing the meditation twice a day, in the morning and in the evening, right after waking up and before going to bed. The duration is optional. Please recite the Gokai in Japanese or in your native language at the end of your meditation. After that, we suggest giving thanks to the Usui Reiki Ryoho Gakkai, as we mentioned earlier.
+
+If you are a literary translator and you find any errors in our translations, please send your feedback to daechong@protonmail.com so we can discuss your comment with the translation office.
+
+We sincerely hope that our app will help you with your daily practice.
+    "</string>
+
+    // HOW TO USE
+    <string name="how_to_use_descript">"
+The recommended daily meditation
+
+1. Seiza, namely zen sit, place your hands in your lap.
+2. Mokunen, namely relax your breath, calm down.
+3. joshin kokkyu ho, namely the dry bathing. Sweeping of chest and arms.
+4. Asking the Reiki.
+5. Gassho.
+6. Listen to a Meiji waka.
+7. Place your hands below tanden, start the meditation and continue until feels good.
+8. Form Gassho in front of your chest.
+9. Recite the five Reiki principles three times then bow.
+10. Give thanks to all past and current members of the Usui Reiki Ryoho Gakkai for keeping up the practice and guarding the Usui Reiki Ryoho.
+
+The five Reiki principles or known as Gokai:
+
+Just for today,
+I will not be angry,
+I will not worry,
+I will be grateful,
+I will do my work honestly,
+I will be kind to every living thing.
+    "</string>
+</resources>

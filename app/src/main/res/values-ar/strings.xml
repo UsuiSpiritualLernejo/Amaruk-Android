@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">قصيدة اليوم</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_about">معلومات عنا</string>
+    <string name="nav_use">طريقة الاستخدام</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="account">حساب</string>
+    <string name="language">اللغة</string>
+    <string name="user_interface">واجهة المستخدم</string>
+    <string name="setting_poems">قصائد</string>
+    <string name="additional_settings">إعدادات إضافية</string>
+    <string name="repeat_song">كرر الأغنية</string>
+    <string name="on">تشغيل</string>
+    <string name="off">إيقاف</string>
+    <string name="wait_between_repeats">الفاصل الزمني بين التكرارات (؟؟ بالثوان)</string>
+    <string name="poems_for_day">ميجي واكا اليوم</string>
+    <string name="refresh_poem">تنزيل قصيدة من السيرفر، يُرجى الانتظار …</string>
+    <string name="logout_message">هل ترغب بالخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="lang_english">الإنجليزية</string>
+    <string name="lang_japanese">اليابانية</string>
+    <string name="lang_hungarian">هنغارية</string>
+    <string name="lang_esperanto">اسبرانتو</string>
+    <string name="lang_german">الألمانية</string>
+    <string name="lang_spanish">الأسبانية</string>
+    <string name="lang_lao">"اللاوية "</string>
+    <string name="lang_thai">التايلاندية</string>
+    <string name="lang_indonesian">الإندونيسية</string>
+    <string name="lang_malaysian">الماليزية</string>
+    <string name="lang_italian">الإيطالية</string>
+    <string name="lang_french">الفرنسية</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_swahili">السواحلية</string>
+    <string name="lang_chinese_mandarin">" الصينية الفصحى"</string>
+    <string name="lang_portugese">البرتغالية</string>
+    <string name="lang_korean">الكورية</string>
+    <string name="lang_vietnamese">الفيتنامية</string>
+    <string name="lang_afrikaans">الأفريقية</string>
+    <string name="lang_malagasy">" الملغاشية"</string>
+    <string name="lang_russian">الروسية</string>
+    <string name="lang_ukrainian">الأوكرانية</string>
+    <string name="lang_turkish">التركية</string>
+    <string name="lang_urdu">الأردية</string>
+    <string name="lang_czech">التشيكية</string>
+    <string name="lang_slovak">السلوفاكية</string>
+    <string name="lang_slovenian">السلوفينية</string>
+    <string name="lang_serbian">الصربية</string>
+    <string name="lang_croatian">هورفاتس</string>
+    <string name="lang_romanian">الرومانية</string>
+    <string name="lang_swedish">السويدية</string>
+    <string name="lang_norwegian">النرويجية</string>
+    <string name="lang_finnish">الفنلندية</string>
+    <string name="lang_danish">الدانماركية</string>
+    <string name="lang_dutch">الهولندية</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="dialog_sub">قم بالتقديم</string>
+    <string name="dialog_password_sent_message">"إذا كان لديك حساب مسجل لدينا فسنرسل لك  كلمة مرور جديدة "</string>
+    <string name="internet_error">تعذر إرسال الطلب. الرجاء التحقق من اتصالك بالانترنت.</string>
+    <string name="valid_email">الرجاء إدخال عنوان البريد الإلكتروني الخاص بك</string>
+    <string name="valid_password">من فضلك أدخل رقمك السري</string>
+    <string name="sing_in">تسجيل الدخول</string>
+    <string name="sign_in_continue">قم بتسجيل الدخول للمتابعة</string>
+    <string name="password">كلمة المرور</string>
+    <string name="remember">تذكرنى</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="forgot_password">هل نسيت كلمة السر؟</string>
+    <string name="wrong_credentials">لقد أدخلت بيانات خاطئة</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+تم تطوير هذا التطبيق تحت إشراف معلّمي الرايكي الذين تشرّفوا بتعلّم الرايكي في اليابان.
+
+لممارسة الرايكي على الوجه الأمثل، نعتقد بأهمية القواعد التالية، التي يمكن أن تكون مفيدة للممارسين من جميع مدارس الرايكي، بما أنها تشترك في الأساس:
+
+1. قصة حياة أوزوي سنساي
+2. قصة أوزوي رايكي منذ البداية
+3. التراجم الدقيقة للغوكاي
+4. ترجمة الجزء الأول والثاني من أوزوي رايكي هيكاي
+5. المايجي تينو غيوساي (الجزء الرابع من أوزوي رايكي هيكاي) للتأمل
+6. تأمل أوزوي رايكي
+
+يوفر تطبيقنا المساعدة على ممارسة النقطة الخامسة. الرجاء تمديد ممارستك اليومية من خلال التعبير عن الامتنان للأوزوي رايكي ريوهو غاكاي ولممارسيها في الماضي والحاضر، ولمعلميها من اجل حفاظهم على الممارسة وحمايتهم وحراستهم للأوزوي رايكي ريوهو في اليابان حتى هذا اليوم.
+
+دليل الارشادات الخاص بالممارسة:
+
+بناء على تعاليم المعلم أوزوي وعلى تجربتنا، ننصح بممارسة التأمل مرتين يوميا، في الصباح والمساء، بعد الاستيقاظ فورا ومباشرة قبل النوم. مدة الممارسة اختيارية. الرجاء تلاوة الغوكاي باللغة اليابانية أو بلغتك الأم حتى نهاية التأمل. بعد ذلك، نقترح تقديم الشكر لأوزوي رايكي ريوهو غاكاي، وللذين سبق ذكرهم.
+
+إن كنت مترجما حرفيا و وجدت خطأ في ترجماتنا، الرجاء مراسلتنا على daechong@protonmail.com
+حتى يتسنى لنا مناقشة تعليقك في مكتب الترجمة.
+
+نرجو بصدق ان يساعدكم تطبيقنا على ممارستكم اليومية.
+    "</string>
+    <string name="lang_bulgarian">البلغارية</string>
+    <string name="lang_persian">اللغة الفارسية</string>
+    <string name="lang_somali">صومالي</string>
+    <string name="lang_yoruba">اليوروبا</string>
+    <string name="lang_hausa">الهوسا</string>
+    <string name="lang_igbo">الإيغبو</string>
+    <string name="lang_greek">اليونانية</string>
+    <string name="lang_albanian">الألبانية</string>
+    <string name="lang_polish">بولسكي</string>
+</resources>

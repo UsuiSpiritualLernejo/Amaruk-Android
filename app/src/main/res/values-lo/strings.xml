@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">ຂໍ້ມື້ນີ້</string>
+    <string name="nav_settings">ການຕັ້ງຄ່າຕ່າງໆ</string>
+    <string name="nav_about">ກ່ຽວກັບພວກເຮົາ</string>
+    <string name="nav_use">ຊ່ວຍ</string>
+    <string name="logout">ອອກຈາກລະບົບ</string>
+    <string name="account">ບັນຊີ</string>
+    <string name="language">ພາສາ</string>
+    <string name="user_interface">ໜ້າ ຈໍຜູ້ໃຊ້</string>
+    <string name="setting_poems">ກະວີ</string>
+    <string name="additional_settings">ການຕັ້ງຄ່າເພີ່ມເຕີມ</string>
+    <string name="repeat_song">ເຮັດຊ້ ຳ ເພງ</string>
+    <string name="on">ປິດ</string>
+    <string name="off">ປິດ</string>
+    <string name="wait_between_repeats">ໄລຍະຫ່າງລະຫວ່າງການຄ້າງຫ້ອງ</string>
+    <string name="poems_for_day">ຂໍ້ມື້ນີ້</string>
+    <string name="refresh_poem">ໄດ້ຮັບກະວີຈາກ server, ກະລຸນາລໍຖ້າ</string>
+    <string name="logout_message">ທ່ານຕ້ອງການອອກຈາກລະບົບຫລືບໍ່?</string>
+    <string name="yes">"ແມ່ນແລ້ວ "</string>
+    <string name="no">ບໍ່</string>
+    <string name="change_language">"ປ່ຽນພາສາ, , "</string>
+    <string name="save">ບັນທຶກ</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="lang_english">ອັງກິດ</string>
+    <string name="lang_japanese">ຍີ່ປຸ່ນ</string>
+    <string name="lang_hungarian">ຮັງກາຣີ</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">ເຢຍລະມັນ</string>
+    <string name="lang_spanish">ແອສປາໂຍນ</string>
+    <string name="lang_lao">ລາວ</string>
+    <string name="lang_thai">ໄທ</string>
+    <string name="lang_indonesian">ອິນໂດເນເຊຍ</string>
+    <string name="lang_malaysian">ມາເລເຊຍ</string>
+    <string name="lang_italian">ອີຕາລີ</string>
+    <string name="lang_french">ຝຣັ່</string>
+    <string name="lang_arabic">ອາຫລັບ</string>
+    <string name="lang_swahili">Svahili</string>
+    <string name="lang_chinese_mandarin">ຈີນກາງ</string>
+    <string name="lang_portugese">ປອກຕຸຍການ,</string>
+    <string name="lang_korean">ເກົາຫຼີ</string>
+    <string name="lang_vietnamese">ຫວຽດນາມ</string>
+    <string name="lang_afrikaans">ອາຟຣິກາ,</string>
+    <string name="lang_malagasy">ມາລາກາ</string>
+    <string name="lang_russian">" ຣັດເຊຍ"</string>
+    <string name="lang_ukrainian">" ອູແກຣນ"</string>
+    <string name="lang_turkish">ຕຸລະກີ</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">ເຊັກ</string>
+    <string name="lang_slovak">ສະໂລວັກ</string>
+    <string name="lang_slovenian">ສະໂລເວເນຍ</string>
+    <string name="lang_serbian">ເຊີເບຍ</string>
+    <string name="lang_croatian">ໂຄຣເອເຊຍ</string>
+    <string name="lang_romanian">ໂຣມາເນຍ</string>
+    <string name="lang_swedish">ຊູແອັດ</string>
+    <string name="lang_norwegian">ນໍເວ</string>
+    <string name="lang_finnish">ຟິນແລນ</string>
+    <string name="lang_danish">ເດັນມາກ</string>
+    <string name="lang_dutch">ໂຮນລັງ</string>
+    <string name="email">ອີເມວ</string>
+    <string name="dialog_sub">ສົ່</string>
+    <string name="dialog_password_sent_message">ພວກເຮົາຈະສົ່ງລະຫັດລັບ ໃໝ່ ຖ້າທ່ານມີບັນຊີລົງທະບຽນກັບພວກເຮົາ</string>
+    <string name="internet_error">ບໍ່ສາມາດສົ່ງ ຄຳ ຂໍ. ກະລຸນາກວດສອບການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານ .</string>
+    <string name="valid_email">ກະລຸນາໃສ່ທີ່ຢູ່ອີເມວຂອງທ່ານ</string>
+    <string name="valid_password">ກະລຸນາໃສ່ລະຫັດຜ່ານຂອງທ່ານ</string>
+    <string name="sing_in">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="sign_in_continue">ເຂົ້າສູ່ລະບົບເພື່ອສືບຕໍ່</string>
+    <string name="password">ລະຫັດຜ່ານ</string>
+    <string name="remember">ຈື່ຂ້ອຍ</string>
+    <string name="login">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="forgot_password">ລືມລະຫັດຜ່ານ?</string>
+    <string name="wrong_credentials">ທ່ານໄດ້ໃສ່ຂໍ້ມູນປະ ຈຳ ທີ່ບໍ່ຖືກຕ້ອ</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+ແອັບ This ນີ້ຖືກແຕ່ງຂື້ນແລະພັດທະນາໂດຍແມ່ບົດ Reiki ທີ່ເປັນກຽດທີ່ໄດ້ຮຽນ Reiki ໃນປະເທດຍີ່ປຸ່ນ.
+
+ມັນເປັນສິ່ງສໍາຄັນທີ່ຈະສຶກສາຕໍ່ໄປນີ້ແລະຈະເປັນປະໂຫຍດແກ່ນັກປະຕິບັດໃນໂຮງຮຽນ Reiki. ເພາະວ່າມັນແມ່ນພື້ນຖານທົ່ວໄປ
+
+1. ເລື່ອງລາວຂອງຊີວິດຂອງອາຈານ Usui (Usui Sensei)
+2. ເລື່ອງຂອງ Usui Reiki ໃນຕອນເລີ່ມຕົ້ນ
+3. ການແປ Gokai ທີ່ຖືກຕ້ອງ
+4. ການແປຂອງ Usui Reiki Hikkei, ພາກ ທຳ ອິດແລະພາກສ່ວນທີສອງ
+5. Meiji Tennō Gyosei, ສ່ວນສີ່ຂອງ Usui Reiki Hikkei ສຳ ລັບການນັ່ງສະມາທິ.
+6. ສະມາທິ Usui Reiki
+
+app ຂອງພວກເຮົາໃຫ້ການຊ່ວຍເຫຼືອໃນການຝຶກອົບຮົມຕາມຈຸດທີຫ້າ. ແລະພວກເຮົາຂໍສະແດງຄວາມຮູ້ບຸນຄຸນຕໍ່ Usui Reiki Ryoho Gakkai, ຜູ້ປະຕິບັດງານໃນອະດີດແລະປະຈຸບັນໃນການປົກປ້ອງແລະເບິ່ງແຍງ Usui. Reiki ແບບດັ້ງເດີມໃນປະເທດຍີ່ປຸ່ນຈົນເຖິງທຸກມື້ນີ້ລົງສູ່ການປະຕິບັດປະ ຈຳ ວັນຂອງທ່ານ.
+
+ຄຳ ແນະ ນຳ ໃນການຝຶກ:
+ຈາກ ຄຳ ສອນຂອງ Master Usui ແລະປະສົບການຂອງພວກເຮົາ ພວກເຮົາແນະ ນຳ ໃຫ້ສະມາທິສອງຄັ້ງຕໍ່ມື້. ນັ້ນແມ່ນ, ໃນຕອນເຊົ້າແລະຕອນແລງ, ຫຼັງຈາກຕື່ນນອນແລະກ່ອນເຂົ້ານອນ. ໃນໄລຍະເວລາ, ທ່ານສາມາດຕັ້ງຄ່າຕົວເອງໄດ້ ໃນຕອນທ້າຍຂອງການສະມາທິ ກະລຸນາອ່ານ Gokai ເປັນພາສາຍີ່ປຸ່ນຫລືພາສາຫຼັກຂອງທ່ານ. ຫລັງຈາກນັ້ນ, ພວກເຮົາແນະ ນຳ ໃຫ້ທ່ານຂອບໃຈ Usui Reiki Ryoho Gakkai, ດັ່ງທີ່ພວກເຮົາໄດ້ກ່າວມາກ່ອນ ໜ້າ ນີ້.
+
+ຖ້າທ່ານຊ່ຽວຊານດ້ານການແປພາສາແລະໄດ້ພົບເຫັນຂໍ້ຜິດພາດໃດໆໃນການແປຂອງພວກເຮົາ, ກະລຸນາສົ່ງ ຄຳ ເຫັນຂອງທ່ານມາ daechong@protonmail.com ເພື່ອວ່າພວກເຮົາສາມາດປຶກສາຫາລື ຄຳ ເຫັນຂອງທ່ານກັບຫ້ອງການແປພາສາ.
+
+ພວກເຮົາຫວັງຢ່າງຈິງໃຈວ່າແອັບ our ຂອງພວກເຮົາຈະຊ່ວຍທ່ານໃນການປະຕິບັດປະ ຈຳ ວັນຂອງທ່ານ.
+    "</string>
+    <string name="lang_bulgarian">ບຸນກາຣີ</string>
+    <string name="lang_persian">ເປີເຊຍ</string>
+    <string name="lang_somali">ໂຊມາລີ</string>
+    <string name="lang_yoruba">ໂຢຣູບາ</string>
+    <string name="lang_hausa">ໂຮຊາ</string>
+    <string name="lang_igbo">ອິກໂບ</string>
+    <string name="lang_greek">ກຣີກ</string>
+    <string name="lang_albanian">ອານບານີ</string>
+    <string name="lang_polish">ໂປໂລຍ</string>
+</resources>

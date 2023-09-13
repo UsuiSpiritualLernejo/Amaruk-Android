@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Shairi la leo</string>
+    <string name="nav_settings">Mipangilio</string>
+    <string name="nav_about">Kuhusu sisi</string>
+    <string name="nav_use">Jinsi ya kutumia</string>
+    <string name="logout">Ingia nje</string>
+    <string name="account">Akaunti</string>
+    <string name="language">Lugha</string>
+    <string name="user_interface">Kiolesura ya mtumiaji</string>
+    <string name="setting_poems">Mashairi</string>
+    <string name="additional_settings">Mipangilio ya Ziada</string>
+    <string name="repeat_song">Rudia wimbo</string>
+    <string name="on">Washa</string>
+    <string name="off">Zima</string>
+    <string name="wait_between_repeats">Muda kati ya marudio</string>
+    <string name="poems_for_day">Meiji Waka wa Siku</string>
+    <string name="refresh_poem">Kupata shairi kutoka kwa seva, tafadhali subiri …</string>
+    <string name="logout_message">Je! Unataka kutoka?</string>
+    <string name="yes">Ndio</string>
+    <string name="no">Hapana</string>
+    <string name="change_language">Badilisha Lugha</string>
+    <string name="save">Okoa</string>
+    <string name="cancel">Ghairi</string>
+    <string name="lang_english">Kiingereza</string>
+    <string name="lang_japanese">Kijapani</string>
+    <string name="lang_hungarian">Kihungari</string>
+    <string name="lang_esperanto">Kiesperanto</string>
+    <string name="lang_german">Kijerumani</string>
+    <string name="lang_spanish">Kihispania</string>
+    <string name="lang_lao">Laos</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonesia</string>
+    <string name="lang_malaysian">Malaysia</string>
+    <string name="lang_italian">Italia</string>
+    <string name="lang_french">Kifaransa</string>
+    <string name="lang_arabic">Kiarabu</string>
+    <string name="lang_swahili">Svaheli</string>
+    <string name="lang_chinese_mandarin">Uchina mandarin</string>
+    <string name="lang_portugese">Kireno</string>
+    <string name="lang_korean">Korea</string>
+    <string name="lang_vietnamese">Kivietinamu</string>
+    <string name="lang_afrikaans">Waafrika</string>
+    <string name="lang_malagasy">Malagasi</string>
+    <string name="lang_russian">Urusi</string>
+    <string name="lang_ukrainian">Ukrainia</string>
+    <string name="lang_turkish">Uturuki</string>
+    <string name="lang_urdu">Kiurdu</string>
+    <string name="lang_czech">Czeh</string>
+    <string name="lang_slovak">Kislovakia</string>
+    <string name="lang_slovenian">Kislovenia</string>
+    <string name="lang_serbian">Mserbia</string>
+    <string name="lang_croatian">Croatia</string>
+    <string name="lang_romanian">Kiromania</string>
+    <string name="lang_swedish">Kiswidi</string>
+    <string name="lang_norwegian">Wa-Norway</string>
+    <string name="lang_finnish">Finn</string>
+    <string name="lang_danish">Kidenmaki</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="email">Barua pepe</string>
+    <string name="dialog_sub">Wasilisha</string>
+    <string name="dialog_password_sent_message">Tutakutumia nywila mpya ikiwa una akaunti iliyosajiliwa nasi</string>
+    <string name="internet_error">Ombi halijatumwa. Tafadhali angalia muunganisho wako wa Mtandao.</string>
+    <string name="valid_email">Tafadhali ingiza anwani yako ya barua pepe</string>
+    <string name="valid_password">Tafadhali ingiza nywila yako</string>
+    <string name="sing_in">Weka sahihi</string>
+    <string name="sign_in_continue">Ingia katika akaunti ili uendelee</string>
+    <string name="password">Nenosiri</string>
+    <string name="remember">Nikumbuke</string>
+    <string name="login">Ingia</string>
+    <string name="forgot_password">Umesahau nywila?</string>
+    <string name="wrong_credentials">Umeingiza vitambulisho vibaya</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Uendelezaji wa programu hii umesimamiwa na wakuu wa Reiki ambao walikuwa na heshima ya kujifunza Reiki huko Japani.
+
+Ili kufanya mazoezi ya Reiki vizuri, tunaamini ni muhimu kufahamiana na yafuatayo, ambayo inaweza kuwa muhimu kwa watendaji wa shule zote za Reiki, kwani msingi ni wa kawaida:
+
+1. Hadithi ya maisha ya Usui Sensei
+2. Hadithi ya Usui Reiki tangu mwanzo
+3. Tafsiri sahihi za Gokai
+4. Tafsiri ya sehemu ya kwanza na ya pili ya Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (sehemu ya nne ya Usui Reiki Hikkei) kwa kutafakari
+6. Tafakari ya Usui Reiki
+
+Programu yetu hutoa msaada wa kufanya mazoezi ya hatua ya tano. Tafadhali ongeza mazoezi yako ya kila siku kwa kutoa shukrani kwa Usui Reiki Ryoho Gakkai, watendaji wake wa zamani na wa sasa, na Wakuu kwa kudumisha mazoezi na kwa kulinda Usui Reiki Ryoho huko Japan hadi leo.
+
+Mwongozo wa kufanya mazoezi:
+Kulingana na mafundisho ya Bwana Usui na pia uzoefu wetu, tunapendekeza kufanya kutafakari mara mbili kwa siku, asubuhi na jioni, mara tu baada ya kuamka na kabla ya kulala. Muda wake ni kwa hiari. Tafadhali soma Gokai kwa Kijapani au kwa lugha yako ya asili mwisho wa kutafakari kwako. Baada ya hapo, tunashauri kutoa shukrani kwa Usui Reiki Ryoho Gakkai, kama tulivyosema hapo awali.
+
+Ikiwa wewe ni mtafsiri wa fasihi na unapata makosa yoyote katika tafsiri zetu, tafadhali tuma maoni yako kwa daechong@protonmail.com ili tuweze kujadili maoni yako na ofisi ya tafsiri.
+
+Tunatumahi kwa dhati kuwa programu yetu itakusaidia kwa mazoezi yako ya kila siku.
+    "</string>
+    <string name="lang_bulgarian">Kibulgaria</string>
+    <string name="lang_persian">Kiajemi</string>
+    <string name="lang_somali">Msomali</string>
+    <string name="lang_yoruba">Kiyoruba</string>
+    <string name="lang_hausa">Kihausa</string>
+    <string name="lang_igbo">Kiigbo</string>
+    <string name="lang_greek">Kigiriki</string>
+    <string name="lang_albanian">Kialbeni</string>
+    <string name="lang_polish">Kipolandi</string>
+</resources>

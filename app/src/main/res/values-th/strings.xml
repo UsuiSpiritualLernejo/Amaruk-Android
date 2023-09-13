@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">กลอนวันนี้</string>
+    <string name="nav_settings">การตั้งค่า</string>
+    <string name="nav_about">เกี่ยวกับเรา</string>
+    <string name="nav_use">วิธีใช้</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="account">บัญชี</string>
+    <string name="language">ภาษา</string>
+    <string name="user_interface">หน้าจอผู้ใช้</string>
+    <string name="setting_poems">บทกวี</string>
+    <string name="additional_settings">การตั้งค่าเพิ่มเติม</string>
+    <string name="repeat_song">ทำซ้ำเพลง</string>
+    <string name="on">เปิด</string>
+    <string name="off">ปิด</string>
+    <string name="wait_between_repeats">ช่วงเวลาระหว่างการทำซ้ำ</string>
+    <string name="poems_for_day">กลอนวันนี้</string>
+    <string name="refresh_poem">รับบทกวีจากเซิร์ฟเวอร์โปรดรอ …</string>
+    <string name="logout_message">คุณต้องการออกจากระบบหรือไม่ใช่ไหม?</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่ใช่</string>
+    <string name="change_language">เปลี่ยนภาษา</string>
+    <string name="save">บันทึก</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="lang_english">อังกฤษ.</string>
+    <string name="lang_japanese">ญี่ปุ่น</string>
+    <string name="lang_hungarian">ฮังการี.</string>
+    <string name="lang_esperanto">เอสเปรันโต</string>
+    <string name="lang_german">เยอรมัน</string>
+    <string name="lang_spanish">สเปน</string>
+    <string name="lang_lao">ลาว</string>
+    <string name="lang_thai">ไทย</string>
+    <string name="lang_indonesian">อินโดนีเซีย</string>
+    <string name="lang_malaysian">อังกฤษ.</string>
+    <string name="lang_italian">ญี่ปุ่น</string>
+    <string name="lang_french">อังกฤษ.</string>
+    <string name="lang_arabic">อาหรับ</string>
+    <string name="lang_swahili">ซาเฮลี</string>
+    <string name="lang_chinese_mandarin">จีนแมนดาริน</string>
+    <string name="lang_portugese">โปรตุเกส</string>
+    <string name="lang_korean">เกาหลี</string>
+    <string name="lang_vietnamese">เวียดนาม</string>
+    <string name="lang_afrikaans">" แอฟริกัน"</string>
+    <string name="lang_malagasy">" มาลากาซี"</string>
+    <string name="lang_russian">รัสเซีย</string>
+    <string name="lang_ukrainian">ยูเครน</string>
+    <string name="lang_turkish">ตุรกี</string>
+    <string name="lang_urdu">อูรดู</string>
+    <string name="lang_czech">เช็ก</string>
+    <string name="lang_slovak">สโลวัก</string>
+    <string name="lang_slovenian">สโลวีเนีย</string>
+    <string name="lang_serbian">เซอร์เบีย</string>
+    <string name="lang_croatian">โครเอเชีย</string>
+    <string name="lang_romanian">ภาษาโรมาเนีย</string>
+    <string name="lang_swedish">ภาษาสวีเดน</string>
+    <string name="lang_norwegian">ภาษานอร์เวย์</string>
+    <string name="lang_finnish">ภาษาฟินแลนด์</string>
+    <string name="lang_danish">ภาษาเดนมาร์ก</string>
+    <string name="lang_dutch">ดัตช์</string>
+    <string name="email">อีเมล์</string>
+    <string name="dialog_sub">ส่ง</string>
+    <string name="dialog_password_sent_message">เราจะส่งรหัสผ่านใหม่ให้คุณหากคุณมีบัญชีที่ลงทะเบียนกับเรา</string>
+    <string name="internet_error">ไม่สามารถส่งคำขอ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ</string>
+    <string name="valid_email">กรุณากรอกอีเมลของคุณ</string>
+    <string name="valid_password">กรุณาใส่รหัสผ่านของคุณ.</string>
+    <string name="sing_in">ลงชื่อเข้าใช้</string>
+    <string name="sign_in_continue">"ลงชื่อเข้าใช้เพื่อดำเนินการต่อ   "</string>
+    <string name="password">รหัสผ่าน.</string>
+    <string name="remember">จดจำฉัน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="forgot_password">ลืมรหัสผ่าน?</string>
+    <string name="wrong_credentials">คุณป้อนข้อมูลรับรองผิด</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+แอพนี้ได้รับการดูแลและพัฒนาโดยอาจารย์เรกิผู้ได้รับเกียรติในการเรียนรู้เรกิในญี่ปุ่น
+
+การศึกษาเรื่องต่อไปนี้เป็นสิ่งสำคัญและจะก่อประโยชน์แก่ผู้ฝึกปฏิบัติในโรงเรียนเรกิ  เนื่องจากเป็นพื้นฐานร่วมกัน
+
+1. เรื่องราวชีวิตของท่านอาจารย์อุซุย  (Usui Sensei)
+2. เรื่องราวของอุซุยเรกิ (Usui Reiki) ตั้งแต่เริ่มต้น
+3. การแปลโกไค (Gokai) ที่ถูกต้อง
+4. คำแปลของอุซุย เรกิ ฮิกเกอิ  (Usui Reiki Hikkei) ภาคแรกและภาคสอง
+5. เมจิ เทนโน กโยเซ (Meiji Tennō Gyosei) ซึ่งส่วนที่สี่ของอุซุย เรกิ ฮิกเกอิ  (Usui Reiki Hikkei) สำหรับการทำสมาธิ
+6. การทำสมาธิแบบอุซุย เรกิ
+
+แอพของเราให้ความช่วยเหลือในการฝึกฝนตามจุดที่ห้า และขอความร่วมมือเพิ่มการแสดงความขอบคุณต่อ  อุซุย เรกิ เรียวโฮ กักไค ผู้ปฏิบัติงานและผู้เชี่ยวชาญในอดีตและปัจจุบันในการปกป้องและดูแลอุซุย เรกิแบบดั้งเดิมในญี่ปุ่นจนถึงทุกวันนี้ลงไปในการปฏิบัติประจำวันของคุณ
+
+คำแนะนำในการฝึก:
+จากคำสอนของอาจารย์อุซุยและประสบการณ์ของเรา เราขอแนะนำให้ทำสมาธิวันละสองครั้ง กล่าวคือช่วงตอนเช้าและตอนเย็นในเวลาหลังจากตื่นนอนและก่อนเข้านอน สำหรับระยะเวลาท่านสามารถกำหนดได้เอง  เมื่อสิ้นสุดการทำสมาธิ โปรดท่องโกไคเป็นภาษาญี่ปุ่นหรือภาษาหลักของคุณ หลังจากนั้นเราขอแนะนำให้ขอบคุณอุซุย เรกิ เรียวโฮ กักไคอิ ดังที่เราได้กล่าวไว้ก่อนหน้านี้
+
+หากคุณเชี่ยวชาญด้านการแปลและพบข้อผิดพลาดในการแปลของเราโปรดส่งความคิดเห็นของคุณไปที่ daechong@protonmail.com เพื่อให้เราสามารถพูดคุยเกี่ยวกับข้อคิดเห็นของคุณกับสำนักงานแปลได้
+
+เราหวังเป็นอย่างยิ่งว่าแอพของเราจะช่วยคุณในการฝึกฝนประจำวัน
+    "</string>
+    <string name="lang_bulgarian">บัลแกเรีย</string>
+    <string name="lang_persian">เปอร์เซีย</string>
+    <string name="lang_somali">โซมาเลีย</string>
+    <string name="lang_yoruba">โยรูบา</string>
+    <string name="lang_hausa">เฮาซา</string>
+    <string name="lang_igbo">อิกโบ</string>
+    <string name="lang_greek">กรีก</string>
+    <string name="lang_albanian">แอลเบเนีย</string>
+    <string name="lang_polish">ขัด</string>
+</resources>

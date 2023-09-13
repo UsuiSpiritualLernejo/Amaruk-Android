@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation</string>
+    <string name="nav_poems">Poema del día</string>
+    <string name="nav_settings">Configuraciones</string>
+    <string name="nav_about">Acerca de nosotros</string>
+    <string name="nav_use">Cómo usar</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="account">Cuenta</string>
+    <string name="language">Idioma</string>
+    <string name="user_interface">Interfaz de usuario</string>
+    <string name="setting_poems">Poemas</string>
+    <string name="additional_settings">Configuraciones adicionales</string>
+    <string name="repeat_song">Repetir canción</string>
+    <string name="on">Encender</string>
+    <string name="off">Apagar</string>
+    <string name="wait_between_repeats">Intervalo de tiempo entre repeticiones</string>
+    <string name="seconds">s</string>
+    <string name="poems_for_day">Meiji Waka del día</string>
+    <string name="refresh_poem">El poema se está cargando, espere por favor.</string>
+    <string name="logout_message">¿Está seguro de que quiere cerrar la sesión?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Borrar</string>
+    <string name="lang_english">Inglés</string>
+    <string name="lang_japanese">Japonés</string>
+    <string name="lang_hungarian">Húngaro</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Alemán</string>
+    <string name="lang_spanish">Español</string>
+    <string name="email">Correo electrónico</string>
+    <string name="forgot_password">¿Ha olvidado su contraseña?</string>
+    <string name="dialog_sub">Enviar</string>
+    <string name="dialog_password_sent_message">Le enviaremos una contraseña si tiene una cuenta registrada con nosotros.</string>
+    <string name="internet_error">No se ha podido enviar la solicitud. Por favor, revise su conexión a internet.</string>
+    <string name="valid_email">Por favor, introduzca su dirección de correo electrónico.</string>
+    <string name="valid_password">Por favor, introduzca su contraseña.</string>
+    <string name="wrong_credentials">Compruebe su nombre de usuario y/o contraseña y vuelva a intentarlo.</string>
+    <string name="sign_in_continue">Inicie sesión para continuar</string>
+    <string name="password">Contraseña</string>
+    <string name="sing_in">Iniciar sesión</string>
+    <string name="remember">Recordar contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="about_us_descript">"
+El desarrollo de esta aplicación ha sido supervisado por maestros de Reiki que tuvieron el honor de aprender Reiki en Japón.
+
+Conocer los siguientes puntos ayudará a practicar Reiki correctamente a los practicantes de cualquier escuela de Reiki, ya que la base es común:
+
+1. La historia de vida del Maestro Usui
+2. La historia de Reiki Usui desde el principio
+3. Traducciones precisas de los Gokai
+4. La traducción de la primera y segunda parte del Usui Reiki Hikkei
+5. Los Meiji Tennō Gyosei (la cuarta parte del Usui Reiki Hikkei) para la meditación
+6. La meditación de Reiki Usui
+
+Nuestra aplicación ofrece ayuda para practicar el punto número 5. Realizando su práctica diaria, recuerde expresar gratitud hacia todos los maestros y practicantes anteriores y presentes de Usui Reiki Ryoho Gakkai, por mantener la práctica y proteger y preservar el Usui Reiki Ryoho en Japón hasta el día de hoy.
+
+Guía para practicar:
+Basándonos en las enseñanzas del Maestro Usui y nuestras experiencias, recomendamos realizar la meditación dos veces al día: por la mañana inmediatamente después de despertarse y por la noche antes de acostarse. La duración es opcional. Al final de su meditación, recite el Gokai en japonés o en su lengua materna. A continucación sugerimos dar las gracias a la Usui Reiki Ryoho Gakkai como mencionamos anteriormente.
+
+Si usted es traductor literario y encuentra errores en nuestras traducciones, comuníquelos a daechong@protonmail.com para que podamos discutir su comentario con la oficina de traducción.
+
+Esperamos sinceramente que nuestra aplicación le ayude con su práctica diaria.
+    "</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Tailandés</string>
+    <string name="lang_indonesian">Indonesio</string>
+    <string name="lang_malaysian">Malayo</string>
+    <string name="lang_italian">Italiano</string>
+    <string name="lang_french">Francés</string>
+    <string name="lang_arabic">Árabe</string>
+    <string name="lang_swahili">Suajili</string>
+    <string name="lang_chinese_mandarin">Chino (Mandarín)</string>
+    <string name="lang_portugese">Portugués</string>
+    <string name="lang_korean">Coreano</string>
+    <string name="lang_vietnamese">Vietnamita</string>
+    <string name="lang_afrikaans">Afrikáans</string>
+    <string name="lang_malagasy">Madagascarí</string>
+    <string name="lang_russian">Ruso</string>
+    <string name="lang_ukrainian">Ucraniano</string>
+    <string name="lang_turkish">Turco</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Checo</string>
+    <string name="lang_slovak">Eslovaco</string>
+    <string name="lang_slovenian">Esloveno</string>
+    <string name="lang_serbian">Serbio</string>
+    <string name="lang_croatian">Croata</string>
+    <string name="lang_romanian">Rumano</string>
+    <string name="lang_swedish">Sueco</string>
+    <string name="lang_norwegian">Noruego</string>
+    <string name="lang_finnish">Finlandés</string>
+    <string name="lang_danish">Danés</string>
+    <string name="lang_dutch">Holandés</string>
+    <string name="lang_bulgarian">Búlgaro</string>
+    <string name="lang_persian">Persa</string>
+    <string name="lang_somali">Somalí</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_greek">Griego</string>
+    <string name="lang_albanian">Albanés</string>
+    <string name="lang_polish">Polaco</string>
+</resources>

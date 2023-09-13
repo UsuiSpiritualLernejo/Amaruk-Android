@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context="usl.amaruk.HomeFragment">
+
+        <ImageView
+                android:id="@+id/banner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_about_frame" />
+
+        <TextView
+                android:id="@+id/text_about"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/banner"
+                android:autoLink="all"
+                android:fontFamily="@font/lato_regular"
+                android:padding="@dimen/dimen_16"
+                android:text="@string/about_us_descript"
+                android:textSize="@dimen/text_16" />
+
+        <TextView
+                android:id="@+id/copyrightText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/text_about"
+                android:layout_alignParentBottom="true"
+                android:fontFamily="@font/lato_regular"
+                android:padding="@dimen/dimen_16"
+                android:text="@string/usl"
+                android:textSize="@dimen/text_16"
+                android:visibility="visible" />
+    </RelativeLayout>
+</ScrollView>

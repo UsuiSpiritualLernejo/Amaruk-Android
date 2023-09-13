@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Zaklada Usui Spiritual Lernejo\nSva prava pridržana</string>
+    <string name="nav_poems">Današnja pjesma</string>
+    <string name="nav_settings">Postavke</string>
+    <string name="nav_about">O nama</string>
+    <string name="nav_use">Kako koristiti</string>
+    <string name="logout">Odjavite se</string>
+    <string name="account">Račun</string>
+    <string name="language">Jezik</string>
+    <string name="user_interface">Pjesme</string>
+    <string name="setting_poems">Dodatne postavke</string>
+    <string name="additional_settings">Korisničko sučelje</string>
+    <string name="repeat_song">Ponovi pjesmu</string>
+    <string name="on">Na</string>
+    <string name="off">Isključeno</string>
+    <string name="wait_between_repeats">Vremenski interval između ponavljanja</string>
+    <string name="poems_for_day">Meiji Waka dana</string>
+    <string name="refresh_poem">Preuzimanje pjesme s poslužitelja, pričekajte…</string>
+    <string name="logout_message">Želite li se odjaviti?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="change_language">Promijeni Jezik</string>
+    <string name="save">Uštedjeti</string>
+    <string name="cancel">Otkazati</string>
+    <string name="lang_english">Engleski</string>
+    <string name="lang_japanese">Japanski</string>
+    <string name="lang_hungarian">Mađarski</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Njemački</string>
+    <string name="lang_spanish">Španjolski</string>
+    <string name="lang_lao">Rad</string>
+    <string name="lang_thai">Tajlandski</string>
+    <string name="lang_indonesian">Indonezijski</string>
+    <string name="lang_malaysian">Malezijski</string>
+    <string name="lang_italian">Talijanski</string>
+    <string name="lang_french">Francuski</string>
+    <string name="lang_arabic">Arapski</string>
+    <string name="lang_swahili">Svahili</string>
+    <string name="lang_chinese_mandarin">Kineski (Mandarinski)</string>
+    <string name="lang_portugese">Portugalski</string>
+    <string name="lang_korean">Korejski</string>
+    <string name="lang_vietnamese">Vijetnamski</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malgaški</string>
+    <string name="lang_russian">Ruski</string>
+    <string name="lang_ukrainian">Ukrajinski</string>
+    <string name="lang_turkish">Turški</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Češki</string>
+    <string name="lang_slovak">Slovaški</string>
+    <string name="lang_slovenian">Slovenski</string>
+    <string name="lang_serbian">Srbski</string>
+    <string name="lang_croatian">Hrvaški</string>
+    <string name="lang_romanian">Romunski</string>
+    <string name="lang_swedish">Švedski</string>
+    <string name="lang_norwegian">Norveški</string>
+    <string name="lang_finnish">Finski</string>
+    <string name="lang_danish">Danski</string>
+    <string name="lang_dutch">Nizozemski</string>
+    <string name="lang_polish">Poljski</string>
+    <string name="lang_albanian">Albanski</string>
+    <string name="lang_greek">Grški</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somalijski</string>
+    <string name="lang_persian">Perzijski</string>
+    <string name="lang_bulgarian">Bugarski</string>
+    <string name="email">E-Pošta</string>
+    <string name="dialog_sub">Pošlji</string>
+    <string name="dialog_password_sent_message">Poslat ćemo vam novu lozinku ako kod nas imate registrirani račun</string>
+    <string name="internet_error">Nije moguće poslati zahtjev. Provjerite internetsku vezu.</string>
+    <string name="valid_email">Unesite svoju adresu e-pošte</string>
+    <string name="valid_password">Unesite lozinku</string>
+    <string name="sing_in">Prijavite se za nastavak</string>
+    <string name="sign_in_continue">Prijavite se za nastavak</string>
+    <string name="password">Lozinka</string>
+    <string name="remember">Sjeti me se</string>
+    <string name="login">Prijava</string>
+    <string name="forgot_password">Zaboravili ste lozinku?</string>
+    <string name="wrong_credentials">Unijeli ste pogrešne vjerodajnice</string>
+    <string name="seconds">s (sekunde) </string>
+    <string name="about_us_descript">"Razvoj ove aplikacije nadzirali su Majstori Reikija koji su imali čast naučiti Reiki u Japanu.
+
+Da bismo pravilno vježbali Reiki, vjerujemo da je važno biti upoznat sa sljedećim, što bi moglo biti korisno za praktičare svih Reiki škola, budući da je zaklada uobičajena:
+
+1. Životna priča Usuija Senseija
+2. Priča o Usuiju Reikiju od početka
+3. Točni prijevodi Gokaija
+4. Prijevod prvog i drugog dijela Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (četvrti dio Usui Reiki Hikkei) za meditaciju
+6. Meditacija Usui Reiki
+
+Naša aplikacija pruža pomoć u vježbanju pete točke. Molimo vas da proširite svoju svakodnevnu praksu izražavajući zahvalnost usui Reiki Ryoho Gakkai, njegovim prošlim i sadašnjim praktičarima i Učiteljima za održavanje prakse i za zaštitu i čuvanje Usui Reiki Ryoho u Japanu do danas.
+
+Vodič za vježbanje:
+Na temelju učenja majstora Usuija i našeg iskustva, preporučamo da meditaciju radite dva puta dnevno, ujutro i navečer, odmah nakon buđenja i prije odlaska u krevet. Trajanje je izborno. Molimo recitirajte Gokai na japanskom ili na svom materinjem jeziku na kraju svoje meditacije. Nakon toga, predlažemo zahvaliti Usui Reiki Ryoho Gakkaiju, kao što smo ranije spomenuli.
+Ako ste književni prevoditelj i nađete greške u našim prijevodima, pošaljite povratne informacije na daechong@protonmail.com kako bismo mogli raspraviti vaš komentar s prevoditeljskim uredom.
+
+Iskreno se nadamo da će vam naša aplikacija pomoći u svakodnevnoj praksi."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

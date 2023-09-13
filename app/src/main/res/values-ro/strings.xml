@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nToate drepturile rezervate</string>
+    <string name="nav_poems">Poezia de azi</string>
+    <string name="nav_settings">Setări</string>
+    <string name="nav_about">Despre noi</string>
+    <string name="nav_use">Cum se utilizează</string>
+    <string name="logout">Deconectați-vă</string>
+    <string name="account">Cont</string>
+    <string name="language">Limba</string>
+    <string name="user_interface">Interfața utilizator</string>
+    <string name="setting_poems">Poezii</string>
+    <string name="additional_settings">Setări adiționale</string>
+    <string name="repeat_song">Repetă cântecul</string>
+    <string name="on">Pornit</string>
+    <string name="off">Oprit</string>
+    <string name="wait_between_repeats">Interval de timp dintre repetări</string>
+    <string name="poems_for_day">Meiji Waka al zilei</string>
+    <string name="refresh_poem">Se primește poezia de pe server, vă rugăm așteptați…</string>
+    <string name="logout_message">Doriți să vă deconectați?</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="change_language">Schimbați limba</string>
+    <string name="save">Salvați</string>
+    <string name="cancel">Anulați</string>
+    <string name="lang_english">Engleză</string>
+    <string name="lang_japanese">Japoneză</string>
+    <string name="lang_hungarian">Maghiară</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Germană</string>
+    <string name="lang_spanish">Spaniolă</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thailandeză</string>
+    <string name="lang_indonesian">Indoneziană</string>
+    <string name="lang_malaysian">Malaysiană</string>
+    <string name="lang_italian">Italiană</string>
+    <string name="lang_french">Franceză</string>
+    <string name="lang_arabic">Arabă</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Chineză (Mandarină)</string>
+    <string name="lang_portugese">Portugheză</string>
+    <string name="lang_korean">Koreană</string>
+    <string name="lang_vietnamese">Vietnameză</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Rusă</string>
+    <string name="lang_ukrainian">Ukraineană</string>
+    <string name="lang_turkish">Turcă</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Cehă</string>
+    <string name="lang_slovak">Slovacă</string>
+    <string name="lang_slovenian">Slovenă</string>
+    <string name="lang_serbian">Sârbă</string>
+    <string name="lang_croatian">Croată</string>
+    <string name="lang_romanian">Română</string>
+    <string name="lang_swedish">Suedeză</string>
+    <string name="lang_norwegian">Norvegiană</string>
+    <string name="lang_finnish">Finlandeză</string>
+    <string name="lang_danish">Daneză</string>
+    <string name="lang_dutch">Neerlandeză (Olandeză)</string>
+    <string name="lang_polish">Poloneză</string>
+    <string name="lang_albanian">Albaneză</string>
+    <string name="lang_greek">Greacă</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somaleză</string>
+    <string name="lang_persian">Persană</string>
+    <string name="lang_bulgarian">Bulgară</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Trimite</string>
+    <string name="dialog_password_sent_message">Vă vom trimite o nouă parolă dacă aveți un cont înregistrat la noi</string>
+    <string name="internet_error">Nu s-a putut trimite cererea. Vă rugăm să vă verificați conexiunea la internet.</string>
+    <string name="valid_email">Vă rugăm să introduceți adresa dumneavoastră de Email</string>
+    <string name="valid_password">Vă rugăm să introduceți parola</string>
+    <string name="sing_in">Conectare</string>
+    <string name="sign_in_continue">Conectați-vă pentru a continua</string>
+    <string name="password">Parola</string>
+    <string name="remember">Amintește-ți de minte</string>
+    <string name="login">Autentificare</string>
+    <string name="forgot_password">Ați uitat parola?</string>
+    <string name="wrong_credentials">Ați introdus acreditări greșite</string>
+    <string name="seconds">s (secunde)</string>
+    <string name="about_us_descript">"Dezvoltarea acestei aplicații a fost supravegheată de maeștri Reiki care au avut onoarea să învețe Reiki în Japonia.
+
+Pentru a practica Reiki în mod corespunzător, credem că este important să fim familiarizați cu următoarele, care ar putea fi utile pentru practicanții tuturor școlilor Reiki, deoarece fundația este comună:
+
+1. Povestea vieții lui Usui Sensei
+2. Povestea Usui Reiki de la început
+3. Traduceri precise ale lui Gokai
+4. Traducerea primei și a doua părți a Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (a patra parte a Usui Reiki Hikkei) pentru meditație
+6. Meditația Usui Reiki
+
+Aplicația noastră oferă ajutor pentru exersarea celui de-al cincilea punct. Vă rugăm să vă extindeți practica zilnică prin exprimarea  recunoștinței față de Usui Reiki Ryoho Gakkai, practicanții săi din trecut și prezent și Maeștri pentru menținerea practicii și pentru protejarea și păzirea Usui Reiki Ryoho din Japonia până astăzi.
+
+Ghid de exersare:
+Pe baza învățăturilor Maestrului Usui și a experienței noastre, vă recomandăm să faceți meditația de două ori pe zi, dimineața și seara, imediat după trezire și înainte de culcare. Durata este optionala. Vă rugăm să recitați Gokai-ul în japoneză sau în limba maternă la sfârșitul meditației. După aceea, vă sugerăm să-i mulțumim lui Usui Reiki Ryoho Gakkai, așa cum am menționat mai devreme.
+
+Dacă sunteți traducător literar și găsiți erori în traducerile noastre, vă rugăm să trimiteți feedback-ul la daechong@protonmail.com, astfel încât să putem discuta comentariul dvs. cu biroul de traduceri.
+
+Sperăm din suflet că aplicația noastră vă va ajuta cu practica zilnică."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

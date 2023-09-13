@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Усуи Спиритуал Лернејо ФоундатионнАлл\nригхтс ресервед</string>
+    <string name="nav_poems">Данашња песма</string>
+    <string name="nav_settings">Поставке</string>
+    <string name="nav_about">О нама</string>
+    <string name="nav_use">Како се користи</string>
+    <string name="logout">Одјавите се</string>
+    <string name="account">Налог</string>
+    <string name="language">Језик</string>
+    <string name="user_interface">Песме</string>
+    <string name="setting_poems">Додатне поставке</string>
+    <string name="additional_settings">Кориснички интерфејс</string>
+    <string name="repeat_song">Понављање песме</string>
+    <string name="on">На</string>
+    <string name="off">ИСКЉУЧЕНО</string>
+    <string name="wait_between_repeats">Временски интервал између понављања</string>
+    <string name="poems_for_day">Меији Wака оф тхе Даy</string>
+    <string name="refresh_poem">Добијање песме са сервера, сачекајте…</string>
+    <string name="logout_message">Желите ли да се одјавите?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="change_language">Промени Језик</string>
+    <string name="save">Сачувај</string>
+    <string name="cancel">Откажи</string>
+    <string name="lang_english">Енглески</string>
+    <string name="lang_japanese">Јапански</string>
+    <string name="lang_hungarian">Мађарски</string>
+    <string name="lang_esperanto">Есперанто</string>
+    <string name="lang_german">Немачки</string>
+    <string name="lang_spanish">Шпански</string>
+    <string name="lang_lao">Туберкулозе</string>
+    <string name="lang_thai">Тајландски</string>
+    <string name="lang_indonesian">Индонежански</string>
+    <string name="lang_malaysian">Малезијски</string>
+    <string name="lang_italian">Италијански</string>
+    <string name="lang_french">Француски</string>
+    <string name="lang_arabic">Арапски</string>
+    <string name="lang_swahili">Свахили</string>
+    <string name="lang_chinese_mandarin">Кинески (Мандарински)</string>
+    <string name="lang_portugese">Португалски</string>
+    <string name="lang_korean">Кореански</string>
+    <string name="lang_vietnamese">Вијетнамски</string>
+    <string name="lang_afrikaans">Африкански</string>
+    <string name="lang_malagasy">Малагасy</string>
+    <string name="lang_russian">Руски</string>
+    <string name="lang_ukrainian">Украјински</string>
+    <string name="lang_turkish">Турски</string>
+    <string name="lang_urdu">Урду</string>
+    <string name="lang_czech">Чешки</string>
+    <string name="lang_slovak">Словачки</string>
+    <string name="lang_slovenian">Словенски</string>
+    <string name="lang_serbian">Српски</string>
+    <string name="lang_croatian">Хрватски</string>
+    <string name="lang_romanian">Румунски</string>
+    <string name="lang_swedish">Шведски</string>
+    <string name="lang_norwegian">Норвешки</string>
+    <string name="lang_finnish">Фински</string>
+    <string name="lang_danish">Дански</string>
+    <string name="lang_dutch">Холандски</string>
+    <string name="lang_polish">Пољски</string>
+    <string name="lang_albanian">Албански</string>
+    <string name="lang_greek">Грчки</string>
+    <string name="lang_igbo">Игбо</string>
+    <string name="lang_hausa">Хауса</string>
+    <string name="lang_yoruba">Холандски</string>
+    <string name="lang_somali">Сомалијски</string>
+    <string name="lang_persian">Персијски</string>
+    <string name="lang_bulgarian">Бугарски</string>
+    <string name="email">Е-Пошта</string>
+    <string name="dialog_sub">Прослеђивање</string>
+    <string name="dialog_password_sent_message">Послаћемо вам нову лозинку ако имате регистрован налог код нас</string>
+    <string name="internet_error">Нисам могао да пошаљем захтев. Проверите Интернет везу.</string>
+    <string name="valid_email">Унесите Вашу Емаил адресу</string>
+    <string name="valid_password">Унесите лозинку</string>
+    <string name="sing_in">Упиши се</string>
+    <string name="sign_in_continue">Пријавите се да бисте наставили</string>
+    <string name="password">Лозинку</string>
+    <string name="remember">Сјећаш ме се</string>
+    <string name="login">Пријављивање</string>
+    <string name="forgot_password">Заборавили сте лозинку?</string>
+    <string name="wrong_credentials">Унели сте погрешне акредитиве</string>
+    <string name="seconds">с (секунде) </string>
+    <string name="about_us_descript">"Развој ове апликације надгледали су Реики мајстори који су имали част да науче Реики у Јапану.
+
+Да бисмо правилно вежбали Реики, верујемо да је важно да будете упознати са следећим, што би могло бити корисно за практиканте свих Реики школа, пошто је фондација уобичајена:
+
+1 . Животна прича Усуија Сенсеија
+2 . Прича о Усуи Реики од почетка
+3 . Тачни преводи Гокаија
+4 . Превод првог и другог дела Усуи Реики Хиккеи
+5 . Тхе Меији Тенн Гyосеи (четврти део Усуи Реики Хиккеи) за медитацију
+6 . Усуи Реики медитација
+
+Наша апликација пружа помоћ за вежбање пете тачке. Молимо вас да продужите своју дневну праксу изражавањем захвалности према Усуи Реики Рyохо Гаккаи, његовим прошлим и садашњим практичарима, и Мастерсима за одржавање праксе и за заштиту и чување Усуи Реики Рyохо у Јапану до данас.
+
+Водич за вежбање:
+На основу учења учитеља Усуија и такође нашег искуства, препоручујемо да медитацију радите два пута дневно, ујутру и увече, одмах након буђења и пре одласка у кревет. Трајање је опционално. Рецитујте Гокаи на јапанском или на матерњем језику на крају медитације. Након тога, предлажемо да се захвалимо Усуи Реики Рyохо Гаккаи, као што смо већ поменули.
+
+Уколико сте књижевни преводилац и пронађете било какве грешке у нашим преводима, молимо вас да пошаљете повратну информацију на daechong@protonmail.com како бисмо о вашем коментару разговарали са канцеларијом за превођење.
+
+Искрено се надамо да ће вам наша апликација помоћи у свакодневном вежбању."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

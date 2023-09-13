@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">오늘의시</string>
+    <string name="nav_settings">설정</string>
+    <string name="nav_about">회사 소개</string>
+    <string name="nav_use">사용하는 방법</string>
+    <string name="logout">로그 아웃</string>
+    <string name="account">계정</string>
+    <string name="language">언어</string>
+    <string name="user_interface">사용자 인터페이스</string>
+    <string name="setting_poems">시조각</string>
+    <string name="additional_settings">추가 세팅</string>
+    <string name="repeat_song">노래 반복</string>
+    <string name="on">에</string>
+    <string name="off">떨어져서</string>
+    <string name="wait_between_repeats">반복 사이의 시간 간격</string>
+    <string name="poems_for_day">오늘의 메이지 와카</string>
+    <string name="refresh_poem">서버에서시를 가져 오는 중입니다. 잠시만 기다려주세요 …</string>
+    <string name="logout_message">로그 아웃 하시겠습니까?</string>
+    <string name="yes">예</string>
+    <string name="no">아니</string>
+    <string name="change_language">언어 변경</string>
+    <string name="save">저장</string>
+    <string name="cancel">취소</string>
+    <string name="lang_english">영어</string>
+    <string name="lang_japanese">일본어</string>
+    <string name="lang_hungarian">헝가리 인</string>
+    <string name="lang_esperanto">에스페란토 말</string>
+    <string name="lang_german">독일 사람</string>
+    <string name="lang_spanish">스페인의</string>
+    <string name="lang_lao">라오스</string>
+    <string name="lang_thai">태국어</string>
+    <string name="lang_indonesian">인도네시아</string>
+    <string name="lang_malaysian">말레이시아</string>
+    <string name="lang_italian">이탈리아</string>
+    <string name="lang_french">프랑스 국민</string>
+    <string name="lang_arabic">아라비아 사람</string>
+    <string name="lang_swahili">스와힐리어</string>
+    <string name="lang_chinese_mandarin">중국 만다린</string>
+    <string name="lang_portugese">포르투갈 인</string>
+    <string name="lang_korean">대한민국</string>
+    <string name="lang_vietnamese">베트남어</string>
+    <string name="lang_afrikaans">아프리카 어</string>
+    <string name="lang_malagasy">마다가스카르 사람</string>
+    <string name="lang_russian">러시아</string>
+    <string name="lang_ukrainian">우크라이나</string>
+    <string name="lang_turkish">터키</string>
+    <string name="lang_urdu">우르두어</string>
+    <string name="lang_czech">체코 사람</string>
+    <string name="lang_slovak">슬로바키아어</string>
+    <string name="lang_slovenian">슬로베니아</string>
+    <string name="lang_serbian">세르비아 사람</string>
+    <string name="lang_croatian">크로아티아</string>
+    <string name="lang_romanian">루마니아 사람</string>
+    <string name="lang_swedish">스웨덴</string>
+    <string name="lang_norwegian">노르웨이 인</string>
+    <string name="lang_finnish">핀 사람</string>
+    <string name="lang_danish">덴마크 말</string>
+    <string name="lang_dutch">네덜란드 사람</string>
+    <string name="email">이메일</string>
+    <string name="dialog_sub">제출</string>
+    <string name="dialog_password_sent_message">등록 된 계정이있는 경우 새 비밀번호를 보내드립니다.</string>
+    <string name="internet_error">요청을 보낼 수 없습니다. 인터넷 연결을 확인하십시오.</string>
+    <string name="valid_email">당신의 이메일 주소를 입력하십시오</string>
+    <string name="valid_password">비밀번호를 입력하세요</string>
+    <string name="sing_in">로그인</string>
+    <string name="sign_in_continue">계속하려면 로그인하세요.</string>
+    <string name="password">암호</string>
+    <string name="remember">날 기억해</string>
+    <string name="login">로그인</string>
+    <string name="forgot_password">비밀번호를 잊으 셨나요?</string>
+    <string name="wrong_credentials">잘못된 자격 증명을 입력했습니다</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+이 앱의 개발은 일본에서 레이키를 배울 영광을 가진 레이키 마스터가 감독했습니다.
+
+레이키를 제대로 수행하려면 재단이 일반적이기 때문에 모든 레이키 학교의 실무자에게 유용 할 수있는 다음 사항을 숙지하는 것이 중요하다고 생각합니다.
+
+1. 우스이 선생의 인생 이야기
+2. 처음부터 우스이 레이키의 이야기
+3. 고 카이의 정확한 번역
+4. 우스이 레이키 히 케이의의 첫 번째와 두 번째 부분의 번역
+5. 명상을위한 메이지 덴노 교세이 (우스이 레이키 히 케이의 네 번째 부분)
+6. 우스이 영기 명상
+
+우리 앱은 다섯 번째 요점을 연습하는 데 도움이됩니다. 우스이 레이키 료호 학 카이, 과거와 현재의 수련생들, 그리고 현재까지 일본의 우스이 레이키 료호를 보호하고 지키는 수행을 유지 해준 마스터들에게 감사를 표하며 매일의 연습을 확장하십시오.
+
+연습 가이드 :
+
+우스이 스승님의 가르침과 경험을 바탕으로 아침과 저녁에 일어나 자마자 잠자리에 들기 전에 하루에 두 번 명상을하는 것이 좋습니다. 기간은 선택 사항입니다. 명상이 끝나면 일본어 또는 모국어로 고 카이를 암송하십시오. 그 후 앞서 언급했듯이 우스이 레이키 료호 각 카이에게 감사를 표합니다.
+
+문학적 번역가이고 번역에 오류가있는 경우 daechong@protonmail.com으로 의견을 보내 주시면 번역 사무소와 의견을 논의 할 수 있습니다.
+
+저희 앱이 귀하의 일상 연습에 도움이되기를 진심으로 바랍니다
+    "</string>
+    <string name="lang_bulgarian">불가리아 사람</string>
+    <string name="lang_persian">페르시아 인</string>
+    <string name="lang_somali">소말리아</string>
+    <string name="lang_yoruba">요루바어</string>
+    <string name="lang_hausa">하우사</string>
+    <string name="lang_igbo">이보</string>
+    <string name="lang_greek">그리스 어</string>
+    <string name="lang_albanian">알바니아</string>
+    <string name="lang_polish">광택</string>
+</resources>

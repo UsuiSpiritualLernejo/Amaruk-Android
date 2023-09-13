@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Cьогоднішнє вірш</string>
+    <string name="nav_settings">Налаштування</string>
+    <string name="nav_about">Про нас</string>
+    <string name="nav_use">Як використовувати</string>
+    <string name="logout">Вийти</string>
+    <string name="account">Аккаунт</string>
+    <string name="language">Мова</string>
+    <string name="user_interface">Профіль</string>
+    <string name="setting_poems">Вірші</string>
+    <string name="additional_settings">Додаткові налаштування</string>
+    <string name="repeat_song">Повторить песнюПовторити пісню</string>
+    <string name="on">Вкл</string>
+    <string name="off">Выкл</string>
+    <string name="wait_between_repeats">Часовий інтервал між повтореннями</string>
+    <string name="poems_for_day">Мейдзі Вака дня</string>
+    <string name="refresh_poem">Отримання вірші з сервера, зачекайте будь ласка …</string>
+    <string name="logout_message">Ви дійсно хочете вийти?</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="change_language">Змінити мову</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="lang_english">Англійська</string>
+    <string name="lang_japanese">"Японська "</string>
+    <string name="lang_hungarian">"Угорська "</string>
+    <string name="lang_esperanto">Есперанто</string>
+    <string name="lang_german">"Німецька "</string>
+    <string name="lang_spanish">Іспанська</string>
+    <string name="lang_lao">"Лаоська "</string>
+    <string name="lang_thai">Тайська</string>
+    <string name="lang_indonesian">Індонезійська</string>
+    <string name="lang_malaysian">"Малайська "</string>
+    <string name="lang_italian">"Італійська "</string>
+    <string name="lang_french">Французька</string>
+    <string name="lang_arabic">Арабська</string>
+    <string name="lang_swahili">Суахілі</string>
+    <string name="lang_chinese_mandarin">Мандаринська</string>
+    <string name="lang_portugese">Португальська</string>
+    <string name="lang_korean">Корейська</string>
+    <string name="lang_vietnamese">В\'єтнамська</string>
+    <string name="lang_afrikaans">Африкаанс</string>
+    <string name="lang_malagasy">Малагасійська</string>
+    <string name="lang_russian">Російська</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_turkish">Турецька</string>
+    <string name="lang_urdu">Урду</string>
+    <string name="lang_czech">"Чеська "</string>
+    <string name="lang_slovak">Словацька</string>
+    <string name="lang_slovenian">Словенська</string>
+    <string name="lang_serbian">Сербська</string>
+    <string name="lang_croatian">Хорватська</string>
+    <string name="lang_romanian">"Румунська "</string>
+    <string name="lang_swedish">"Шведська "</string>
+    <string name="lang_norwegian">Норвезька</string>
+    <string name="lang_finnish">"Фінська "</string>
+    <string name="lang_danish">Данська</string>
+    <string name="lang_dutch">"Нідерландська "</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Відновити</string>
+    <string name="dialog_password_sent_message">Ми відправимо Вам новий пароль, якщо ваш акаунт зареєстрований у нас</string>
+    <string name="internet_error">Чи не вдалося відправити запит. Будь ласка, перевірте підключення до інтернету.</string>
+    <string name="valid_email">Будь ласка, введіть свою адресу електронної пошти</string>
+    <string name="valid_password">Будь ласка, введіть свій пароль</string>
+    <string name="sing_in">Увійти</string>
+    <string name="sign_in_continue">Увійдіть для продовження</string>
+    <string name="password">Пароль</string>
+    <string name="remember">Запам\'ятати мене</string>
+    <string name="login">Увійти</string>
+    <string name="forgot_password">Забули пароль?</string>
+    <string name="wrong_credentials">Ви ввели неправильні облікові дані</string>
+    <string name="seconds">c</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Розробкою цього додатку руководили майстри Рейки, яким випала честь вивчати Рейки в Японії.
+
+Щоб практикувати Рейки належним чином, ми вважаємо, що важливо знати наступне, що може бути корисно для практикуючих всіх шкіл Рейки, оскільки основа в них спільна.
+
+1. Історія життя Усуї-сенсея.
+2. Історія Усуї Рейки з самого початку.
+3. Точні переклади Гокай.
+4. Переклад першої та другої частин Усуї Рейки Хиккей.
+5. Мейдзі Тенно Гьосей ( четверта частина Усуї Рейки Хиккей) для медитації.
+6. Медитація Усуї Рейки.
+
+Наш додаток домопогає практикувати п'яту точку. Будь ласка, збільшити свою щоденну практику, висловивши вдячніть Усуї Рейки Риохо Гаккай, його минулим і теперішнім практикуючим, а також  Майстрам  за піддержку практики, а також за зищиту і охорону Усуї Рейки Риохо в Японії по цей день.
+
+Керівніцтво по практиці:
+Грунтуючись на вчення Майстера Усуї, а також на нашому досвіді, ми рекомендуємо виконувати медитацію двічі в день, вранці і ввечері, відразу після пробудження і перед сном. Час тривалості не обов'язкова. Будь ласка в кінці медитації вимовити Гокай на японському або на своїй рідній мові. Після цього ми пропонуємо подякувати Усуї Рейки Риохо Гаккай, як ми згадували раніше.
+
+Якщо ви літературний перекладач і виявили які-небудь помилки в наших перекладах, відправте свій відгук за адресою daechong@protonmail.com, щоб ми змогли обговорити ваш коментар з бюро перекладів.
+
+Ми щиро сподіваємось, що наш додаток допоможе вам в повсякденній практиці.
+    "</string>
+    <string name="lang_bulgarian">Болгарський</string>
+    <string name="lang_persian">Перська</string>
+    <string name="lang_somali">Сомалійський</string>
+    <string name="lang_yoruba">Йоруба</string>
+    <string name="lang_hausa">Хауса</string>
+    <string name="lang_igbo">Ігбо</string>
+    <string name="lang_greek">Грецька</string>
+    <string name="lang_albanian">Албанський</string>
+    <string name="lang_polish">Польський</string>
+</resources>

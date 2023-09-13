@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Puisi hari ini</string>
+    <string name="nav_settings">Tetapan</string>
+    <string name="nav_about">Tentang Kami</string>
+    <string name="nav_use">Cara Penggunaan</string>
+    <string name="logout">Log keluar</string>
+    <string name="account">Akaun</string>
+    <string name="language">Bahasa</string>
+    <string name="user_interface">Antaramuka pengguna</string>
+    <string name="setting_poems">Puisi</string>
+    <string name="additional_settings">Tetapan Tambahan</string>
+    <string name="repeat_song">Ulangi lagu</string>
+    <string name="on">Hidupkan</string>
+    <string name="off">Matikan</string>
+    <string name="wait_between_repeats">Selang masa antara pengulangan</string>
+    <string name="poems_for_day">Meiji Waka Hari Ini</string>
+    <string name="refresh_poem">Mendapatkan puisi dari pelayan, sila tunggu …</string>
+    <string name="logout_message">Adakah anda mahu log keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="change_language">Tukar bahasa</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="lang_english">Bahasa Inggeris</string>
+    <string name="lang_japanese">Bahasa Jepun</string>
+    <string name="lang_hungarian">Bahasa Hungary</string>
+    <string name="lang_esperanto">Bahasa Esperanto</string>
+    <string name="lang_german">Bahasa Jerman</string>
+    <string name="lang_spanish">Bahasa Sepanyol</string>
+    <string name="lang_lao">Bahasa Laos</string>
+    <string name="lang_thai">Bahasa Thai</string>
+    <string name="lang_indonesian">Bahasa Indonesia</string>
+    <string name="lang_malaysian">Bahasa Malaysia</string>
+    <string name="lang_italian">Bahasa Itali</string>
+    <string name="lang_french">Bahasa Perancis</string>
+    <string name="lang_arabic">Bahasa Arab</string>
+    <string name="lang_swahili">Bahasa Svaheli</string>
+    <string name="lang_chinese_mandarin">Bahasa Mandarin China</string>
+    <string name="lang_portugese">Bahasa Portugis</string>
+    <string name="lang_korean">Bahasa Korea</string>
+    <string name="lang_vietnamese">Bahasa Vietnam</string>
+    <string name="lang_afrikaans">Bahasa Afrika</string>
+    <string name="lang_malagasy">Bahasa Malagasi</string>
+    <string name="lang_russian">Bahasa Rusia</string>
+    <string name="lang_ukrainian">Bahasa Ukraine</string>
+    <string name="lang_turkish">Bahasa Turki</string>
+    <string name="lang_urdu">Bahasa Urdu</string>
+    <string name="lang_czech">Bahasa Czeh</string>
+    <string name="lang_slovak">Bahasa Slovakia</string>
+    <string name="lang_slovenian">Bahasa Slovenia</string>
+    <string name="lang_serbian">Bahasa Serbia</string>
+    <string name="lang_croatian">Bahasa Croatia</string>
+    <string name="lang_romanian">Bahasa Romania</string>
+    <string name="lang_swedish">Bahasa Sweden</string>
+    <string name="lang_norwegian">Bahasa Norway</string>
+    <string name="lang_finnish">Bahasa Finland</string>
+    <string name="lang_danish">Bahasa Denmark</string>
+    <string name="lang_dutch">Bahasa Belanda</string>
+    <string name="email">E-mel</string>
+    <string name="dialog_sub">Hantar</string>
+    <string name="dialog_password_sent_message">Kami akan menghantarkan anda kata laluan yang baru jika anda mempunyai akaun yang berdaftar dengan kami</string>
+    <string name="internet_error">Tidak dapat menghantar permintaan. Sila periksa sambungan Internet anda.</string>
+    <string name="valid_email">Sila masukkan alamat E-mel anda</string>
+    <string name="valid_password">Sila masukkan kata laluan anda</string>
+    <string name="sing_in">Log masuk</string>
+    <string name="sign_in_continue">Log masuk untuk teruskan</string>
+    <string name="password">Kata Laluan</string>
+    <string name="remember">Ingati Saya</string>
+    <string name="login">Log masuk</string>
+    <string name="forgot_password">Lupa kata laluan?</string>
+    <string name="wrong_credentials">Anda telah memasukkan kelayakan yang salah</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Pembangunan aplikasi ini telah diawasi oleh Guru Reiki yang mendapat penghormatan untuk mempelajari Reiki di Jepun.
+
+Bagi mengamalkan Reiki dengan betul, kami percaya adalah penting untuk membiasakan diri dengan perkara-perkara berikut, yang mungkin berguna bagi semua pengamal sekolah Reiki, memandangkan asasnya adalah umum:
+
+1. Kisah hidup Usui Sensei
+2. Kisah Usui Reiki sedari awal
+3. Terjemahan Gokai yang tepat
+4. Terjemahan bahagian pertama dan kedua dari Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (bahagian keempat dari Usui Reiki Hikkei) untuk bermeditasi
+6. Meditasi Reiki Usui
+
+Aplikasi kami menyediakan bantuan untuk mengamalkan titik kelima. Sila lanjutkan amalan harian anda dengan menzahirkan penghargaan terhadap Usui Reiki Ryoho Gakkai, para pengamalnya yang lepas dan sekarang, dan para Guru kerana mengekalkan amalan ini serta melindungi dan menjaga Usui Reiki Ryoho di Jepun sehingga ke hari ini.
+
+Panduan latihan:
+Berdasarkan kepada ajaran Guru Usui dan juga pengalaman kami, kami mengesyorkan agar melakukan meditasi dua kali sehari, di waktu pagi dan petang, sebaik sahaja bangun tidur dan sebelum tidur. Tempohnya adalah pilihan. Sila bacak Gokai dalam bahasa Jepun atau dalam bahasa ibunda anda di akhir meditasi anda. Setelah itu, kami sarankan untuk mengucapkan terima kasih kepada Usui Reiki Ryoho Gakkai, seperti yang telah kami sebutkan sebelumnya.
+
+Jika anda merupakan seorang penterjemah sastera dan anda menemui kesilapan dalam terjemahan kami, sila hantarkan maklum balas anda ke daechong@protonmail.com agar kami dapat membincangkan komen anda dengan pejabat terjemahan.
+
+Kami amat berharap yang aplikasi kami akan membantu dalam latihan harian anda.
+    "</string>
+    <string name="lang_bulgarian">Bahasa Bulgaria</string>
+    <string name="lang_persian">Bahasa Parsi</string>
+    <string name="lang_somali">Bahasa Somalia</string>
+    <string name="lang_yoruba">Bahasa Yoruba</string>
+    <string name="lang_hausa">Bahasa Hausa</string>
+    <string name="lang_igbo">Bahasa Igbo</string>
+    <string name="lang_greek">Bahasa Yunani</string>
+    <string name="lang_albanian">Bahasa Albania</string>
+    <string name="lang_polish">Bahasa Poland</string>
+</resources>

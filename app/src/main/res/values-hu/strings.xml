@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nMinden jog fenntartva</string>
+
+    // SIGNIN
+    <string name="sing_in">Bejelentkezés</string>
+    <string name="sign_in_continue">A belépéshez, kérem adja meg adatait</string>
+    <string name="email">Email cím</string>
+    <string name="password">Jelszó</string>
+    <string name="remember">Emlékezzen rám</string>
+    <string name="login">Belépek</string>
+    <string name="forgot_password">Elfelejtett jelszó?</string>
+    <string name="change_language">Válasszon nyelvet</string>
+    <string name="wrong_credentials">Nem tudtuk beléptetni a megadott adatokkal</string>
+
+    // FORGOT PWD
+    <string name="dialog_sub">Elküld</string>
+    <string name="dialog_password_sent_message">Új jelszót fogunk küldeni, ha az Email címével regisztrálva van nálunk</string>
+    <string name="internet_error">Sikertelen hívás. Kérem ellenőrizze az Internet kapcsolatot.</string>
+    <string name="valid_email">Kérem adja meg Email címét</string>
+    <string name="valid_password">Kérem adja meg jelszavát</string>
+
+    // SIDE MENU
+    <string name="nav_poems">Mai vers</string>
+    <string name="nav_settings">Beállítások</string>
+    <string name="nav_about">Rólunk</string>
+    <string name="nav_use">Útmutató</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="logout_message">Tényleg ki szeretne jelentkezni?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+
+    // SETTINGS
+    <string name="account">Fiók</string>
+    <string name="language">Nyelv</string>
+    <string name="user_interface">Felhasználó felület</string>
+    <string name="setting_poems">Versek</string>
+    <string name="additional_settings">További beállítások</string>
+    <string name="repeat_song">Ének ismétlése</string>
+    <string name="on">Be</string>
+    <string name="off">Ki</string>
+    <string name="wait_between_repeats">Szünet az ismétlések között</string>
+    <string name="seconds">mp</string>
+
+    // HOME
+    <string name="poems_for_day">Vers minden napra</string>
+
+    // CHANGE LANGUAGE
+    <string name="save">Mentés</string>
+    <string name="cancel">Vissza</string>
+
+    // HOW TO USE
+    <string name="how_to_use_descript">
+        Az ajánlott napi meditáció\n
+        \n
+        1,  Seiza. Azaz zen ülés, kéz ölekben.\n
+        2,  Mokunen, azaz légzés nyugtatása, lenyugvás.\n
+        3,  Joshin kokkyu ho, azaz száraz fürdés. Mellkas, kezek lesöprése.\n
+        4,  Reiki lehívása\n
+        5,  Gassho\n
+        6,  Meiji waka hallgatás\n
+        7,  Kezek köldök alatti területre, meditáció\n
+        8,  Gassho\n
+        9,  5 életszabály elmondása, meghajlás.\n
+        10, Hálaadás, az Usui Reiki Ryoho Gakkainak, gyakorlóinak múltbeli s jelenlevőknek, tanítóiknak. s még amiért csak akarunk\n
+        \n
+        Az 5 REIKI életútmutató, a GOKAI:\n
+        \n
+        Csak ma\n
+        nem leszek dühös,\n
+        nem aggódom,\n
+        hálás vagyok,\n
+        szorgoskodom karmámon,\n
+        kedves leszek az emberekhez.
+    </string>
+
+    //ABOUT
+    <string name="about_us_descript">"
+Az alkalmazás fejlesztésének irányítását olyan Reiki mesterek felügyelik, akik a Reikit Japánban tanulhatták.
+
+A Reiki helyes gyakorlásához az alábbiakat tartjuk fontosnak ismerni, mely minden Reiki iskola, irányzat gyakorlójának hasznos lehet, mivel közös alapokról van szó.
+
+1. Usui mester élettörténete
+2. Az Usui Reiki története a kezdetektől
+3. A Gokai helyesen
+4. Az Usui Reiki Hikkei 1. és 2. részének fordítása
+5. A Meiji Tennō Gyosei meditációhoz (Usui Reiki Hikkei 4. rész)
+6. Az Usui Reiki meditáció
+
+Alkalmazásunk az 5. ponthoz ad segítséget. Kérjük, a napi gyakorlást egészítsük ki azzal, hogy hálásan megköszönjük az Usui Reiki Ryoho Gakkai minden múltbeli és jelenlegi mesterének és gyakorlójának, hogy fenntartják a gyakorlást, és őrzik az Usui Reiki Ryohot.
+
+Útmutató a gyakorláshoz:
+Usui mester ajánlása szerint s tapasztalataink szerint is, reggel és este ajánljuk végezni, felkelés után s lefekvés előtt. Időtartama tetszés szerinti. A meditáció végén mindig mondjuk el a Gokai-t japán nyelven vagy saját nyelvünkön. Ezután javasoljuk még hálánkat kifejezni a fentebb írt módon.
+
+Amennyiben ön műfordító és hibát találna esetleg fordításainkban, kérem jelezze ezt a daechong@protonmail.com email címen, hogy a fordítást végző irodával egyeztethessünk róla.
+
+Őszintén reméljük, az alkalmazás és munkánk segítséget jelentenek a napi gyakorláshoz.
+    "</string>'
+
+    <string name="refresh_poem">Vers letöltése folyamatban, kérem várjon…</string>
+
+    <string name="lang_english">Angol</string>
+    <string name="lang_japanese">Japán</string>
+    <string name="lang_hungarian">Magyar</string>
+    <string name="lang_esperanto">Eszperantó</string>
+    <string name="lang_german">Német</string>
+    <string name="lang_spanish">Spanyol</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonéz</string>
+    <string name="lang_malaysian">Maláj</string>
+    <string name="lang_italian">Olasz</string>
+    <string name="lang_french">Francia</string>
+    <string name="lang_arabic">Arab</string>
+    <string name="lang_swahili">Szuahéli</string>
+    <string name="lang_chinese_mandarin">Kina - Mandarin</string>
+    <string name="lang_portugese">Portugál</string>
+    <string name="lang_korean">Koreai</string>
+    <string name="lang_vietnamese">Vietnámi</string>
+    <string name="lang_afrikaans">Afrikánsz</string>
+    <string name="lang_malagasy">Malgasz</string>
+    <string name="lang_russian">Orosz</string>
+    <string name="lang_ukrainian">Ukrán</string>
+    <string name="lang_turkish">Török</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Cseh</string>
+    <string name="lang_slovak">Szlovák</string>
+    <string name="lang_slovenian">Szlovén</string>
+    <string name="lang_serbian">Szerb</string>
+    <string name="lang_croatian">Horvát</string>
+    <string name="lang_romanian">Román</string>
+    <string name="lang_swedish">Svéd</string>
+    <string name="lang_norwegian">Norvég</string>
+    <string name="lang_finnish">Finn</string>
+    <string name="lang_danish">Dán</string>
+    <string name="lang_dutch">Holland</string>
+    <string name="lang_bulgarian">Bolgár</string>
+    <string name="lang_persian">Perzsa</string>
+    <string name="lang_somali">Szomáli</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_greek">Görög</string>
+    <string name="lang_albanian">Albán</string>
+    <string name="lang_polish">Lengyel</string>
+</resources>

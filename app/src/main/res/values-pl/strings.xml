@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Fundacja Usui Spiritual Lernejo\nWszelkie prawa zastrzeżone.</string>
+    <string name="nav_poems">Dzisiejszy wiersz</string>
+    <string name="nav_settings">Ustawienia</string>
+    <string name="nav_about">O firmie</string>
+    <string name="nav_use">Jak używać</string>
+    <string name="logout">Wyloguj</string>
+    <string name="account">Konto</string>
+    <string name="language">Język</string>
+    <string name="user_interface">Wiersze</string>
+    <string name="setting_poems">Dodatkowe ustawienia</string>
+    <string name="additional_settings">Interfejs użytkownika</string>
+    <string name="repeat_song">Powtórz piosenkę</string>
+    <string name="on">Na</string>
+    <string name="off">Wyłączony</string>
+    <string name="wait_between_repeats">Odstęp czasowy między powtórzeniami</string>
+    <string name="poems_for_day">Meiji Waka dnia</string>
+    <string name="refresh_poem">Dostajesz  wiersza z serwera, proszę czekać…</string>
+    <string name="logout_message">Czy chcesz się wylogować?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="change_language">Zmień Język</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="lang_english">Angielski</string>
+    <string name="lang_japanese">Japońska</string>
+    <string name="lang_hungarian">Węgierski</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Niemiecki</string>
+    <string name="lang_spanish">Hiszpański</string>
+    <string name="lang_lao">Laotański</string>
+    <string name="lang_thai">Tajski</string>
+    <string name="lang_indonesian">Indonezyjski</string>
+    <string name="lang_malaysian">Malezyjski</string>
+    <string name="lang_italian">Włoski</string>
+    <string name="lang_french">Francuski</string>
+    <string name="lang_arabic">Arabski</string>
+    <string name="lang_swahili">Suahili</string>
+    <string name="lang_chinese_mandarin">Chiński (Mandaryński)</string>
+    <string name="lang_portugese">Portugalski</string>
+    <string name="lang_korean">Koreański</string>
+    <string name="lang_vietnamese">Wietnamski</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malgaski</string>
+    <string name="lang_russian">Rosyjski</string>
+    <string name="lang_ukrainian">Ukraiński</string>
+    <string name="lang_turkish">Turecki</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czeski</string>
+    <string name="lang_slovak">Słowacki</string>
+    <string name="lang_slovenian">Słoweński</string>
+    <string name="lang_serbian">Serbski</string>
+    <string name="lang_croatian">Chorwacki</string>
+    <string name="lang_romanian">Rumuński</string>
+    <string name="lang_swedish">Szwedzki</string>
+    <string name="lang_norwegian">Norweski</string>
+    <string name="lang_finnish">Fiński</string>
+    <string name="lang_danish">Duński</string>
+    <string name="lang_dutch">Holenderski</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_albanian">Albański</string>
+    <string name="lang_greek">Grecki</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somalijski</string>
+    <string name="lang_persian">Perski</string>
+    <string name="lang_bulgarian">Bułgarski</string>
+    <string name="email">E-Mail</string>
+    <string name="dialog_sub">Prześlij</string>
+    <string name="dialog_password_sent_message">Wyślemy Ci nowe hasło, jeśli masz u nas zarejestrowane konto</string>
+    <string name="internet_error">Nie można wysłać żądania. Sprawdź połączenie internetowe.</string>
+    <string name="valid_email">Wpisz swój adres e-mail</string>
+    <string name="valid_password">Wprowadź swoje hasło</string>
+    <string name="sing_in">Zaloguj się</string>
+    <string name="sign_in_continue">Zaloguj się, aby kontynuować</string>
+    <string name="password">Hasło</string>
+    <string name="remember">Zapamiętaj mnie</string>
+    <string name="login">Zaloguj sie</string>
+    <string name="forgot_password">Zapomniałeś hasła?</string>
+    <string name="wrong_credentials">Wprowadzono nieprawidłowe dane uwierzytelniające</string>
+    <string name="seconds">s (sekundy) </string>
+    <string name="about_us_descript">"Rozwój tej aplikacji był nadzorowany przez mistrzów Reiki, którzy mieli zaszczyt uczyć się Reiki w Japonii.
+
+Uważamy, że aby prawidłowo praktykować Reiki, należy zapoznać się z poniższymi informacjami, które mogą być przydatne dla praktykujących wszystkie szkoły Reiki, ponieważ podstawy są wspólne:
+
+1. Historia życia Usui Sensei.
+2. Historia Usui Reiki od samego początku.
+3. Dokładne tłumaczenia Gokai.
+4. Tłumaczenie pierwszej i drugiej części Usui Reiki Hikkei.
+5. Meiji Tennō Gyosei (czwarta część Usui Reiki Hikkei) do medytacji.
+6. Medytacja Usui Reiki
+
+Nasza aplikacja zapewnia pomoc w ćwiczeniu punktu piątego. Prosimy o rozszerzenie codziennej praktyki poprzez wyrażenie wdzięczności dla Usui Reiki Ryoho Gakkai, jego byłych i obecnych praktyków oraz Mistrzów za utrzymanie praktyki oraz za ochronę i strzeżenie Usui Reiki Ryoho w Japonii do dnia dzisiejszego.
+
+Przewodnik do praktyki:
+Opierając się na naukach Mistrza Usui oraz na naszym doświadczeniu, zalecamy wykonywanie medytacji dwa razy dziennie, rano i wieczorem, zaraz po przebudzeniu i przed pójściem spać. Czas trwania jest dowolny. Na zakończenie medytacji należy odmówić Gokai po japońsku lub w swoim ojczystym języku. Następnie proponujemy podziękować Usui Reiki Ryoho Gakkai, jak już wspomnieliśmy wcześniej.
+
+Jeśli jesteś tłumaczem literackim i znalazłeś jakieś błędy w naszych tłumaczeniach, wyślij swoją opinię na adres daechong@protonmail.com, abyśmy mogli omówić Twój komentarz z biurem tłumaczeń.
+
+Mamy szczerą nadzieję, że nasza aplikacja pomoże wam w codziennej praktyce."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

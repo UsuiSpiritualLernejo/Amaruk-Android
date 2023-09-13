@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Vandaag\'s gedicht</string>
+    <string name="nav_settings">Instellingen</string>
+    <string name="nav_about">Over ons</string>
+    <string name="nav_use">Gebruiksaanwijzing</string>
+    <string name="logout">Uitloggen</string>
+    <string name="account">Account</string>
+    <string name="language">Taal</string>
+    <string name="user_interface">Gebruikersomgeving</string>
+    <string name="setting_poems">Gedichten</string>
+    <string name="additional_settings">Aanvullende instellingen</string>
+    <string name="repeat_song">Herhaal nummer</string>
+    <string name="on">Op</string>
+    <string name="off">Uit</string>
+    <string name="wait_between_repeats">Tijdsinterval tussen herhalingen</string>
+    <string name="poems_for_day">Meiji Waka van de dag</string>
+    <string name="refresh_poem">Gedicht ophalen van server, even geduld aub…</string>
+    <string name="logout_message">Wil je uitloggen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="change_language">Taal wijzigen</string>
+    <string name="save">Opslaan</string>
+    <string name="cancel">Annuleren</string>
+    <string name="lang_english">Engels</string>
+    <string name="lang_japanese">Japans</string>
+    <string name="lang_hungarian">Hongaars</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Duits</string>
+    <string name="lang_spanish">Spaans</string>
+    <string name="lang_lao">Laos</string>
+    <string name="lang_thai">Thais</string>
+    <string name="lang_indonesian">Indonesisch</string>
+    <string name="lang_malaysian">Maleisisch</string>
+    <string name="lang_italian">Italiaans</string>
+    <string name="lang_french">Frans</string>
+    <string name="lang_arabic">Arabisch</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Chinees (Mandarijn)</string>
+    <string name="lang_portugese">Portugees</string>
+    <string name="lang_korean">Koreaans</string>
+    <string name="lang_vietnamese">Vietnamees</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Madagaskar-</string>
+    <string name="lang_russian">Russisch</string>
+    <string name="lang_ukrainian">Oekraïens</string>
+    <string name="lang_turkish">Turks</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Tsjechisch</string>
+    <string name="lang_slovak">Slowaaks</string>
+    <string name="lang_slovenian">Sloveens</string>
+    <string name="lang_serbian">Servisch</string>
+    <string name="lang_croatian">Kroatisch</string>
+    <string name="lang_romanian">Roemeense</string>
+    <string name="lang_swedish">Zweeds</string>
+    <string name="lang_norwegian">Noors</string>
+    <string name="lang_finnish">Fins</string>
+    <string name="lang_danish">Deens</string>
+    <string name="lang_dutch">Nederlands</string>
+    <string name="lang_polish">Pools</string>
+    <string name="lang_albanian">Albanees</string>
+    <string name="lang_greek">Grieks</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Joruba</string>
+    <string name="lang_somali">Somalich</string>
+    <string name="lang_persian">Perzisch</string>
+    <string name="lang_bulgarian">Bulgaars</string>
+    <string name="email">E-mail</string>
+    <string name="dialog_sub">Indienen</string>
+    <string name="dialog_password_sent_message">We sturen je een nieuw wachtwoord als je een geregistreerd account bij ons hebt</string>
+    <string name="internet_error">Kan verzoek niet verzenden. Controleer uw internetverbinding.</string>
+    <string name="valid_email">Vul alstublieft uw e-mail adres in</string>
+    <string name="valid_password">Voer uw wachtwoord in</string>
+    <string name="sing_in">Aanmelden</string>
+    <string name="sign_in_continue">Log in om door te gaan</string>
+    <string name="password">Wachtwoord</string>
+    <string name="remember">Onthoud mij</string>
+    <string name="login">Log in</string>
+    <string name="forgot_password">Wachtwoord vergeten?</string>
+    <string name="wrong_credentials">U heeft verkeerde inloggegevens ingevoerd</string>
+    <string name="seconds">s (seconden)</string>
+    <string name="about_us_descript">"De ontwikkeling van deze app werd begeleid door Reiki Masters die de eer hadden om Reiki te leren in Japan.
+
+Om Reiki goed te kunnen beoefenen, vinden we het belangrijk om bekend te zijn met het volgende, wat nuttig kan zijn voor beoefenaars van alle Reiki-scholen, aangezien de basis algemeen is:
+
+1. Het levensverhaal van Usui Sensei
+2. Het verhaal van Usui Reiki vanaf het begin
+3. Nauwkeurige vertalingen van de Gokai
+4. De vertaling van het eerste en tweede deel van de Usui Reiki Hikkei
+5. De Meiji Tennō Gyosei (het vierde deel van de Usui Reiki Hikkei) voor meditatie
+6. De Usui Reiki-meditatie
+
+Onze app biedt hulp om het vijfde punt te oefenen. Breid je dagelijkse beoefening uit door je dankbaarheid te uiten aan de Usui Reiki Ryoho Gakkai, zijn vroegere en huidige beoefenaars en meesters voor het onderhouden van de beoefening en voor het beschermen en bewaken van de Usui Reiki Ryoho in Japan tot op de dag van vandaag.
+
+Praktijkgids:
+Op basis van de leer van Meester Usui en ook onze ervaring, raden we aan om de meditatie twee keer per dag te doen, 's morgens en' s avonds, direct na het ontwaken en voor het naar bed gaan. De duur is optioneel. Reciteer de Gokai in het Japans of in je moedertaal aan het einde van je meditatie. Daarna stellen we voor om de Usui Reiki Ryoho Gakkai te bedanken, zoals we eerder vermeldden.
+
+Als u een literair vertaler bent en fouten aantreft in onze vertalingen, stuur dan uw feedback naar daechong@protonmail.com zodat we uw opmerking met het vertaalbureau kunnen bespreken.
+
+We hopen van harte dat onze app je zal helpen in je dagelijkse praktijk."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nXuquuqda oo dhan way xifdisan yihiin</string>
+    <string name="nav_poems">Gabayga maanta</string>
+    <string name="nav_settings">Dejinta</string>
+    <string name="nav_about">Nagu Saabsan</string>
+    <string name="nav_use">Sidee Loo Isticmaalaa</string>
+    <string name="logout">Ka Bax</string>
+    <string name="account">Koontada</string>
+    <string name="language">Luuqada</string>
+    <string name="user_interface">Shaashada Isticnaalaha</string>
+    <string name="setting_poems">Gabayada</string>
+    <string name="additional_settings">Dajinta Dheeraadka Ah</string>
+    <string name="repeat_song">ku celi heesta</string>
+    <string name="on">Daar</string>
+    <string name="off">Dami</string>
+    <string name="wait_between_repeats">Waqtiga u dhexeeya soo noqnoqoshada</string>
+    <string name="poems_for_day">Meiji Waka ga Maalinta</string>
+    <string name="refresh_poem">Gabay ayaan ka helayaa serverka Fadlan Isug</string>
+    <string name="logout_message">Ma waxaad doonaysaa inaad ka baxdo ?</string>
+    <string name="yes">Haa</string>
+    <string name="no">Maya</string>
+    <string name="change_language">Luuqada Badal </string>
+    <string name="save">Kaydi</string>
+    <string name="cancel">Jooji</string>
+    <string name="lang_english">English</string>
+    <string name="lang_japanese">Japanese</string>
+    <string name="lang_hungarian">Hungarian</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">German</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonesian</string>
+    <string name="lang_malaysian">Malaysian</string>
+    <string name="lang_italian">Italian</string>
+    <string name="lang_french">French</string>
+    <string name="lang_arabic">Arabic</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">Chinese (Mandarin)</string>
+    <string name="lang_portugese">Portugese</string>
+    <string name="lang_korean">Korean</string>
+    <string name="lang_vietnamese">Vietnamese</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Russian</string>
+    <string name="lang_ukrainian">Ukrainian</string>
+    <string name="lang_turkish">Turkish</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czech</string>
+    <string name="lang_slovak">Slovak</string>
+    <string name="lang_slovenian">Slovenian</string>
+    <string name="lang_serbian">Serbian</string>
+    <string name="lang_croatian">Croatian</string>
+    <string name="lang_romanian">Romanian</string>
+    <string name="lang_swedish">Swedish</string>
+    <string name="lang_norwegian">Norwegian</string>
+    <string name="lang_finnish">Finnish</string>
+    <string name="lang_danish">Danish</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="lang_polish">Polish</string>
+    <string name="lang_albanian">Albaaniyaan</string>
+    <string name="lang_greek">Giriig</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Yurub</string>
+    <string name="lang_somali">Soomaali</string>
+    <string name="lang_persian">Faaris</string>
+    <string name="lang_bulgarian">Bulgaariya</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Buuxi</string>
+    <string name="dialog_password_sent_message">Waxaan kuu soo diri doonaa furaha sirta ah ee cusub haddii aad nagu leedahay akoon diiwaan gashan</string>
+    <string name="internet_error">Ma diri Karno Codsi , Fadlan hubi xidhiidhkaaga internetka.</string>
+    <string name="valid_email">Fadlan gali emailkaaga</string>
+    <string name="valid_password">Fadlan gali fure-sireedkaaga</string>
+    <string name="sing_in">Gudaha u gal</string>
+    <string name="sign_in_continue">Gudaha ugal si aad u sii wado</string>
+    <string name="password">Fure-sireed</string>
+    <string name="remember">I Soo Xasuusi</string>
+    <string name="login">Gudaha u gal</string>
+    <string name="forgot_password">Fure-sireedii waan ilaaway</string>
+    <string name="wrong_credentials">Waxaad galisay aqoonsi khaldan</string>
+    <string name="seconds">m (Mirir) </string>
+    <string name="about_us_descript">"Horumarinta app-kan waxa kormeeray mudanayaasha  Reiki oo sharaf u lahaa inay ku bartaan Reiki gudaha Japan.
+
+ Si loogu dhaqmo Reiki si sax ah, waxaan aaminsanahay inay muhiim tahay in la barto kuwan soo socda, kuwaas oo faa'iido u yeelan kara xirfadlayaasha dhammaan dugsiyada Reiki, maadaama aasaasku yahay mid caadi ah:
+
+ 1. Sheekada nololeed ee Usui Sensei
+ 2. Sheekada Usui Reiki bilowgii
+ 3. Turjumaada saxda ah ee Gokai
+ 4. Turjumaada qaybta kowaad iyo labaad ee Usui Reiki Hikkei
+ 5. Meiji Tennō Gyosei (qaybta afraad ee Usui Reiki Hikkei) ee ka fiirsashada
+ 6. Usui Reiki meditation
+
+ App-kayagu waxa uu bixiyaa caawimo lagu celceliyo qodobka shanaad.  Fadlan kordhi hawshaada maalinlaha ah adigoo u mahadcelinaya Usui Reiki Ryoho Gakkai, hawl-wadeenadeedii hore iyo kuwa hadda, iyo Masters-ka ee ilaalinta dhaqanka iyo ilaalinta iyo ilaalinta Usui Reiki Ryoho ee Japan ilaa maantadan la joogo.
+
+ Hagaha dhaq-dhaqaaqa:
+ Iyada oo ku saleysan waxbaridda Master Usui iyo sidoo kale waayo-aragnimadeena, waxaan kugula talineynaa inaad sameyso ka-fiirsashada laba jeer maalintii, subaxdii iyo fiidkii, isla markiiba ka dib markaad toosto iyo ka hor intaanan seexan.  Muddadu waa ikhtiyaari.  Fadlan ku akhri Gokai-ka Jabbaan ama afkaaga hooyo dhamaadka fikirkaaga.  Intaa ka dib, waxaan soo jeedineynaa in aan u mahadcelino Usui Reiki Ryoho Gakkai, sida aan horay u soo sheegnay.
+
+ Haddii aad tahay turjumaan suugaaneed oo aad ku aragto wax khalad ah tarjumaadahayada, fadlan u soo dir ra'yi-celintaada daechong@protonmail.com si aan ugala hadalno faalladaada xafiiska tarjumaada.
+
+ Waxaan si dhab ah u rajaynaynaa in app-kayaga uu kaa caawin doono hawl maalmeedkaaga."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

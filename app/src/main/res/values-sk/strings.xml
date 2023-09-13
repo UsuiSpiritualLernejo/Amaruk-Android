@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nVšetky práva vyhradené</string>
+    <string name="nav_poems">Dnešná báseň</string>
+    <string name="nav_settings">Nastavenia</string>
+    <string name="nav_about">O nás</string>
+    <string name="nav_use">Ako to používať</string>
+    <string name="logout">Odhlásiť sa</string>
+    <string name="account">Účet</string>
+    <string name="language">Jazyk</string>
+    <string name="user_interface">Užívateľské rozhranie</string>
+    <string name="setting_poems">Básne</string>
+    <string name="additional_settings">Ďalšie nastavenia</string>
+    <string name="repeat_song">Opakovať skladbu</string>
+    <string name="on">Zapnuté</string>
+    <string name="off">Vypnuté</string>
+    <string name="wait_between_repeats">Časový interval medzi opakovaniami</string>
+    <string name="poems_for_day">Meiji Waka dňa</string>
+    <string name="refresh_poem">Načítanie básne zo servera, čakajte prosím…</string>
+    <string name="logout_message">Chcete sa odhlásiť?</string>
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
+    <string name="change_language">Zmeniť jazyk</string>
+    <string name="save">Uložiť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="lang_english">Angličtina</string>
+    <string name="lang_japanese">Japončina</string>
+    <string name="lang_hungarian">Maďarčina</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Nemčina</string>
+    <string name="lang_spanish">Španielčina</string>
+    <string name="lang_lao">Laoština</string>
+    <string name="lang_thai">Thajčina</string>
+    <string name="lang_indonesian">Indonézština</string>
+    <string name="lang_malaysian">Malajčina</string>
+    <string name="lang_italian">Taliančina</string>
+    <string name="lang_french">Francúzština</string>
+    <string name="lang_arabic">Arabčina</string>
+    <string name="lang_swahili">Svahilčina</string>
+    <string name="lang_chinese_mandarin">Čínština (Mandarínčina)</string>
+    <string name="lang_portugese">Portugalčina</string>
+    <string name="lang_korean">Kórejčina</string>
+    <string name="lang_vietnamese">Vietnamčina</string>
+    <string name="lang_afrikaans">Afrikánčina</string>
+    <string name="lang_malagasy">Malgačina</string>
+    <string name="lang_russian">Ruština</string>
+    <string name="lang_ukrainian">Ukrajinčina</string>
+    <string name="lang_turkish">Turečtina</string>
+    <string name="lang_urdu">Urdčina</string>
+    <string name="lang_czech">Čeština</string>
+    <string name="lang_slovak">Slovenčina</string>
+    <string name="lang_slovenian">Slovinčina</string>
+    <string name="lang_serbian">Srbčina</string>
+    <string name="lang_croatian">Chorvátčina</string>
+    <string name="lang_romanian">Rumunčina</string>
+    <string name="lang_swedish">Švédčina</string>
+    <string name="lang_norwegian">Nórčina</string>
+    <string name="lang_finnish">Fínčina</string>
+    <string name="lang_danish">Dánčina</string>
+    <string name="lang_dutch">Holandčina</string>
+    <string name="lang_polish">Poľština</string>
+    <string name="lang_albanian">Albánčina</string>
+    <string name="lang_greek">Gréčtina</string>
+    <string name="lang_igbo">Igboština</string>
+    <string name="lang_hausa">Hauština</string>
+    <string name="lang_yoruba">Jorubčina</string>
+    <string name="lang_somali">Somálčina</string>
+    <string name="lang_persian">Perzština</string>
+    <string name="lang_bulgarian">Bulharčina</string>
+    <string name="email">E-mail</string>
+    <string name="dialog_sub">Odoslať</string>
+    <string name="dialog_password_sent_message">Pokiaľ u nás máte zaregistrovaný účet, zašleme vám nové heslo</string>
+    <string name="internet_error">Žiadosť sa nepodarilo odoslať. Skontrolujte prosím svoje internetové pripojenie.</string>
+    <string name="valid_email">Prosím, zadajte svoju e-mailovú adresu</string>
+    <string name="valid_password">Prosím, zadajte svoje heslo</string>
+    <string name="sing_in">Prihlásiť sa</string>
+    <string name="sign_in_continue">Ak chcete pokračovať, prihláste sa</string>
+    <string name="password">Heslo</string>
+    <string name="remember">Zapamätať si ma</string>
+    <string name="login">Prihlásiť sa</string>
+    <string name="forgot_password">Zabudnuté heslo?</string>
+    <string name="wrong_credentials">Zadali ste nesprávne prihlasovacie údaje</string>
+    <string name="seconds">s (sekundy)</string>
+    <string name="about_us_descript">"Na vývoj tejto aplikácie dohliadali majstri Reiki, ktorí mali tú česť naučiť sa Reiki v Japonsku.
+
+Veríme, že pre správne praktizovanie Reiki je dôležité poznať nasledujúce informácie, ktoré by mohli byť užitočné pre praktizujúcich všetkých škôl Reiki, pretože základ je spoločný:
+
+1. Životný príbeh Usui Senseia
+2. Príbeh Usui Reiki od začiatku
+3. Presné preklady Gokai
+4. Preklad prvej a druhej časti Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (štvrtá časť Usui Reiki Hikkei) pre meditáciu
+6. Meditácia Usui Reiki
+
+Naša aplikácia poskytuje pomoc pri precvičovaní piateho bodu. Prosím, rozšírte svoju každodennú prax vyjadrením vďačnosti Usui Reiki Ryoho Gakkai, jej minulým aj súčasným praktizujúcim a Majstrom za udržiavanie praxe a za ochranu a stráženie Usui Reiki Ryoho v Japonsku dodnes.
+
+Návod na precvičovanie:
+Na základe učenia Majstra Usuia a tiež našich skúseností odporúčame vykonávať meditáciu dvakrát denne, ráno a večer, hneď po prebudení a pred spaním. Doba trvania je voliteľná. Na konci meditácie recitujte Gokai v japončine alebo vo svojom rodnom jazyku. Potom odporúčame poďakovať Usui Reiki Ryoho Gakkai, ako sme spomenuli predtým.
+
+Ak ste literárny prekladateľ a nájdete v našich prekladoch nejaké chyby, pošlite ich prosím na daechong@protonmail.com, aby sme mohli váš komentár prediskutovať s prekladateľskou kanceláriou.
+
+Úprimne dúfame, že vám naša aplikácia pomôže s každodennou praxou."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

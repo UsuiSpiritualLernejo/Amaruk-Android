@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">حق نشر ۲۰۲۰ بنیاد مدرسه معنوی اوسویی\nتمامی حقوق محفوظ است</string>
+    <string name="nav_poems">شعر امروز</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_about">درباره ما</string>
+    <string name="nav_use">طرز استفاده</string>
+    <string name="logout">خروج</string>
+    <string name="account">حساب کاربری</string>
+    <string name="language">زبان</string>
+    <string name="user_interface">رابط کاربری</string>
+    <string name="setting_poems">اشعار</string>
+    <string name="additional_settings">تنظیمات بیشتر</string>
+    <string name="repeat_song">تکرار سروده</string>
+    <string name="on">روشن</string>
+    <string name="off">خاموش</string>
+    <string name="wait_between_repeats">فاصله زمانی میان تکرارها</string>
+    <string name="poems_for_day">میجی واکای امروز</string>
+    <string name="refresh_poem">در حال دریافت شعر از سرور، لطفاً صبر کنید…</string>
+    <string name="logout_message">آیا می‌خواهید خارج شوید؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="change_language">تغییر زبان</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">لغو</string>
+    <string name="lang_english">انگلیسی</string>
+    <string name="lang_japanese">ژاپنی</string>
+    <string name="lang_hungarian">مجارستانی</string>
+    <string name="lang_esperanto">اسپرانتور</string>
+    <string name="lang_german">آلمانی</string>
+    <string name="lang_spanish">اسپانیایی</string>
+    <string name="lang_lao">تایی</string>
+    <string name="lang_thai">تایلندی</string>
+    <string name="lang_indonesian">اندونزیایی</string>
+    <string name="lang_malaysian">مالایی</string>
+    <string name="lang_italian">ایتالیایی</string>
+    <string name="lang_french">فرانسوی</string>
+    <string name="lang_arabic">عربی</string>
+    <string name="lang_swahili">سواحیلی</string>
+    <string name="lang_chinese_mandarin">چینی (ماندارین)</string>
+    <string name="lang_portugese">پرتغالی</string>
+    <string name="lang_korean">کره‌ای</string>
+    <string name="lang_vietnamese">ویتنامی</string>
+    <string name="lang_afrikaans">آفریکانس</string>
+    <string name="lang_malagasy">مالاگاسی</string>
+    <string name="lang_russian">روسی</string>
+    <string name="lang_ukrainian">اوکراینی</string>
+    <string name="lang_turkish">ترکی</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_czech">چکی</string>
+    <string name="lang_slovak">اسلواکی</string>
+    <string name="lang_slovenian">اسلوونیایی</string>
+    <string name="lang_serbian">صربی</string>
+    <string name="lang_croatian">کرواتی</string>
+    <string name="lang_romanian">رومانیایی</string>
+    <string name="lang_swedish">سوئدی</string>
+    <string name="lang_norwegian">نروژی</string>
+    <string name="lang_finnish">فنلاندی</string>
+    <string name="lang_danish">دانمارکی</string>
+    <string name="lang_dutch">هلندی</string>
+    <string name="lang_polish">لهستانی</string>
+    <string name="lang_albanian">آلبانیایی</string>
+    <string name="lang_greek">یونانی</string>
+    <string name="lang_igbo">ایگبو</string>
+    <string name="lang_hausa">هوسه</string>
+    <string name="lang_yoruba">یوروبا</string>
+    <string name="lang_somali">سومالیایی</string>
+    <string name="lang_persian">فارسی</string>
+    <string name="lang_bulgarian">بلغاری</string>
+    <string name="email">ایمیل</string>
+    <string name="dialog_sub">ارسال</string>
+    <string name="dialog_password_sent_message">اگر حساب کاربری ثبت شده‌ای نزد ما داشته باشید ما کلمه عبور جدیدی برای شما ارسال خواهیم کرد</string>
+    <string name="internet_error">ارسال درخواست ممکن نیست. لطفاً اتصال اینترنت خود را بررسی کنید.</string>
+    <string name="valid_email">لطفاً آدرس ایمیل خود را وارد کنید</string>
+    <string name="valid_password">لطفاً کلمه عبور خود را وارد کنید</string>
+    <string name="sing_in">ورود</string>
+    <string name="sign_in_continue">برای ادامه وارد شود</string>
+    <string name="password">کلمه عبور</string>
+    <string name="remember">مرا به خاطر بسپار</string>
+    <string name="login">ورود</string>
+    <string name="forgot_password">کلمه عبور را فراموش کرده‌اید؟</string>
+    <string name="wrong_credentials">شما اطلاعات کاربری را به اشتباه وارد کرده‌اید</string>
+    <string name="seconds">ثانیه</string>
+    <string name="about_us_descript">"توسعه این برنامه زیر نظر استادان ریکی که افتخار یادگیری ریکی را در ژاپن داشتند، انجام شده است.
+
+برای اینکه بتوانید ریکی را به درستی تمرین کنید، معتقدیم که حائز اهمیت است که با موارد زیر، که می‌تواند برای تمرین‌کنندگان تمام مدارس ریکی مفید باشد، آشنای داشته باشید زیرا پایه آنها مشترک است:
+
+۱. داستان زندگی اوسویی سنسی
+۲. داستان اوسویی ریکی از آغاز
+۳. ترجمه‌ دقیق گوکای
+۴. ترجمه بخش اول و دوم اوسویی ریکی هیکی
+۵. میجی تنو گیوسی (بخش چهارم اوسویی ریکی هیکی) برای مراقبه
+۶. مراقبه اوسویی ریکی
+
+برنامه ما جهت تمرین نقطه پنجم کمک می‌کند. لطفاً به تمرین روزانه ابراز قدردانی نسبت به  اوسویی ریکی ریوهو گاکای، تمرین‌کنندگان گذشته و حال، و استادان بابت ادامه به تمرین و حفاظت از اوسویی ریکی ریوهو در ژاپن تا به امروز را بیفزایید.
+
+راهنمای تمرین:
+بر اساس آموزه‌های استاد اوسویی و همچنین تجربه ما، توصیه می کنیم مراقبه را روزانه دوبار، صبح و عصر، درست پس از بیدار شدن و پیش از به خواب رفتن انجام دهید. مدت زمان آن اختیاری است. لطفا در پایان مراقبه خود گوکای را به زبان ژاپنی یا زبان مادری خود بازگو کنید. پس از آن، همانطور که قبلا ذکر شد پیشنهاد می کنیم که از اوسویی ریکی ریوهو گاکای تشکر کنید.
+
+اگر شما یک مترجم ادبی هستید و هر گونه خطایی در ترجمه های ما پیدا کردید، لطفاً بازخورد خود را به daechong@protonmail.com ارسال کنید تا بتوانیم نظر(ات) شما را با بخش ترجمه در میان بگذاریم.
+
+صمیمانه امیدواریم که برنامه ما به شما در تمرین روزانه‌تان کمک کند."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nTë gjitha të drejtat e rezervuara</string>
+    <string name="nav_poems">Poezia e sotme</string>
+    <string name="nav_settings">Cilësimet</string>
+    <string name="nav_about">Rreth Nesh</string>
+    <string name="nav_use">Si ta Përdorni</string>
+    <string name="logout">Shkyç</string>
+    <string name="account">Llogaria</string>
+    <string name="language">Gjuhe</string>
+    <string name="user_interface">Ndërfaqja e përdoruesit</string>
+    <string name="setting_poems">vjersha</string>
+    <string name="additional_settings">Cilësimet shtesë</string>
+    <string name="repeat_song">Përsërite këngën</string>
+    <string name="on">Aktiv</string>
+    <string name="off">Joaktiv</string>
+    <string name="wait_between_repeats">Intervali kohor midis përsëritjeve</string>
+    <string name="poems_for_day">Meiji Waka i ditës</string>
+    <string name="refresh_poem">Po merr poezi nga serveri, ju lutemi prisni…</string>
+    <string name="logout_message">Dëshiron të dalësh?</string>
+    <string name="yes">po</string>
+    <string name="no">Nr</string>
+    <string name="change_language">Ndrysho gjuhën</string>
+    <string name="save">Ruaj</string>
+    <string name="cancel">Anulo</string>
+    <string name="lang_english">Anglisht</string>
+    <string name="lang_japanese">Japoneze</string>
+    <string name="lang_hungarian">Hungareze</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Gjermanisht</string>
+    <string name="lang_spanish">Spanjisht</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonezisht</string>
+    <string name="lang_malaysian">Malajziane</string>
+    <string name="lang_italian">Italisht</string>
+    <string name="lang_french">Frëngjisht</string>
+    <string name="lang_arabic">Arabisht</string>
+    <string name="lang_swahili">Suahili</string>
+    <string name="lang_chinese_mandarin">Kinezisht (Mandarinisht)</string>
+    <string name="lang_portugese">Portugeze</string>
+    <string name="lang_korean">Koreane</string>
+    <string name="lang_vietnamese">Vietnameze</string>
+    <string name="lang_afrikaans">Afrikane</string>
+    <string name="lang_malagasy">Malagazi</string>
+    <string name="lang_russian">Rusisht</string>
+    <string name="lang_ukrainian">Ukrainase</string>
+    <string name="lang_turkish">Turk</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Çeke</string>
+    <string name="lang_slovak">Sllovake</string>
+    <string name="lang_slovenian">Slloven</string>
+    <string name="lang_serbian">Serb</string>
+    <string name="lang_croatian">Kroate</string>
+    <string name="lang_romanian">Rumun</string>
+    <string name="lang_swedish">Suedeze</string>
+    <string name="lang_norwegian">Norvegjeze</string>
+    <string name="lang_finnish">Finlandez</string>
+    <string name="lang_danish">Daneze</string>
+    <string name="lang_dutch">Holandeze</string>
+    <string name="lang_polish">Polonisht</string>
+    <string name="lang_albanian">Shqip</string>
+    <string name="lang_greek">Greke</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Jorubisht</string>
+    <string name="lang_somali">Somaleze</string>
+    <string name="lang_persian">Perse</string>
+    <string name="lang_bulgarian">Bullgare</string>
+    <string name="email">Email</string>
+    <string name="dialog_sub">Paraqisni</string>
+    <string name="dialog_password_sent_message">Ne do t\'ju dërgojmë një fjalëkalim të ri nëse keni një llogari të regjistruar me ne</string>
+    <string name="internet_error">Kërkesa nuk mund të dërgohej. Ju lutemi kontrolloni lidhjen tuaj të internetit.</string>
+    <string name="valid_email">Ju lutemi shkruani adresën tuaj të emailit</string>
+    <string name="valid_password">Ju lutem vendosni fjalëkalimin tuaj</string>
+    <string name="sing_in">Hyni</string>
+    <string name="sign_in_continue">Identifikohu për të vazhduar</string>
+    <string name="password">Fjalëkalimi</string>
+    <string name="remember">Më kujto Mua</string>
+    <string name="login">Identifikohu</string>
+    <string name="forgot_password">Keni harruar fjalëkalimin?</string>
+    <string name="wrong_credentials">Ju keni futur kredenciale të gabuara</string>
+    <string name="seconds">s (sekonda)</string>
+    <string name="about_us_descript">"Zhvillimi i këtij aplikacioni është mbikëqyrur nga mjeshtra Reiki të cilët patën nderin të mësojnë Reiki në Japoni.
+
+Për të praktikuar Reiki siç duhet, ne besojmë se është e rëndësishme të njihemi me sa vijon, e cila mund të jetë e dobishme për praktikuesit e të gjitha shkollave Reiki, pasi themeli është i zakonshëm:
+
+1. Historia e jetës së Usui Senseit
+2. Historia e Usui Reiki nga fillimi
+3. Përkthime të sakta të Gokait
+4. Përkthimi i pjesës së parë dhe të dytë të Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (pjesa e katërt e Usui Reiki Hikkei) për meditim
+6. Meditimi Usui Reiki
+
+Aplikacioni ynë ofron ndihmë për të praktikuar pikën e pestë. Ju lutemi zgjeroni praktikën tuaj të përditshme duke shprehur mirënjohje ndaj Usui Reiki Ryoho Gakkai, praktikuesve të tij të kaluar dhe të tanishëm dhe Mjeshtrave për ruajtjen e praktikës dhe për mbrojtjen dhe ruajtjen e Usui Reiki Ryoho në Japoni deri më sot.
+
+Udhëzues për të praktikuar:
+Bazuar në mësimet e Mjeshtrit Usui dhe gjithashtu përvojën tonë, ju rekomandojmë të bëni meditimin dy herë në ditë, në mëngjes dhe në mbrëmje, menjëherë pas zgjimit dhe para se të shkoni në shtrat. Kohëzgjatja është fakultative. Ju lutemi recitoni Gokai në japonisht ose në gjuhën tuaj amtare në fund të meditimit tuaj. Pas kësaj, ne sugjerojmë të falënderojmë Usui Reiki Ryoho Gakkai, siç e përmendëm më parë.
+
+Nëse jeni një përkthyes letrar dhe gjeni ndonjë gabim në përkthimet tona, ju lutemi dërgoni komentet tuaja në daechong@protonmail.com në mënyrë që të diskutojmë komentin tuaj me zyrën e përkthimit.
+
+Ne sinqerisht shpresojmë që aplikacioni ynë do t'ju ndihmojë me praktikën tuaj të përditshme."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

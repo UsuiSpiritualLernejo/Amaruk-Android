@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">Vandag se gedig</string>
+    <string name="nav_settings">Stellings</string>
+    <string name="nav_about">Meer oor ons</string>
+    <string name="nav_use">Hoe om te gebruik</string>
+    <string name="logout">"Teken uit "</string>
+    <string name="account">Rekening</string>
+    <string name="language">Taal</string>
+    <string name="user_interface">Gebruikerskoppelvlak</string>
+    <string name="setting_poems">Addisionele stellings</string>
+    <string name="additional_settings">Gedigte</string>
+    <string name="repeat_song">Herhaal liedjie</string>
+    <string name="on">Aan</string>
+    <string name="off">Af</string>
+    <string name="wait_between_repeats">Tydsinterval tussen herhalings</string>
+    <string name="poems_for_day">Meiji Waka van die Dag</string>
+    <string name="refresh_poem">"Ons kry die gedig van die bediner, wag asb. "</string>
+    <string name="logout_message">Wil jy uitteken?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="change_language">Verander taal</string>
+    <string name="save">Stoor</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="lang_english">Engels</string>
+    <string name="lang_japanese">Japannees</string>
+    <string name="lang_hungarian">Hongaars</string>
+    <string name="lang_esperanto">Esperanto</string>
+    <string name="lang_german">Duits</string>
+    <string name="lang_spanish">Spaans</string>
+    <string name="lang_lao">Laos</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonesië</string>
+    <string name="lang_malaysian">Maleisië</string>
+    <string name="lang_italian">Italië</string>
+    <string name="lang_french">Frans</string>
+    <string name="lang_arabic">"Arabies "</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="lang_chinese_mandarin">China mandaryn</string>
+    <string name="lang_portugese">Portugees</string>
+    <string name="lang_korean">Korea</string>
+    <string name="lang_vietnamese">Viëtnamees</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malgassies</string>
+    <string name="lang_russian">Russies</string>
+    <string name="lang_ukrainian">Oekraïne</string>
+    <string name="lang_turkish">Turkye</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Tsjeggies</string>
+    <string name="lang_slovak">Tsjeggo-Slowaak</string>
+    <string name="lang_slovenian">Sloweens</string>
+    <string name="lang_serbian">Serwies</string>
+    <string name="lang_croatian">Croaties</string>
+    <string name="lang_romanian">Roemeens</string>
+    <string name="lang_swedish">Sweeds</string>
+    <string name="lang_norwegian">"Noors "</string>
+    <string name="lang_finnish">Fins</string>
+    <string name="lang_danish">Deens</string>
+    <string name="lang_dutch">Nederlands</string>
+    <string name="email">E-pos</string>
+    <string name="dialog_sub">"Dien in "</string>
+    <string name="dialog_password_sent_message">Ons sal vir jou \'n nuwe wagwoord stuur indien jy \'n geregistreerde rekening by ons het</string>
+    <string name="internet_error">"Ons kon nie jou versoek stuur. Kyk na jou internetverbinding. "</string>
+    <string name="valid_email">"Vul asb. jou e-posadres in. "</string>
+    <string name="valid_password">"Vul asb. Jou wagwoord in. "</string>
+    <string name="sing_in">"Teken in "</string>
+    <string name="sign_in_continue">Teken in om voort te gaan</string>
+    <string name="password">"Wagwoord "</string>
+    <string name="remember">"Onthou my "</string>
+    <string name="login">"Teken in "</string>
+    <string name="forgot_password">Wagwoord vergeet?</string>
+    <string name="wrong_credentials">Jy het verkeerde besonderhede ingevul</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+Dié toep is onder die toesig van Reiki-meesters ontwikkel. Dié meesters het die voorreg gehad om Reiki in Japan te leer.
+
+Ons glo dit is belangrik om bekend te wees met die volgende aspekte, aangesien dit nuttig kan wees vir praktisyns van alle Reiki-skole, want die fondasies stem ooreen:
+
+1. Usui Sensei se lewensverhaal
+2. Die verhaal van Usui Reiki van die begin af
+3. Akkurate vertalings van die Gokai
+4. Die vertaling van die eerste en tweede deel van die Usui Reiki Hikkei
+5. Die Meiji Tennō Gyosei (die vierde deel van die Usui Reiki Hikkei) vir meditasie
+6. Die Usui Reiki-meditasie
+
+Ons toep help jou om die vyfde punt te beofen. Brei jou daaglikse oefening uit deur waardering teenoor die Usui Reiki Ryoho Gakkai, vorige en huidige praktisyns en meesters te toon vir die feit dat hulle dié praktyk behou, en dat hulle die Usui Reiki Ryoho in Japan tot vandag toe beskerm.
+
+Gids vir oefening:
+Gebaseer op die leringe van Meester Usui en ons eie ondervinding, stel ons voor dat jy die meditasie twee keer per dag doen, in die oggend en aand, net na jy wakker geword het en net voor jy gaan slaap. Hoe lank dit duur hang van jou af. Sê die Gokai in Japanees of jou eie taal op aan die einde van jou meditasie. Na dit stel ons voor dat jy dankbaarheid toon teenoor Ryoho Gakkai, soos reeds genoem.
+
+As jy ’n literêre vertaler is en enige foute in ons vertalings raaksien, stuur jou terugvoering na daechong@protonmail.com, sodat ons dit met die vertalingskantoor kan bespreek.
+    "</string>
+    <string name="lang_bulgarian">Bulgaars</string>
+    <string name="lang_persian">Persies</string>
+    <string name="lang_somali">Somalies</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_greek">Grieks</string>
+    <string name="lang_albanian">Albanees</string>
+    <string name="lang_polish">Polski</string>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Tushen makaranta ruhu USUI. An kiyaye duk haƙƙoƙi.</string>
+    <string name="nav_poems">Wakar ta yau</string>
+    <string name="nav_settings">Saituna</string>
+    <string name="nav_about">Game da Mu</string>
+    <string name="nav_use">Yadda Ake Amfani</string>
+    <string name="logout">Fita</string>
+    <string name="account">Asusu</string>
+    <string name="language">Harshe</string>
+    <string name="user_interface">Mai amfani dubawa</string>
+    <string name="setting_poems">Wakoki</string>
+    <string name="additional_settings">Ƙarin Saituna</string>
+    <string name="repeat_song">Maimaita waƙa</string>
+    <string name="on">Kunna</string>
+    <string name="off">Kashe</string>
+    <string name="wait_between_repeats">Tazarar lokaci tsakanin maimaitawa</string>
+    <string name="poems_for_day">Meiji Waka of the Day</string>
+    <string name="refresh_poem">Samun waka daga uwar garken, da fatan za a jira…</string>
+    <string name="logout_message">Kuna so ku fita?</string>
+    <string name="yes">Ee</string>
+    <string name="no">A\'a</string>
+    <string name="change_language">Canja Harshe</string>
+    <string name="save">Ajiye</string>
+    <string name="cancel">Soke</string>
+    <string name="lang_english">Turanci</string>
+    <string name="lang_japanese">Jafananci</string>
+    <string name="lang_hungarian">Harshen Hungary</string>
+    <string name="lang_esperanto">Mutanen Espanya</string>
+    <string name="lang_german">Jamusanci</string>
+    <string name="lang_spanish">Mutanen Espanya</string>
+    <string name="lang_lao">Lao</string>
+    <string name="lang_thai">Thai</string>
+    <string name="lang_indonesian">Indonesiya</string>
+    <string name="lang_malaysian">Malesiya</string>
+    <string name="lang_italian">Italiyanci</string>
+    <string name="lang_french">Faransanci</string>
+    <string name="lang_arabic">Larabci</string>
+    <string name="lang_swahili">Harshen Swahili</string>
+    <string name="lang_chinese_mandarin">Sinanci (Mandarin)</string>
+    <string name="lang_portugese">Harshen Portuguese</string>
+    <string name="lang_korean">Yaren Koriya</string>
+    <string name="lang_vietnamese">Vietnamese</string>
+    <string name="lang_afrikaans">Afrikaans</string>
+    <string name="lang_malagasy">Malagasy</string>
+    <string name="lang_russian">Rashanci</string>
+    <string name="lang_ukrainian">Ukrainian</string>
+    <string name="lang_turkish">Baturke</string>
+    <string name="lang_urdu">Urdu</string>
+    <string name="lang_czech">Czech</string>
+    <string name="lang_slovak">Slovak</string>
+    <string name="lang_slovenian">Harshen Sloveniya</string>
+    <string name="lang_serbian">Serbian</string>
+    <string name="lang_croatian">Croatian</string>
+    <string name="lang_romanian">Romanian</string>
+    <string name="lang_swedish">Yaren Mutanen Sweden</string>
+    <string name="lang_norwegian">Yaren Mutanen Norway</string>
+    <string name="lang_finnish">Finnish</string>
+    <string name="lang_danish">Danish</string>
+    <string name="lang_dutch">Yaren Mutanen Holland</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_albanian">Albaniya</string>
+    <string name="lang_greek">Girkanci</string>
+    <string name="lang_igbo">Igbo</string>
+    <string name="lang_hausa">Hausa</string>
+    <string name="lang_yoruba">Yoruba</string>
+    <string name="lang_somali">Somaliya</string>
+    <string name="lang_persian">Farisa</string>
+    <string name="lang_bulgarian">Bulgarian</string>
+    <string name="email">Imel</string>
+    <string name="dialog_sub">Sallama</string>
+    <string name="dialog_password_sent_message">Za mu aiko muku da sabon kalmar sirri idan kuna da asusun rajista tare da mu</string>
+    <string name="internet_error">An kasa aika bukata Da fatan za a duba haɗin Intanet ɗin ku.</string>
+    <string name="valid_email">Da fatan za a shigar da adireshin imel ɗin ku</string>
+    <string name="valid_password">Da fatan za a shigar da kalmar sirrinku</string>
+    <string name="sing_in">Shiga</string>
+    <string name="sign_in_continue">Shiga don ci gaba</string>
+    <string name="password">Kalmar wucewa</string>
+    <string name="remember">Tuna Ni</string>
+    <string name="login">Shiga</string>
+    <string name="forgot_password">Manta Kalmar wucewa?</string>
+    <string name="wrong_credentials">Kun shigar da takaddun shaida mara kyau</string>
+    <string name="seconds">s (dakika)</string>
+    <string name="about_us_descript">"Masanan Reiki ne suka kula da haɓakar wannan app ɗin waɗanda suka sami darajar koyon Reiki a Japan.
+
+Don yin aikin Reiki yadda ya kamata, mun yi imani yana da mahimmanci a san abubuwan da ke gaba, waɗanda zasu iya zama da amfani ga masu aiki na duk makarantun Reiki, tunda tushen ya zama gama gari:
+
+1. Tarihin rayuwar Usui Sensei
+2. Labarin Usui Reiki tun daga farko
+3. Ingantattun fassarar Gokai
+4. Fassarar kashi na farko da na biyu na Usui Reiki Hikkei
+5. Meiji Tennō Gyosei (kashi na huɗu na Usui Reiki Hikkei) don yin zuzzurfan tunani
+6. Tunanin Usui Reiki
+
+App ɗin mu yana ba da taimako don yin aiki da maki na biyar. Da fatan za a faɗaɗa ayyukan ku na yau da kullun ta hanyar nuna godiya ga Usui Reiki Ryoho Gakkai, waɗanda suka yi aiki a baya da na yanzu, da Jagora don kiyaye al'adar da kiyayewa da kiyaye Usui Reiki Ryoho a Japan har wa yau.
+
+Jagoran yin aiki:
+Dangane da koyarwar Jagora Usui da kuma kwarewarmu, muna ba da shawarar yin zuzzurfan tunani sau biyu a rana, da safe da maraice, daidai bayan an tashi da kuma kafin mu kwanta. Tsawon lokacin zaɓin zaɓi ne. Da fatan za a karanta Gokai a cikin Jafananci ko a cikin yarenku na asali a ƙarshen zuzzurfan tunani. Bayan haka, muna ba da shawarar yin godiya ga Usui Reiki Ryoho Gakkai, kamar yadda muka ambata a baya.
+
+Idan kai mai fassarar adabi ne kuma ka sami wasu kurakurai a cikin fassarorin mu, da fatan za a aiko da ra'ayoyin ku zuwa daechong@protonmail.com don mu tattauna bayanin ku tare da ofishin fassarar.
+
+Muna fatan cewa app ɗinmu zai taimaka muku da ayyukan ku na yau da kullun."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

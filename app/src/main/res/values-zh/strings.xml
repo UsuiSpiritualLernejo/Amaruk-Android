@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Usui Spiritual Lernejo Foundation\nAll rights reserved</string>
+    <string name="nav_poems">每日好诗</string>
+    <string name="nav_settings">设置</string>
+    <string name="nav_about">关于我们</string>
+    <string name="nav_use">如何使用</string>
+    <string name="logout">登出</string>
+    <string name="account">帐号</string>
+    <string name="language">语言</string>
+    <string name="user_interface">用户界面</string>
+    <string name="setting_poems">诗歌</string>
+    <string name="additional_settings">其他设置</string>
+    <string name="repeat_song">重复诗歌</string>
+    <string name="on">开始</string>
+    <string name="off">停止</string>
+    <string name="wait_between_repeats">重复之间的时间间隔</string>
+    <string name="poems_for_day">每日明治和歌</string>
+    <string name="refresh_poem">正在从服务器获取诗歌，请稍候…</string>
+    <string name="logout_message">你要登出吗？</string>
+    <string name="yes">是的</string>
+    <string name="no">不是</string>
+    <string name="change_language">改变语言</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="lang_english">英语</string>
+    <string name="lang_japanese">日语</string>
+    <string name="lang_hungarian">匈牙利语</string>
+    <string name="lang_esperanto">世界语</string>
+    <string name="lang_german">德语</string>
+    <string name="lang_spanish">西班牙语</string>
+    <string name="lang_lao">老挝语</string>
+    <string name="lang_thai">泰语</string>
+    <string name="lang_indonesian">印尼语</string>
+    <string name="lang_malaysian">马来语</string>
+    <string name="lang_italian">意大利语</string>
+    <string name="lang_french">法语</string>
+    <string name="lang_arabic">阿拉伯语</string>
+    <string name="lang_swahili">斯瓦希里语</string>
+    <string name="lang_chinese_mandarin">华语</string>
+    <string name="lang_portugese">葡萄牙语</string>
+    <string name="lang_korean">韩语</string>
+    <string name="lang_vietnamese">越南语</string>
+    <string name="lang_afrikaans">南非语</string>
+    <string name="lang_malagasy">马达加斯加语</string>
+    <string name="lang_russian">俄语</string>
+    <string name="lang_ukrainian">乌克兰语</string>
+    <string name="lang_turkish">土耳其语</string>
+    <string name="lang_urdu">乌尔都语</string>
+    <string name="lang_czech">捷克语</string>
+    <string name="lang_slovak">斯洛伐克语</string>
+    <string name="lang_slovenian">斯洛文尼亚语</string>
+    <string name="lang_serbian">塞尔维亚语</string>
+    <string name="lang_croatian">克罗地亚语</string>
+    <string name="lang_romanian">罗马尼亚语</string>
+    <string name="lang_swedish">瑞典语</string>
+    <string name="lang_norwegian">挪威语</string>
+    <string name="lang_finnish">芬兰语</string>
+    <string name="lang_danish">丹麦语</string>
+    <string name="lang_dutch">荷兰语</string>
+    <string name="email">电邮</string>
+    <string name="dialog_sub">提交</string>
+    <string name="dialog_password_sent_message">如果你在我们这里拥有一个注册帐户，我们将向你发送一个新密码</string>
+    <string name="internet_error">无法发送请求。 请检查你的互联网连接。</string>
+    <string name="valid_email">请输入你的电子邮件</string>
+    <string name="valid_password">请输入你的密码</string>
+    <string name="sing_in">登入</string>
+    <string name="sign_in_continue">登录以继续</string>
+    <string name="password">密码</string>
+    <string name="remember">记住账号</string>
+    <string name="login">登录</string>
+    <string name="forgot_password">忘记密码？</string>
+    <string name="wrong_credentials">你输入了错误的凭据</string>
+    <string name="seconds">s</string>
+    <string name="how_to_use_descript">\?</string>
+    <string name="about_us_descript">"
+该应用程序的开发由有幸在日本学习灵气疗法的灵气大师监督。
+
+为了正确地实践灵气疗法，我们认为熟悉以下内容非常重要，因为基础是共同的，这对所有灵气学校的从业者都是有帮助的：
+
+1.臼井先生的生平
+2.臼井灵气疗法从一开始的故事
+3.五戒的准确翻译
+4. Usui Reiki Hikkei的第一部分和第二部分的翻译
+5. Meiji Tennō Gyosei（Usui Reiki Hikkei的第四部分）的冥想
+6.臼井灵气疗法（Usui Reiki）的冥想
+
+我们的应用程序有助于练习第五点。 请延长你的日常练习，以感谢臼井灵气疗法学会（Usui Reiki Ryoho Gakkai），其过去和现在的从业者以及大师们，他们维持这一实践并保护和守护日本的Usui Reiki Ryoho至今日。
+
+实践指南：
+
+根据臼井大师的教导和我们的经验，我们建议每天早上和旁晚，醒来之后和睡觉之前进行一天两次的冥想。 维持冥想的时间可自行选择的。 冥想结束后，请以日语或母语朗诵五戒。 之后，我们建议你感谢我们之前提到的臼井灵气疗法学会。
+
+如果你是位文学翻译者，并发现我们的翻译中有任何错误，请将你的反馈发送至daechong@protonmail.com，以便我们与翻译部门讨论你的见解。
+
+我们衷心希望我们的应用程序可以帮助你进行日常练习。
+    "</string>
+    <string name="lang_bulgarian">保加利亚语</string>
+    <string name="lang_persian">波斯语</string>
+    <string name="lang_somali">索马里语</string>
+    <string name="lang_yoruba">乔鲁巴语</string>
+    <string name="lang_hausa">豪萨语</string>
+    <string name="lang_igbo">伊博语</string>
+    <string name="lang_greek">希腊语</string>
+    <string name="lang_albanian">阿尔巴尼亚语</string>
+    <string name="lang_polish">波兰语</string>
+</resources>

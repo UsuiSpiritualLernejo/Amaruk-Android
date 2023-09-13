@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usl_copyright">© 2020 Фондация “Усуи Спиритуал Лернехо”\nвсички права запазени</string>
+    <string name="nav_poems">Днешното стихотворение</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_about">За нас</string>
+    <string name="nav_use">Как да използваме</string>
+    <string name="logout">Излизане от акаунта</string>
+    <string name="account">Акаунт</string>
+    <string name="language">Език</string>
+    <string name="user_interface">Потребителски интерфейс</string>
+    <string name="setting_poems">Стихотворения</string>
+    <string name="additional_settings">Допълнителни настройки</string>
+    <string name="repeat_song">Повтаряне на песента</string>
+    <string name="on">Вкл.</string>
+    <string name="off">Изкл.</string>
+    <string name="wait_between_repeats">Времеви интервал между повторенията</string>
+    <string name="poems_for_day">Meiji Waka на деня</string>
+    <string name="refresh_poem">Получаване на стихотворение от сървъра, моля, изчакайте…</string>
+    <string name="logout_message">Искате ли да излезете?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="change_language">Промяна на езика</string>
+    <string name="save">Запазете</string>
+    <string name="cancel">Отказ</string>
+    <string name="lang_english">Английски Език</string>
+    <string name="lang_japanese">Японски Език</string>
+    <string name="lang_hungarian">Унгарски</string>
+    <string name="lang_esperanto">Есперанто</string>
+    <string name="lang_german">Немски</string>
+    <string name="lang_spanish">Испански</string>
+    <string name="lang_lao">Лао</string>
+    <string name="lang_thai">Тайландски</string>
+    <string name="lang_indonesian">Индонезийски</string>
+    <string name="lang_malaysian">Малайзийски</string>
+    <string name="lang_italian">Италиански</string>
+    <string name="lang_french">Френски</string>
+    <string name="lang_arabic">Арабски</string>
+    <string name="lang_swahili">Суахили</string>
+    <string name="lang_chinese_mandarin">Китайски (Мандарин)</string>
+    <string name="lang_portugese">Португалски</string>
+    <string name="lang_korean">Корейски</string>
+    <string name="lang_vietnamese">Виетнамски</string>
+    <string name="lang_afrikaans">Африкански</string>
+    <string name="lang_malagasy">Мадагаскар</string>
+    <string name="lang_russian">Руски</string>
+    <string name="lang_ukrainian">Украински</string>
+    <string name="lang_turkish">Турски</string>
+    <string name="lang_urdu">Урду</string>
+    <string name="lang_czech">Чешки</string>
+    <string name="lang_slovak">Словашки</string>
+    <string name="lang_slovenian">Словенски</string>
+    <string name="lang_serbian">Сръбски</string>
+    <string name="lang_croatian">Хърватски</string>
+    <string name="lang_romanian">Румънски</string>
+    <string name="lang_swedish">Шведски</string>
+    <string name="lang_norwegian">Норвежки</string>
+    <string name="lang_finnish">Финландски</string>
+    <string name="lang_danish">Датски</string>
+    <string name="lang_dutch">Нидерландски</string>
+    <string name="lang_polish">Полски</string>
+    <string name="lang_albanian">Албански</string>
+    <string name="lang_greek">Гръцки</string>
+    <string name="lang_igbo">Игбо</string>
+    <string name="lang_hausa">Хауса</string>
+    <string name="lang_yoruba">Йоруба</string>
+    <string name="lang_somali">Сомали</string>
+    <string name="lang_persian">Персийски</string>
+    <string name="lang_bulgarian">Български</string>
+    <string name="email">Имейл</string>
+    <string name="dialog_sub">Изпращане</string>
+    <string name="dialog_password_sent_message">Ще ви изпратим нова парола, ако имате регистриран профил при нас</string>
+    <string name="internet_error">Не успяхте да изпратите заявка. Моля, проверете интернет връзката си.</string>
+    <string name="valid_email">Моля, въведете вашия имейл адрес</string>
+    <string name="valid_password">Моля, въведете паролата си</string>
+    <string name="sing_in">Влезте</string>
+    <string name="sign_in_continue">Влезте, за да продължите</string>
+    <string name="password">Парола</string>
+    <string name="remember">Запомни ме</string>
+    <string name="login">Вход</string>
+    <string name="forgot_password">Забравена парола?</string>
+    <string name="wrong_credentials">Въвели сте грешни идентификационни данни</string>
+    <string name="seconds">s (секунди) </string>
+    <string name="about_us_descript">"Разработката на това приложение е под надзора на майстори на Рейки, които са имали честта да учат Рейки в Япония.
+
+Смятаме, че за правилното практикуване на Рейки е важно да се запознаете със следното, което би могло да бъде полезно за практикуващите от всички школи на Рейки, тъй като основата е обща:
+
+1. Историята на живота на Усуи Сенсей
+2. Историята на Усуи Рейки от самото начало
+3. Точни преводи на Гокай
+4. Превод на първата и втората част на Усуи Рейки Хиккей
+5. Гьосей на Мейджи Тенно (четвъртата част на Усуи Рейки Хиккей) за медитация
+6. Медитацията на Усуи Рейки
+
+Нашето приложение предоставя помощ за практикуване на петата точка. Моля, разширете ежедневната си практика, като изразите благодарност към Усуи Рейки Рьохо Гаккай, неговите минали и настоящи практикуващи и Учители за това, че поддържат практиката и че защитават и пазят Усуи Рейки Рьохо в Япония и до днес.
+
+Ръководство за практикуване:
+Въз основа на учението на Учителя Усуи, а също и на нашия опит, препоръчваме медитацията да се прави два пъти дневно, сутрин и вечер, веднага след събуждане и преди лягане. Продължителността е по избор. Моля, в края на медитацията прочетете Гокай на японски или на родния си език. След това ви предлагаме да благодарите на Усуи Рейки Рьохо Гакай, както споменахме по-рано.
+
+Ако сте литературен преводач и откриете някакви грешки в нашите преводи, моля изпратете обратната си връзка на daechong@protonmail.com, за да можем да обсъдим коментара ви с преводаческото бюро.
+
+Искрено се надяваме, че нашето приложение ще ви помогне в ежедневната ви практика."</string>
+    <string name="how_to_use_descript">\?</string>
+</resources>

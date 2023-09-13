@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:background="#D2D2D2">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+        <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/settingsTopGuide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.0" />
+
+
+        <TextView
+                android:id="@+id/account_header_tv"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/lato_medium"
+                android:paddingStart="@dimen/dimen_16"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="@string/account"
+                android:textColor="#000"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/settingsTopGuide" />
+
+        <TextView
+                android:id="@+id/user_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@color/colorWhite"
+                android:fontFamily="@font/lato_regular"
+                android:paddingStart="@dimen/dimen_20"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="Name"
+                android:textColor="#000"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/account_header_tv" />
+
+        <TextView
+                android:id="@+id/user_email"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorWhite"
+                android:fontFamily="@font/lato_regular"
+                android:paddingStart="@dimen/dimen_20"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="@string/email"
+                android:textColor="#000"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/user_name" />
+
+        <TextView
+                android:id="@+id/language_header"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/lato_regular"
+                android:paddingStart="@dimen/dimen_16"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="@string/language"
+                android:textColor="#000"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/user_email" />
+
+        <TextView
+                android:id="@+id/user_interface"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@color/colorWhite"
+                android:drawableEnd="@drawable/ic_arrow_right"
+                android:fontFamily="@font/lato_regular"
+                android:lineSpacingExtra="4sp"
+                android:lineSpacingMultiplier="1"
+                android:paddingStart="@dimen/dimen_20"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="@string/user_interface"
+                android:textColor="#000"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/language_header"
+                tools:ignore="UseCompatTextViewDrawableXml" />
+
+        <TextView
+                android:id="@+id/user_poems"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorWhite"
+                android:drawableEnd="@drawable/ic_arrow_right"
+                android:fontFamily="@font/lato_regular"
+                android:lineSpacingExtra="@dimen/dimen_4"
+                android:lineSpacingMultiplier="1"
+                android:paddingStart="@dimen/dimen_20"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="@string/setting_poems"
+                android:textColor="#000"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/user_interface" />
+
+        <TextView
+                android:id="@+id/additional_settings"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/lato_regular"
+                android:paddingStart="@dimen/dimen_16"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="@string/additional_settings"
+                android:textColor="#000"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/user_poems" />
+
+        <LinearLayout
+                android:id="@+id/repeat_song_layout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@color/colorWhite"
+                android:orientation="horizontal"
+                android:padding="0dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/additional_settings">
+
+            <TextView
+                    android:id="@+id/repeat_song"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:fontFamily="@font/lato_regular"
+                    android:lineSpacingExtra="@dimen/dimen_4"
+                    android:paddingStart="@dimen/dimen_20"
+                    android:paddingTop="@dimen/dimen_8"
+                    android:paddingEnd="@dimen/dimen_16"
+                    android:paddingBottom="@dimen/dimen_8"
+                    android:text="Repeat song \nOff"
+                    android:textColor="#000"
+                    android:textSize="16sp" />
+
+            <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/repeat_switch"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:paddingStart="@dimen/dimen_16"
+                    android:paddingTop="@dimen/dimen_8"
+                    android:paddingEnd="@dimen/dimen_16"
+                    android:paddingBottom="@dimen/dimen_8" />
+        </LinearLayout>
+
+        <TextView
+                android:id="@+id/wait_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_1"
+                android:background="@color/colorWhite"
+                android:fontFamily="@font/lato_regular"
+                android:paddingStart="@dimen/dimen_20"
+                android:paddingTop="@dimen/dimen_8"
+                android:paddingEnd="@dimen/dimen_16"
+                android:paddingBottom="@dimen/dimen_8"
+                android:text="Wait between repeats(1s)"
+                android:textColor="#000"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/repeat_song_layout" />
+
+        <SeekBar
+                android:id="@+id/repeat_seek_bar"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="60dp"
+                android:background="@color/colorWhite"
+                android:max="120"
+                android:min="1"
+                android:paddingStart="@dimen/dimen_30"
+                android:paddingTop="0dp"
+                android:paddingEnd="@dimen/dimen_30"
+                android:paddingBottom="@dimen/dimen_16"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/wait_text"
+                app:layout_constraintVertical_bias="0.0" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
+
